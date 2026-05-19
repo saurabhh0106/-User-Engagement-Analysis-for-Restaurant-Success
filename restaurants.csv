@@ -1,0 +1,2201 @@
+restaurant_id,name,category,city
+b01e117c-57eb-4c9d-93a5-2711e692a7e2,Restaurant_b01e117c,Mexican,New York
+95431f4e-0e5d-4434-b37a-992b75e7e72e,Restaurant_95431f4e,Cafe,Houston
+7ea33191-eeac-48d9-8c64-dd5dcdacd356,Restaurant_7ea33191,Fine Dining,Chicago
+ab299fe4-4a53-462f-8e60-4c0d9e28f762,Restaurant_ab299fe4,Mexican,Los Angeles
+681a1225-98f5-4698-ab47-64777875d02f,Restaurant_681a1225,Bar,New York
+70685643-23db-4d3e-b2e4-033286760499,Restaurant_70685643,Italian,Los Angeles
+1d9a8bd7-45b1-4c4a-8089-07b7f56a8d5f,Restaurant_1d9a8bd7,Fine Dining,Houston
+9f80e0ee-7c91-4f0e-83c0-58d1096a50fb,Restaurant_9f80e0ee,Italian,
+fe46f418-0c22-4a87-9973-a170b4c27a56,Restaurant_fe46f418,Bar,Houston
+b4686452-9b15-408b-bf65-64c401b2f44d,Restaurant_b4686452,Dessert,
+cffe721e-fb25-4ce7-86a9-f95e174ba3ee,Restaurant_cffe721e,Italian,Chicago
+2bb50770-c49e-4022-b0b9-2d4e8b6c35c6,Restaurant_2bb50770,Bar,Philadelphia
+d7d31160-5a64-4694-bb54-4a9400560041,Restaurant_d7d31160,Cafe,Chicago
+5d6c42b7-89cb-45fb-b54f-60a066aa3adc,Restaurant_5d6c42b7,Fine Dining,Philadelphia
+cb80ebb1-628a-4c7c-a760-6d387ae274a6,Restaurant_cb80ebb1,Mexican,Los Angeles
+e8e0353a-e031-471c-893c-90d4be82709d,Restaurant_e8e0353a,Bar,Los Angeles
+bc3f3a88-342f-4323-b91d-8538f2b2e1ec,Restaurant_bc3f3a88,Asian,Philadelphia
+59c78c1e-3e39-4add-a2ef-076fdb4dd638,Restaurant_59c78c1e,Cafe,New York
+a3c1cea2-dfd3-4a07-8c9c-1eb27e1eab75,Restaurant_a3c1cea2,Dessert,Los Angeles
+245512bd-7df6-4206-b196-d07bf49255c8,Restaurant_245512bd,Bar,Los Angeles
+7b36f9e8-6a95-4d54-a348-5f72fd2c09cc,Restaurant_7b36f9e8,Cafe,Philadelphia
+4685f17e-f5f5-4087-b8f2-eaaa8e6e00da,Restaurant_4685f17e,Fine Dining,Los Angeles
+aa21a746-85f3-41f4-bb28-6c02ab79ad3e,Restaurant_aa21a746,Italian,Houston
+67ece72b-745d-4f2b-b00a-7831034b8b5d,Restaurant_67ece72b,Cafe,Los Angeles
+29aa9ad8-f45d-4f25-af3d-20f71344df24,Restaurant_29aa9ad8,Fine Dining,Los Angeles
+04a21fb7-a460-43e5-ba45-6f5978c02b33,Restaurant_04a21fb7,Bar,Phoenix
+865ea817-592d-43a9-b483-68d60370e17d,Restaurant_865ea817,Dessert,Philadelphia
+3817b5ae-90e7-415f-874f-b9eed61c20d2,Restaurant_3817b5ae,Fast Food,Philadelphia
+43aad390-908a-47cf-bad7-3005eb37026c,Restaurant_43aad390,Asian,Houston
+68bd97e0-229c-457c-aebb-ab89392189be,Restaurant_68bd97e0,Cafe,Los Angeles
+1eea36e3-f6bc-4ae8-aa52-c55c2bb01eca,Restaurant_1eea36e3,Fast Food,Houston
+93bf6b75-3cc8-4d19-a786-d94a9e641fd5,Restaurant_93bf6b75,Fast Food,San Diego
+679ff6e4-1934-4f05-b869-6545b52e0b55,Restaurant_679ff6e4,Bar,Phoenix
+7d260fca-6eb8-4eba-85a4-52aa9c447d6c,Restaurant_7d260fca,Fine Dining,Philadelphia
+0fe688f0-e410-473c-8eb2-e45265e2947a,Restaurant_0fe688f0,Italian,Houston
+6df59d0a-502e-46f7-978e-e0aca0960226,Restaurant_6df59d0a,Italian,Philadelphia
+8d0c46c0-e791-4b53-a9db-6515b999ed40,Restaurant_8d0c46c0,Bar,Phoenix
+f74847d0-ea2c-483e-919c-6ea575541f3e,Restaurant_f74847d0,Mexican,Houston
+d842643f-9173-4cf2-b3ff-84f07224dc53,Restaurant_d842643f,Asian,Houston
+c43d6096-3287-4bbb-ac9a-4ff50b44cb6b,Restaurant_c43d6096,Dessert,San Antonio
+737a933e-7f67-4c7d-88af-205b2f3664b7,Restaurant_737a933e,Dessert,Chicago
+a12881a9-67c9-437e-ba8f-8b9cf8c9ac73,Restaurant_a12881a9,Cafe,Chicago
+4420e7c1-0577-41ed-8f45-322c0a44f8b6,Restaurant_4420e7c1,Fine Dining,Phoenix
+9863f836-9f4a-4d8f-9269-5dac496d4a5e,Restaurant_9863f836,Bar,San Antonio
+b8b75403-3d46-4085-b26d-0a09dc6d36ec,Restaurant_b8b75403,Asian,Houston
+65adf49e-1796-42a0-9edf-32cee7c602b8,Restaurant_65adf49e,Fast Food,San Diego
+07ff5ae8-8872-4b27-988c-3f95f1f94405,Restaurant_07ff5ae8,Mexican,New York
+e65c79ad-7c55-4a59-8986-64f407b2f071,Restaurant_e65c79ad,Mexican,Chicago
+81ef546d-f764-4ab1-af5c-05e7fa32a174,Restaurant_81ef546d,Fast Food,San Antonio
+4e320528-bec4-46ee-a278-17797562ab64,Restaurant_4e320528,Mexican,San Antonio
+93a5975e-3478-4643-8470-254de19ecd3b,Restaurant_93a5975e,Bar,San Diego
+256f2029-c4a6-4f2e-a441-781215a3b71f,Restaurant_256f2029,Cafe,New York
+8437f2d5-80fd-40ab-a8cc-dc5be2785258,Restaurant_8437f2d5,Mexican,Phoenix
+8b362dce-c855-4791-8362-d6afdba10a87,Restaurant_8b362dce,Asian,Los Angeles
+43a1e526-da04-4ef3-81cc-2b4b51dfac8e,Restaurant_43a1e526,Cafe,San Antonio
+63ec2462-2d6a-4b1e-ba9e-b3a23457e755,Restaurant_63ec2462,Fast Food,San Diego
+e11d75bd-51dc-432c-a9fc-d4a81f652c91,Restaurant_e11d75bd,Italian,Phoenix
+5d64b752-94de-4119-a6b4-d5716d7aeac7,Restaurant_5d64b752,Fast Food,Los Angeles
+545b5b43-d545-428b-9e7f-2dc3efbbd05a,Restaurant_545b5b43,Cafe,Houston
+428b9712-b99c-443e-ab7b-f3b4253d01d1,Restaurant_428b9712,Fast Food,Philadelphia
+1481eab1-3465-4c9c-9d42-3b98ae8b9b2b,Restaurant_1481eab1,Fast Food,New York
+a512a0d5-58c9-434d-b568-e0364b3687c0,Restaurant_a512a0d5,Asian,San Diego
+0a345f5e-b85c-40ff-a08c-bf89c0f5339e,Restaurant_0a345f5e,Italian,Los Angeles
+aae71612-c3a9-4442-8c2b-5c40f3af5fb1,Restaurant_aae71612,Asian,Phoenix
+20248172-ef63-418a-be9d-4d50a954b37b,Restaurant_20248172,Fine Dining,New York
+c6bfa68a-3e7e-46c8-bdad-d6c4d8f7c977,Restaurant_c6bfa68a,Fine Dining,Los Angeles
+ebb09ca8-7f6e-46a2-904a-6d8960f9eca0,Restaurant_ebb09ca8,Mexican,San Diego
+89968058-46fa-49e5-bc12-44def7912295,Restaurant_89968058,Mexican,Chicago
+71c86df1-57fd-417e-b9e7-23794c773cec,Restaurant_71c86df1,Fast Food,San Diego
+5a45c77e-61ec-4816-9dcf-62e5232da4b5,Restaurant_5a45c77e,Fast Food,Phoenix
+75e4f208-8f0a-48d7-be04-cd645f047278,Restaurant_75e4f208,Bar,Houston
+f35f1b29-4567-47b7-8c9b-b06e21bb2bae,Restaurant_f35f1b29,Fine Dining,Phoenix
+a5160985-b718-4ee2-b505-498a6c980f18,Restaurant_a5160985,Bar,Philadelphia
+e0a44426-da90-4868-b318-b26b8e8ef70d,Restaurant_e0a44426,Dessert,San Diego
+2ba4df3f-6473-47a4-9cdb-986ab1d8455f,Restaurant_2ba4df3f,Mexican,Houston
+aea391f3-1ba0-4f20-81e8-5549713cf1db,Restaurant_aea391f3,Fine Dining,Los Angeles
+f71d78a1-ab92-4679-9859-66c6f1f20b1a,Restaurant_f71d78a1,Asian,New York
+7f66fccb-86b8-4857-acab-99445ee3fedc,Restaurant_7f66fccb,Fine Dining,Houston
+1dc3222d-e954-4f7f-821c-2cc7b10a6864,Restaurant_1dc3222d,Italian,Los Angeles
+a0deaeed-f500-4248-b120-a4747effdce7,Restaurant_a0deaeed,Italian,Houston
+9f9d7466-a61a-4e5f-b417-8b8f57a7c797,Restaurant_9f9d7466,Mexican,New York
+3b427e96-097f-4f24-a8af-21f70274ceea,Restaurant_3b427e96,Asian,Los Angeles
+253958b0-799e-49d7-a7c3-104c01106ae6,Restaurant_253958b0,Fine Dining,Phoenix
+f7d5683f-88a7-4fc5-a70e-934de86b2827,Restaurant_f7d5683f,Dessert,Houston
+153270ee-9062-43fd-a91a-ae00ce1bf36d,Restaurant_153270ee,Fast Food,San Diego
+e71a33d4-0fbf-418f-9dea-a40797c8bcc2,Restaurant_e71a33d4,Fine Dining,
+43d1978b-8e2e-46ed-8019-610336513f7f,Restaurant_43d1978b,Bar,Houston
+1bbcf0f9-c551-451d-a7bf-68d0d49ceadb,Restaurant_1bbcf0f9,Mexican,Los Angeles
+a37e5f08-c042-488b-99fa-f9237c19d5a0,Restaurant_a37e5f08,Bar,Philadelphia
+6c8cbbe6-f3ae-4253-9897-4c24cdae53c8,Restaurant_6c8cbbe6,Bar,San Antonio
+3c32370e-2530-4bfc-ac73-ccd3e27d06fa,Restaurant_3c32370e,Dessert,New York
+bee942dd-35de-44e8-be97-fc8ec8c30a7a,Restaurant_bee942dd,Mexican,New York
+d67bed36-7157-4117-b4ab-cd465d3d6303,Restaurant_d67bed36,Bar,Philadelphia
+43537929-61c8-4dfc-bec9-f600c96d3a66,Restaurant_43537929,Mexican,Houston
+dda28d87-8f04-43ad-8166-adfaa04e7f32,Restaurant_dda28d87,Fine Dining,Houston
+b53175c7-5d1b-4dfa-abeb-c7315d2f93a8,Restaurant_b53175c7,Dessert,Chicago
+68b8013c-6c8f-47e2-a8b9-e5920edf40a9,Restaurant_68b8013c,Bar,Chicago
+05fe6819-612f-42d3-ba12-af76fcc2beb2,Restaurant_05fe6819,Cafe,San Diego
+bc68856b-b371-463a-805b-01797d9f229d,Restaurant_bc68856b,Fine Dining,Los Angeles
+6727a199-fbd7-47a1-b2e0-63e63336cff4,Restaurant_6727a199,Dessert,Los Angeles
+f305f9a3-222f-4924-bfb4-060904b7760b,Restaurant_f305f9a3,Italian,New York
+cc94e67e-7476-438f-bda4-a6b301426751,Restaurant_cc94e67e,Mexican,Houston
+bb07e9ac-a604-4c3f-89bd-c0351f2219e1,Restaurant_bb07e9ac,Fast Food,San Antonio
+4a5b8dc2-febc-45e2-ad08-f0e1b23eb97c,Restaurant_4a5b8dc2,Dessert,San Diego
+c32aac63-cb24-4e2f-9b4c-ac830ace4b05,Restaurant_c32aac63,Fine Dining,
+ddb53435-527f-4b53-834a-594ea9b307ed,Restaurant_ddb53435,Italian,Chicago
+2c97baa4-83f5-4fab-b92c-ceef3a87e943,Restaurant_2c97baa4,Bar,New York
+467e4d67-f505-486d-8da1-518eb279b8cf,Restaurant_467e4d67,Bar,Phoenix
+3f416380-4758-46ef-88d0-72ff56ec5b9b,Restaurant_3f416380,Dessert,Phoenix
+1f7be5a8-4b39-4b80-9424-eccddc1ba7f8,Restaurant_1f7be5a8,Bar,San Diego
+19a711b3-16e6-4a63-ba18-61256a8c95fc,Restaurant_19a711b3,Fast Food,Houston
+fa796acf-f3e0-4821-aa8c-88efb3854b7f,Restaurant_fa796acf,Cafe,Houston
+05b4da60-9ada-418f-a3a7-d8819bb01ff7,Restaurant_05b4da60,Italian,New York
+c7a0bab9-9f66-4750-9c68-7603e6eee78a,Restaurant_c7a0bab9,Asian,New York
+d3f344e4-8f30-41c1-a32c-f8c734abe46f,Restaurant_d3f344e4,Italian,San Diego
+63a66a96-2091-458f-b244-5c25fe569467,Restaurant_63a66a96,Fast Food,
+ec5808ca-939c-47ed-be07-5149781aa3e7,Restaurant_ec5808ca,Mexican,Chicago
+5d1d1e40-e1e7-47c0-8bea-d733b1315ecf,Restaurant_5d1d1e40,Mexican,Los Angeles
+a5b0cd1a-6ef5-4f10-bbca-a89a343f3dfd,Restaurant_a5b0cd1a,Fine Dining,San Antonio
+99c1a66f-d5dd-46ae-af61-1887a2139c3c,Restaurant_99c1a66f,Mexican,Houston
+a3fbf1a5-9741-4af7-bb66-ec90928b8872,Restaurant_a3fbf1a5,Italian,Los Angeles
+469e8c38-1cc7-4a7d-982a-c75d8539c9a2,Restaurant_469e8c38,Bar,Philadelphia
+a732ccdc-4dfc-4c31-872d-7aabad6407a9,Restaurant_a732ccdc,Cafe,Houston
+1edbc818-2118-4d53-a79d-e7b84471eba0,Restaurant_1edbc818,Asian,Houston
+3482b85c-e763-43b1-963a-80939ff80498,Restaurant_3482b85c,Cafe,San Antonio
+ae4fd62e-2d4f-4a9c-a3e9-7781bb18eb94,Restaurant_ae4fd62e,Fast Food,Phoenix
+ffc1deaf-b76b-4134-bc16-14b0cc47addb,Restaurant_ffc1deaf,Dessert,Philadelphia
+5f5d9e94-d5b7-49cc-b6e1-60dc8da52d2d,Restaurant_5f5d9e94,Mexican,New York
+46826649-5b6d-42dc-8cf8-dafebc4af464,Restaurant_46826649,Dessert,Los Angeles
+ce41258f-23ef-4d0b-9776-b09102b49041,Restaurant_ce41258f,Mexican,Houston
+9c61a435-7005-416c-b314-fc36629b5ada,Restaurant_9c61a435,Cafe,Chicago
+e358663d-b51e-4c54-b33f-b4ab9d41d461,Restaurant_e358663d,Asian,Los Angeles
+1b7c7045-660e-4dd0-9c4e-d91085755d1f,Restaurant_1b7c7045,Fine Dining,Philadelphia
+333f5f92-163b-4680-b4c7-da528ed8df36,Restaurant_333f5f92,Cafe,Chicago
+194452cf-93da-441d-a797-c623696c6d3e,Restaurant_194452cf,Dessert,Phoenix
+f014b67c-e7d5-43e8-adcb-59afb7148104,Restaurant_f014b67c,Italian,Phoenix
+46f6e4b5-0b42-46cc-ab2e-cd7da5fa5f4e,Restaurant_46f6e4b5,Mexican,
+91533c47-1207-4e8d-9277-765cb6c0fbb6,Restaurant_91533c47,Cafe,Los Angeles
+18a13947-2070-4dff-a23c-ddf71ebc4cf1,Restaurant_18a13947,Mexican,Chicago
+8651bbff-824a-40be-82a4-d742260fda40,Restaurant_8651bbff,Cafe,Phoenix
+24f7f539-8e3c-4f62-98d4-5194a5af184a,Restaurant_24f7f539,Fine Dining,Philadelphia
+519d15bc-d677-497e-a58e-e501a11d7234,Restaurant_519d15bc,Fine Dining,Phoenix
+50a1b7d1-b23e-4c09-98c9-a10124959da4,Restaurant_50a1b7d1,Dessert,Phoenix
+dba2c443-9ced-4a07-a058-505e889898bd,Restaurant_dba2c443,Italian,Los Angeles
+14ec465a-b708-4c4f-a10a-e1e28afd8b43,Restaurant_14ec465a,Bar,Phoenix
+25f6dcb0-7ce6-44e6-a34a-68ebcba5c88e,Restaurant_25f6dcb0,Italian,New York
+9eb3ea24-a8cb-43e1-aac8-77ef6fdce2cc,Restaurant_9eb3ea24,Asian,Chicago
+7ee1ff3d-4fdd-440b-9023-83f71fee6ad9,Restaurant_7ee1ff3d,Cafe,Chicago
+d873a188-55a7-462b-9f71-3a2b6041bc93,Restaurant_d873a188,Dessert,San Antonio
+aec580b9-bcd5-4358-ac57-c7ad1a3efb8c,Restaurant_aec580b9,Italian,Los Angeles
+e4101652-16a5-49fc-ae7f-6cc4252a28d1,Restaurant_e4101652,Mexican,Chicago
+84635e3c-3574-41f8-9a8d-e7ca50f03357,Restaurant_84635e3c,Italian,Philadelphia
+9e4880f8-9640-4a22-b258-51baa68d9968,Restaurant_9e4880f8,Fast Food,San Antonio
+33ffb209-4e6c-4e43-ab36-b4acb731cb73,Restaurant_33ffb209,Fast Food,
+1e1e1873-9bb4-48bc-a516-b6907a9504c6,Restaurant_1e1e1873,Cafe,Philadelphia
+ca2eed1f-b68d-405b-a31e-80f685bded52,Restaurant_ca2eed1f,Italian,Philadelphia
+8c464ac4-45b0-407e-8259-e382a047718e,Restaurant_8c464ac4,Fine Dining,Houston
+c3edbde9-06ef-43b2-8358-782f66733910,Restaurant_c3edbde9,Mexican,Philadelphia
+a82718f8-5358-4720-b67b-8b8575b752a0,Restaurant_a82718f8,Bar,Chicago
+b5a01648-4e88-4b86-8a0f-743495d58c90,Restaurant_b5a01648,Fine Dining,Chicago
+6a2d63cc-2886-404d-9333-71ff85de1192,Restaurant_6a2d63cc,Fast Food,San Antonio
+f49ed3a9-039b-4a41-b74f-0d7c6c9d774e,Restaurant_f49ed3a9,Italian,Chicago
+a329b347-b834-464f-adfd-9e86ee145220,Restaurant_a329b347,Asian,San Antonio
+8a466f61-33e8-4c47-8904-201e3cf03ba5,Restaurant_8a466f61,Fine Dining,Phoenix
+2389c860-6e20-4d52-859c-a349589c3bf2,Restaurant_2389c860,Fast Food,Los Angeles
+f45827fa-e8fe-49cd-afa7-322d67d229aa,Restaurant_f45827fa,Bar,New York
+3bec8498-5934-4b57-bba4-85c7f2d1b528,Restaurant_3bec8498,Dessert,Houston
+91e584fb-4a21-44da-9ed0-2b9634c78858,Restaurant_91e584fb,Fine Dining,San Diego
+839124c2-3576-40d6-b9c4-1ccfd321bcbe,Restaurant_839124c2,Asian,Phoenix
+ceafd0ce-e57e-461c-89cf-759f983f33d3,Restaurant_ceafd0ce,Fine Dining,Houston
+a8e5c35d-35f4-4f10-9d01-ac412370318d,Restaurant_a8e5c35d,Italian,Houston
+04fa7c5f-b007-4d40-9b38-4ee2242a0b00,Restaurant_04fa7c5f,Bar,Philadelphia
+9f4c50f9-9c24-42a0-9327-fb48906c5181,Restaurant_9f4c50f9,Cafe,Los Angeles
+513836e0-06fd-43a4-b2b5-0a1e8ececfc1,Restaurant_513836e0,Cafe,Philadelphia
+9e66292c-378c-4a97-b039-cabcf05fa780,Restaurant_9e66292c,Bar,Philadelphia
+359dcce1-a7d2-4ff3-993c-86bec29bd19e,Restaurant_359dcce1,Italian,Los Angeles
+19143138-4965-49cd-86c4-616d00a7b8b2,Restaurant_19143138,Cafe,Chicago
+db562177-ddb5-462f-916e-fd552e1cbbb1,Restaurant_db562177,Cafe,New York
+4747da38-bbae-4d07-ae2a-13ae9eeb25e9,Restaurant_4747da38,Mexican,San Antonio
+2840a071-7836-46cb-8145-56d05a9bc60c,Restaurant_2840a071,Asian,Philadelphia
+60f281cc-2833-4062-8a93-d7fd0854d829,Restaurant_60f281cc,Bar,Los Angeles
+8d86beb1-c8a5-4d7c-b9ff-6ada570e8a38,Restaurant_8d86beb1,Bar,Houston
+76942796-a51c-4524-9c77-8433b731a7bd,Restaurant_76942796,Cafe,New York
+6434205a-bb0b-4fd5-a68a-fd3dfc128ec1,Restaurant_6434205a,Bar,New York
+b4fd23b9-3484-4841-a5a2-7c39cc1d55c2,Restaurant_b4fd23b9,Fine Dining,Philadelphia
+656997df-c4a0-4215-b46b-8d8f15087977,Restaurant_656997df,Bar,Los Angeles
+e2316063-cb50-4b6a-8ae6-0122a1dcfabf,Restaurant_e2316063,Asian,
+f98364f8-dae1-4da3-a97b-e42642564c83,Restaurant_f98364f8,Mexican,Phoenix
+24332084-be49-4417-b49f-491a2202ef27,Restaurant_24332084,Cafe,San Antonio
+d6dcf500-e5d0-4603-89c4-68de716549c5,Restaurant_d6dcf500,Asian,San Antonio
+0fd2eb3e-cfac-4e25-8114-64709c9b6a9d,Restaurant_0fd2eb3e,Cafe,Chicago
+428f2f1c-e363-4443-949b-d653f4ca551d,Restaurant_428f2f1c,Fine Dining,San Antonio
+bdca3dd8-32bf-4efd-bc1e-9e4bcabf9d11,Restaurant_bdca3dd8,Bar,Chicago
+0a095f9c-6508-4052-858d-deae40ced530,Restaurant_0a095f9c,Cafe,San Antonio
+4469c6e8-5502-4e16-b44e-cf834eeaa229,Restaurant_4469c6e8,Italian,Phoenix
+f51a1ad4-2d9f-4b34-bccf-2fa1ae47d346,Restaurant_f51a1ad4,Cafe,Houston
+a8e060d7-48eb-46ca-b7a8-9457d29698e7,Restaurant_a8e060d7,Bar,Philadelphia
+072554c4-fc5b-4a8a-80fc-e2494edcc4b9,Restaurant_072554c4,Dessert,San Diego
+0924cd80-2361-4407-9e45-768047569917,Restaurant_0924cd80,Dessert,Houston
+664f751d-ce4b-4ff6-956b-41d0f40389da,Restaurant_664f751d,Dessert,Chicago
+968da645-e65b-4a9d-942a-c6d761428b5e,Restaurant_968da645,Mexican,Phoenix
+60cbf160-8cb7-4675-bf3c-fcab911b4e9a,Restaurant_60cbf160,Asian,Los Angeles
+d31ea016-7981-411c-9e56-e538532769f9,Restaurant_d31ea016,Fine Dining,Phoenix
+2f908935-bfd8-4bc4-8a50-2538be5184e7,Restaurant_2f908935,Fine Dining,Houston
+409a1b36-1766-49f1-83c3-20a72a71cd2e,Restaurant_409a1b36,Fast Food,New York
+db43667e-32eb-4818-9b34-32f04a535b1e,Restaurant_db43667e,Italian,Houston
+154b7c8d-3b6b-4e84-8d3f-749941c89c84,Restaurant_154b7c8d,Dessert,Los Angeles
+67b6e86c-6b06-4ce5-b99e-3edb73f6ff7e,Restaurant_67b6e86c,Dessert,San Antonio
+fc463e1f-d39a-42e2-aead-ad10839233de,Restaurant_fc463e1f,Fine Dining,San Antonio
+cfe3eef1-1eec-4107-b53e-2421bf822471,Restaurant_cfe3eef1,Dessert,San Antonio
+0d33d533-92a3-4478-b57e-344920595a78,Restaurant_0d33d533,Fine Dining,Chicago
+0f701b2a-5731-433d-95a7-96e8790b77aa,Restaurant_0f701b2a,Italian,Los Angeles
+36d761a0-70df-4db5-b81c-32b4297e6774,Restaurant_36d761a0,Bar,Houston
+0b7edcca-9cb9-4221-8c60-96ddef4c3122,Restaurant_0b7edcca,Fast Food,San Diego
+d17070f4-124e-4c7a-93e1-341385ffbd1f,Restaurant_d17070f4,Italian,Houston
+fce77a03-bd61-48aa-ae9b-50cf0c803f91,Restaurant_fce77a03,Mexican,San Diego
+df525427-7cde-4eac-a65e-77723804dba6,Restaurant_df525427,Fast Food,San Diego
+a2c0670f-ae9b-4482-bf4c-6debd4bc7a84,Restaurant_a2c0670f,Asian,San Diego
+4c38f931-8678-4d61-ad6f-2e76a4daa402,Restaurant_4c38f931,Bar,San Diego
+c7e95bd0-bfa4-4236-a7b9-898992e7c042,Restaurant_c7e95bd0,Fast Food,San Diego
+b683cb95-41f8-4481-bc90-1f2492f9a2fd,Restaurant_b683cb95,Dessert,Phoenix
+84848c9f-5d1e-4040-b703-ecfa313ad96f,Restaurant_84848c9f,Fine Dining,Phoenix
+4ab52ade-8a89-44d3-b579-42b22e3b961b,Restaurant_4ab52ade,Dessert,Houston
+a0c263d6-1c25-4fb4-ade6-30fa28be7783,Restaurant_a0c263d6,Cafe,San Diego
+9f0ffae3-9b30-46b9-8583-3eb69ab92139,Restaurant_9f0ffae3,Mexican,Phoenix
+402bdc72-e385-46cf-af41-bd51d5d2094f,Restaurant_402bdc72,Fine Dining,Phoenix
+e47df60f-5874-475b-b5df-5e82b4821d5a,Restaurant_e47df60f,Asian,Philadelphia
+8012a4b7-9561-4ffd-bae3-e35f5df4239b,Restaurant_8012a4b7,Mexican,Chicago
+5e891b98-ddd1-46da-b31d-f29e52bc36e7,Restaurant_5e891b98,Fast Food,Houston
+4ea1d97e-c33e-493d-bc30-f1f4a0ad12b6,Restaurant_4ea1d97e,Bar,Chicago
+f62a8b92-6c37-40e5-9626-7bd6e6e60350,Restaurant_f62a8b92,Fine Dining,Los Angeles
+cc923438-1e77-4b94-abcb-e4d23c257cd7,Restaurant_cc923438,Bar,San Antonio
+9d2a0274-3856-4375-af2c-8a68f0ed1534,Restaurant_9d2a0274,Asian,San Diego
+e59d36ed-6a9d-4682-9c58-3b09c24e3e39,Restaurant_e59d36ed,Bar,New York
+5ca625f7-5ebd-404a-86ff-42a725d0a554,Restaurant_5ca625f7,Fine Dining,San Antonio
+3a0eb77e-519c-4279-9a87-84de8c7b8926,Restaurant_3a0eb77e,Bar,New York
+7afc7d97-4279-4221-a136-7fbd4bf770e2,Restaurant_7afc7d97,Bar,San Diego
+f33311d7-991e-407d-b65d-a19c3dd5da48,Restaurant_f33311d7,Italian,Philadelphia
+ce5cb3ea-fdf4-4875-bdfe-e39c76f353aa,Restaurant_ce5cb3ea,Cafe,San Antonio
+e633dcfd-efb4-4a28-862a-997e6d059613,Restaurant_e633dcfd,Bar,Houston
+113df967-75df-436b-ae57-2edd3c477f2a,Restaurant_113df967,Dessert,Houston
+f332b30a-c2cc-4a60-831d-9d67054b0574,Restaurant_f332b30a,Cafe,San Antonio
+cf4aab4a-9290-406b-ad9f-25a440d2d4e4,Restaurant_cf4aab4a,Dessert,New York
+2e3193ba-4dd3-4ea0-92f2-a0166bedbe42,Restaurant_2e3193ba,Bar,Philadelphia
+25c07ecf-6d50-4c8d-9c15-e1dca3ca4582,Restaurant_25c07ecf,Bar,Chicago
+16b5e5a7-96a7-4b9b-8c44-0f676f4337f3,Restaurant_16b5e5a7,Dessert,Chicago
+edfd5cb0-82be-44ab-ae16-2b9bf1b98dad,Restaurant_edfd5cb0,Italian,San Antonio
+d8a774e9-af93-4bd1-bbe3-633c85aec495,Restaurant_d8a774e9,Italian,Los Angeles
+657e4a2d-13da-467d-8f0a-fd7ec9798c16,Restaurant_657e4a2d,Bar,Chicago
+e8407bf3-d8db-4caf-b7ab-6619494f038c,Restaurant_e8407bf3,Dessert,Chicago
+662796cd-77aa-45c1-9f87-0f36aea9575f,Restaurant_662796cd,Italian,Phoenix
+8700d810-b2fa-491e-80aa-cdfdaf2f2c02,Restaurant_8700d810,Bar,Philadelphia
+30e33c14-b688-46af-809b-1ba0037b8b86,Restaurant_30e33c14,Fine Dining,San Diego
+d6dc3346-f109-4580-bee1-71055cc334c2,Restaurant_d6dc3346,Asian,Philadelphia
+2e6030b2-0ffe-4345-bd9e-7a1295769584,Restaurant_2e6030b2,Bar,Phoenix
+4b617736-f42f-4ccb-8bdd-6ab897533045,Restaurant_4b617736,Bar,Phoenix
+b9f81150-9c4e-4709-aee7-47f9f1eee235,Restaurant_b9f81150,Mexican,San Diego
+67302ebd-ed72-4a14-a726-4147eaab8d8f,Restaurant_67302ebd,Italian,New York
+7a6e2856-a7bb-4508-b60e-07bb50c5106c,Restaurant_7a6e2856,Asian,Houston
+f2dc7685-cc3c-459e-942f-42c09a05af19,Restaurant_f2dc7685,Mexican,New York
+9a1c0a7a-1a20-4966-b5ac-c94082609d9a,Restaurant_9a1c0a7a,Italian,Houston
+eeda29b8-eed8-49a5-bd05-dd58d30679e0,Restaurant_eeda29b8,Fine Dining,New York
+530e2af1-1aa7-4561-9dae-a8d35d973b60,Restaurant_530e2af1,Fast Food,Houston
+cc284927-a56d-437c-a0fc-cf1be05c9ad6,Restaurant_cc284927,Fast Food,San Diego
+52b745cb-1c8a-406f-bd76-e91c469eae33,Restaurant_52b745cb,Mexican,Houston
+c01f7bbb-8bab-416f-b6f4-0c0c5811a0d7,Restaurant_c01f7bbb,Dessert,Phoenix
+a13e6292-1c47-47ac-8b03-204fd5b74d08,Restaurant_a13e6292,Asian,Chicago
+322f503e-b6e3-44ca-a7df-08a1db9da863,Restaurant_322f503e,Mexican,Chicago
+52e1605f-fa88-4554-96bc-53cf4cacb6fb,Restaurant_52e1605f,Cafe,Los Angeles
+5ff5a41c-0996-4b53-9603-32306e73828c,Restaurant_5ff5a41c,Italian,Phoenix
+9d814529-9161-42a0-a50a-3acad8f0e619,Restaurant_9d814529,Bar,San Antonio
+9bcc58af-45f3-416e-8e25-db0ffaa95553,Restaurant_9bcc58af,Fine Dining,Los Angeles
+b8b08e85-f9b0-4bdd-81c3-ea7120f21edc,Restaurant_b8b08e85,Fine Dining,Los Angeles
+cfcb0113-ec10-4097-954e-bdfd299c37f8,Restaurant_cfcb0113,Cafe,
+06c81c5f-db11-4303-b6af-82395190799a,Restaurant_06c81c5f,Italian,Philadelphia
+be0a5421-d4d6-4454-9a91-9b7cf3191e5d,Restaurant_be0a5421,Bar,Philadelphia
+e2e7a116-4c86-47c6-b7ad-978e210f5be3,Restaurant_e2e7a116,Mexican,Philadelphia
+ff73cbc3-79da-4259-84ca-4571e0d8dba7,Restaurant_ff73cbc3,Italian,San Antonio
+f60b2cf3-e1bf-469a-aac8-6256b03c3e3c,Restaurant_f60b2cf3,Dessert,Los Angeles
+5f809c19-283a-4aad-aeb9-668677389c3e,Restaurant_5f809c19,Bar,Philadelphia
+e348b9f6-1cdf-4928-a756-aed19cee5032,Restaurant_e348b9f6,Dessert,Chicago
+280af32d-af87-4401-91eb-86eef6373e33,Restaurant_280af32d,Bar,Chicago
+959f8817-126b-46dd-b98e-6b17019b0d60,Restaurant_959f8817,Cafe,San Diego
+cb88e26e-c19d-4240-a884-f3ae553963e9,Restaurant_cb88e26e,Dessert,San Antonio
+892e0120-61fa-4c1e-837e-4c1532976732,Restaurant_892e0120,Cafe,Philadelphia
+c3ea5b0f-68bf-4d9a-a647-318791899084,Restaurant_c3ea5b0f,Fine Dining,Los Angeles
+fe2386a1-c495-4a8d-b09a-37447dca159b,Restaurant_fe2386a1,Cafe,San Diego
+7ffd0a11-8137-464d-8eb9-2a0ad47b8af6,Restaurant_7ffd0a11,Fine Dining,San Diego
+081bb98b-64cf-41b9-ad5f-bb0f6cfe2d4b,Restaurant_081bb98b,Bar,Philadelphia
+ba663666-541e-4fb8-b9ab-2e725155b850,Restaurant_ba663666,Italian,San Diego
+25980da9-0c9b-4792-bbfd-c008377bd241,Restaurant_25980da9,Asian,Chicago
+09653a4a-f208-4278-8d2f-de9d2e0120b6,Restaurant_09653a4a,Dessert,Houston
+be705393-572a-4b13-9044-84795be0099a,Restaurant_be705393,Asian,Phoenix
+59575f9e-2199-4768-82ad-3f47327b39cd,Restaurant_59575f9e,Asian,Phoenix
+6ae7fe19-f7dc-441f-ab6e-45c755db77e0,Restaurant_6ae7fe19,Cafe,New York
+80d2a0b2-8a89-40ac-ba96-dbef1008bdd9,Restaurant_80d2a0b2,Fine Dining,Los Angeles
+b0c11d40-6a65-46e1-8367-3791186f8bab,Restaurant_b0c11d40,Fine Dining,San Antonio
+520234dc-03cb-435d-b75f-98ff089fafbb,Restaurant_520234dc,Dessert,Houston
+13a942c4-f761-4e4c-aa09-239158a4df16,Restaurant_13a942c4,Dessert,San Diego
+39d37ed6-a11a-46ad-a72d-8ffa982aff80,Restaurant_39d37ed6,Dessert,New York
+d0c8d349-4189-4247-ba65-b041962f9d56,Restaurant_d0c8d349,Mexican,Phoenix
+a17a5088-e8a6-46fd-8445-e421cba18314,Restaurant_a17a5088,Fine Dining,San Antonio
+7639dbdc-43a8-480b-97fc-32f147e6cda2,Restaurant_7639dbdc,Fine Dining,Phoenix
+ece70be7-1347-4e5a-a1d8-e26b53a9808c,Restaurant_ece70be7,Asian,San Diego
+742cf361-b592-4220-a397-bfe878f136ae,Restaurant_742cf361,Asian,San Antonio
+acd0b2ef-bab2-4c30-89b5-86122c8dac8f,Restaurant_acd0b2ef,Asian,Philadelphia
+4c058796-99ca-4817-a20d-047e0e2cb2cb,Restaurant_4c058796,Dessert,Phoenix
+cc196191-ebe4-4a05-a814-1e75de266ff4,Restaurant_cc196191,Cafe,Phoenix
+bc56d00c-5157-4716-94c8-cd870069eede,Restaurant_bc56d00c,Fine Dining,Los Angeles
+7dfbd57d-e2d0-42cb-a415-e0dceba72f3a,Restaurant_7dfbd57d,Fine Dining,Philadelphia
+03242a95-aa75-4b7f-bfde-af89916d6cd3,Restaurant_03242a95,Mexican,Chicago
+efa62e06-1043-4892-bedd-2db96de46d0c,Restaurant_efa62e06,Fine Dining,Houston
+89ba3bc7-2c33-42a2-8930-da58abffaa8e,Restaurant_89ba3bc7,Dessert,Phoenix
+abf23585-5241-40af-bc31-e7530b76f06d,Restaurant_abf23585,Cafe,Los Angeles
+c58575a0-f7c6-4084-bd83-c02c786b9cf3,Restaurant_c58575a0,Fine Dining,
+40a42e46-3604-4855-9bae-a41e8897a5fc,Restaurant_40a42e46,Fine Dining,Philadelphia
+f45f3d99-dc82-45d7-b702-87fd5f236626,Restaurant_f45f3d99,Fast Food,Phoenix
+92548bdb-b00a-47df-8c2f-f06282c62ba2,Restaurant_92548bdb,Italian,Chicago
+deb70be3-6381-472e-9f9f-738153432648,Restaurant_deb70be3,Cafe,New York
+c15dbd3e-8856-4e6d-b546-d85937eb723d,Restaurant_c15dbd3e,Italian,Phoenix
+1a3ffa8d-df07-4f46-bf94-7562ff8cf183,Restaurant_1a3ffa8d,Fast Food,San Diego
+5305ec4c-c7dc-4f33-8c4b-bed9e99e09a0,Restaurant_5305ec4c,Mexican,New York
+8563c3ad-8b5e-4c94-aa2c-7cc337cee62a,Restaurant_8563c3ad,Cafe,San Diego
+700e225f-51dd-4c53-9941-b7bc6bff5077,Restaurant_700e225f,Dessert,San Diego
+58a230d8-ca29-421d-b3f8-8c819d9a56fb,Restaurant_58a230d8,Asian,Chicago
+88ec7442-bb4e-47ba-bbb1-99b54a5bd5be,Restaurant_88ec7442,Italian,Phoenix
+7553bc44-ddb8-41f5-abb4-d99599f20649,Restaurant_7553bc44,Dessert,
+56134e5f-5740-422b-b4c7-4b2485fbc087,Restaurant_56134e5f,Mexican,San Antonio
+a407764d-e7ae-442f-a158-df726c5b9a00,Restaurant_a407764d,Dessert,Los Angeles
+cfd30001-4b3b-435c-8487-a153cf971fea,Restaurant_cfd30001,Italian,Chicago
+36452da2-71e8-4f3d-a65b-2b5ee62a2010,Restaurant_36452da2,Fast Food,Phoenix
+06ce802e-73e8-400a-baed-4121e746fcf0,Restaurant_06ce802e,Mexican,Houston
+4e2fdbc8-b85c-42fb-bf4c-33ece87e776c,Restaurant_4e2fdbc8,Mexican,San Antonio
+6a290803-4ed6-4ef7-b205-56f00a8f3eab,Restaurant_6a290803,Fine Dining,San Antonio
+3708f868-b314-4fcf-b9a4-5bae982b557e,Restaurant_3708f868,Dessert,San Diego
+e5fd3fdd-7124-48d4-9038-ac67d4f72d00,Restaurant_e5fd3fdd,Cafe,San Antonio
+398f5b45-7202-4898-a868-a8e54cfe501d,Restaurant_398f5b45,Cafe,New York
+b00c4c31-b642-47c0-b316-12c5b9798bd5,Restaurant_b00c4c31,Mexican,Houston
+05562c34-b1ac-44cc-b953-036b0647ca0c,Restaurant_05562c34,Fine Dining,Phoenix
+03a8ee8c-adc0-4e3e-8786-432914cac95d,Restaurant_03a8ee8c,Mexican,Chicago
+18b10f92-1a0d-496a-b2bb-1ae36127b38b,Restaurant_18b10f92,Fine Dining,Chicago
+b3a683c0-5ac6-4f40-8c38-408840217bde,Restaurant_b3a683c0,Mexican,Chicago
+7bd3c21c-4987-4761-855e-6668828cdcf8,Restaurant_7bd3c21c,Italian,San Antonio
+2a398249-0283-4270-a72f-b63d66a8d4ad,Restaurant_2a398249,Dessert,San Diego
+fb43e998-2ade-4d34-8b64-8819dfc98cae,Restaurant_fb43e998,Cafe,New York
+ce348c6d-fa4c-4804-a8a6-49348becb53c,Restaurant_ce348c6d,Fine Dining,Phoenix
+482e76d1-c9b0-4809-ab4b-54ccd4ccf65e,Restaurant_482e76d1,Cafe,San Diego
+5b0e1dbe-364c-4e8a-b361-96107ab0650d,Restaurant_5b0e1dbe,Mexican,Houston
+51f196e2-7a64-41a0-80f8-7748d1633480,Restaurant_51f196e2,Cafe,
+94e303e1-dd81-4f7e-9888-81cf9705918d,Restaurant_94e303e1,Bar,Los Angeles
+81332f5f-c511-4845-a6e3-d3bcf0311dba,Restaurant_81332f5f,Fine Dining,Chicago
+7df32201-e522-4ea2-aaf0-e36c82a7dc44,Restaurant_7df32201,Cafe,Chicago
+206092cc-10f1-47b1-8da5-32ee968c6585,Restaurant_206092cc,Mexican,New York
+13aac759-643b-4b7f-a1f7-6e67c058bc23,Restaurant_13aac759,Fast Food,Phoenix
+a680e483-8a69-4c75-a1d7-c405b04c75e3,Restaurant_a680e483,Cafe,San Diego
+3e17b688-e9c7-411e-8a74-8cf17bf9d79d,Restaurant_3e17b688,Mexican,San Diego
+65294dd5-a810-45f3-87f2-2020806afff5,Restaurant_65294dd5,Cafe,San Antonio
+3621d5d0-4199-441e-9216-aef1349374ac,Restaurant_3621d5d0,Cafe,San Diego
+e363ca07-0e7e-4ab7-985b-a2e6e3b34300,Restaurant_e363ca07,Dessert,Los Angeles
+dd89d1cd-1395-43df-9a93-0aa085904b90,Restaurant_dd89d1cd,Italian,San Antonio
+e72b3831-c10b-49ce-8531-72bf719ea1eb,Restaurant_e72b3831,Asian,Phoenix
+d075a34d-fe6f-4881-b737-28a39ce92928,Restaurant_d075a34d,Italian,Los Angeles
+4b693293-bed3-437c-8453-492b03b3aeca,Restaurant_4b693293,Fine Dining,New York
+a61cd1fd-c361-4478-9be6-83592a69554b,Restaurant_a61cd1fd,Cafe,New York
+745f8dc9-5fbd-44ec-8e3d-5b676b0118ae,Restaurant_745f8dc9,Fast Food,San Diego
+1030fbec-dc76-4026-b3fd-387524e5f754,Restaurant_1030fbec,Dessert,Phoenix
+ce158961-b9e9-4699-8644-b4dda9a49c33,Restaurant_ce158961,Fast Food,San Antonio
+c12e0f7e-4d5d-44f3-8c6f-290e0421f6fe,Restaurant_c12e0f7e,Dessert,Los Angeles
+b1811537-3099-413c-937a-5b497e92e79d,Restaurant_b1811537,Dessert,Philadelphia
+0719e2db-533d-4672-bb48-acd3ab2e2177,Restaurant_0719e2db,Bar,Philadelphia
+8a824dbd-dbd0-4ac3-b9a7-caacfef05eb8,Restaurant_8a824dbd,Asian,Los Angeles
+9f9f36a9-a1d9-4124-a58f-09bc07a3f666,Restaurant_9f9f36a9,Fast Food,Philadelphia
+6d052899-3e69-4563-95f9-0ef430bee727,Restaurant_6d052899,Bar,San Diego
+f98aae2d-49a1-4d2b-8a90-a4706b759dbb,Restaurant_f98aae2d,Cafe,San Antonio
+9c799db2-aabb-4127-8a0b-1dc48a7dfba6,Restaurant_9c799db2,Italian,San Diego
+a445387d-45c9-49cb-9ced-5042773fe60c,Restaurant_a445387d,Mexican,Philadelphia
+f1794a04-140f-4497-ba97-6e0c6b8189b2,Restaurant_f1794a04,Cafe,Philadelphia
+4a96a9ce-4704-49b9-abcc-bbbaf4057368,Restaurant_4a96a9ce,Mexican,San Antonio
+8ba510fd-8f77-4f92-a7ba-e7147672c1cb,Restaurant_8ba510fd,Italian,San Diego
+4cb66116-2660-47cd-94a4-69886de650f0,Restaurant_4cb66116,Bar,New York
+ae2f8c17-7c83-4f6c-88cb-fbd02c9f96a3,Restaurant_ae2f8c17,Fine Dining,Philadelphia
+bbba26f6-a87c-41d0-9786-a7e380a8df54,Restaurant_bbba26f6,Dessert,San Diego
+0ea246a1-a73a-46f5-9803-db3b5a970600,Restaurant_0ea246a1,Italian,Houston
+700c9c9d-5e76-4da6-90bd-ad6707412e77,Restaurant_700c9c9d,Cafe,Chicago
+3682ca0d-bed4-489d-809b-28b8b82afbbd,Restaurant_3682ca0d,Cafe,San Diego
+a56439b7-da9d-4991-a6ff-1ca204b73ed3,Restaurant_a56439b7,Dessert,Los Angeles
+8a693dd3-f4d7-4b69-99ec-e6030c397756,Restaurant_8a693dd3,Italian,Houston
+bac53831-0868-41a5-966d-0877f7c06a6c,Restaurant_bac53831,Fast Food,Phoenix
+7bf44749-d3d3-4d82-8b87-11d15a0c16aa,Restaurant_7bf44749,Italian,San Antonio
+c4f8620a-e5d6-4157-acd9-cf1cbb5edff2,Restaurant_c4f8620a,Mexican,Houston
+de124b64-3215-4d50-a28e-25496cf1ebe1,Restaurant_de124b64,Mexican,San Diego
+d580e005-fae2-45d6-bab9-f53542aa5869,Restaurant_d580e005,Mexican,Chicago
+2ca7659c-afd6-4b81-a47e-070036dc84a3,Restaurant_2ca7659c,Dessert,Phoenix
+812636b2-574c-48ec-981c-10e09446a4d1,Restaurant_812636b2,Cafe,San Antonio
+3c1dca81-d1c2-4ff8-aaf8-3f2667d88aa6,Restaurant_3c1dca81,Dessert,San Diego
+73c198e3-a073-4b61-bf3c-ac3f92f1fa4f,Restaurant_73c198e3,Fine Dining,San Diego
+d95c1d16-86f3-4339-88a2-7e05e845138d,Restaurant_d95c1d16,Fast Food,San Antonio
+d0f84ff1-f7fc-41fe-b8c1-0937b647ffcc,Restaurant_d0f84ff1,Fine Dining,Chicago
+055cb8ef-23ca-4ae1-812f-f3694c75b937,Restaurant_055cb8ef,Mexican,Phoenix
+8d6cb6e5-acfb-48c9-ad8c-60743f292760,Restaurant_8d6cb6e5,Bar,Philadelphia
+ce8bd7f1-a388-471e-a1b8-614484d9c4d5,Restaurant_ce8bd7f1,Cafe,New York
+291bc536-c2d1-45f4-816c-5fa29cd71df9,Restaurant_291bc536,Cafe,Phoenix
+5391a206-1ea1-44a6-a486-be76ab9bb9ef,Restaurant_5391a206,Dessert,Chicago
+4519b570-71ab-4c71-8e24-ce31bc4bd652,Restaurant_4519b570,Dessert,San Diego
+a2f909d5-3430-4672-9c59-c8c37d48c987,Restaurant_a2f909d5,Asian,Philadelphia
+3cd8bc5f-e2b8-4063-bf6e-8a36ccc09886,Restaurant_3cd8bc5f,Bar,San Diego
+d07b45b4-38d7-4a1a-b42d-5c827c207521,Restaurant_d07b45b4,Asian,Houston
+34a84f39-3f33-4740-b9cc-c7948395e1f4,Restaurant_34a84f39,Fine Dining,San Antonio
+14367c9f-3bc1-4e18-97a5-228046d3fc72,Restaurant_14367c9f,Fine Dining,San Antonio
+861c72e3-aa0b-453f-906c-9bb33c431f6d,Restaurant_861c72e3,Italian,Philadelphia
+a8c6bb42-5e40-4412-9f40-1cb8c4d6d3a8,Restaurant_a8c6bb42,Dessert,San Antonio
+c07ae9fd-3811-4c3e-9836-151c444de776,Restaurant_c07ae9fd,Bar,Chicago
+2b0fbb63-45a2-4435-acf0-52bb53cb926f,Restaurant_2b0fbb63,Dessert,New York
+848f15b4-fe49-4cbb-8ea1-26fedce3349e,Restaurant_848f15b4,Fast Food,Philadelphia
+489b08da-dc7b-4891-b60c-2173e20e065f,Restaurant_489b08da,Mexican,San Diego
+6e9c7499-1961-4679-bf44-8fc1f5e5fa06,Restaurant_6e9c7499,Mexican,San Diego
+2c73cd07-fddd-4163-909c-79b5164704b4,Restaurant_2c73cd07,Italian,Chicago
+6da52003-7f22-4e77-b048-16c7a50e32ff,Restaurant_6da52003,Bar,Chicago
+d4d96094-5c0b-43bb-a6fb-b023063b67bd,Restaurant_d4d96094,Mexican,San Diego
+f37f669f-031b-493b-94c0-369ae0393ebe,Restaurant_f37f669f,Cafe,Philadelphia
+d4b09873-4574-4714-a16a-dda81f37dd4e,Restaurant_d4b09873,Bar,Los Angeles
+83ae76a7-dead-46ef-9153-5638f87cecfe,Restaurant_83ae76a7,Asian,San Antonio
+d1dd679e-9a9a-41c9-96cb-1f0bc69c0c3f,Restaurant_d1dd679e,Asian,San Diego
+45b0938c-20b5-44f7-ba55-65896d1662df,Restaurant_45b0938c,Italian,Los Angeles
+b0d4cf6c-a83c-4295-9757-136e19761ae8,Restaurant_b0d4cf6c,Fine Dining,Phoenix
+c5804d39-46f7-4417-9fad-e021516d5d62,Restaurant_c5804d39,Fine Dining,Los Angeles
+3c408f0d-a043-44b2-afde-67e10bf10fa1,Restaurant_3c408f0d,Bar,Los Angeles
+711d7945-a397-450c-849a-192d9bcde467,Restaurant_711d7945,Mexican,San Diego
+1a440457-315f-4e41-974b-192a91bfcb16,Restaurant_1a440457,Fast Food,Phoenix
+184e7856-9364-4b30-b45b-bbd84e2d433e,Restaurant_184e7856,Italian,New York
+617905f8-1251-4ff5-b504-303b7a6c62bd,Restaurant_617905f8,Asian,New York
+96030131-5631-404b-bd7a-4fde24ff62a5,Restaurant_96030131,Cafe,Philadelphia
+c493bd8d-e433-435b-a60f-743cb2ce90f6,Restaurant_c493bd8d,Asian,San Antonio
+cb2232f6-d082-47f5-a6ad-c4a409fee0d8,Restaurant_cb2232f6,Fast Food,Houston
+9344af26-ebac-4e87-903e-d658603448f3,Restaurant_9344af26,Bar,Chicago
+8b1e2951-30c6-4da5-928f-f9986dc9515e,Restaurant_8b1e2951,Fast Food,Chicago
+b31dd530-103a-4068-a0fc-056c0adf612f,Restaurant_b31dd530,Mexican,San Antonio
+12309127-0449-4c6b-8d64-965a4b1a13be,Restaurant_12309127,Fine Dining,San Diego
+7af2fbf8-9766-457d-88c7-f286c96fd611,Restaurant_7af2fbf8,Fast Food,Houston
+168cb236-5477-4d53-8aca-bf7fc299f4ed,Restaurant_168cb236,Dessert,Phoenix
+09e7dbef-fe07-413c-b571-7d96d0f8b7a0,Restaurant_09e7dbef,Dessert,Phoenix
+460de04e-3b64-41e3-8d9f-7f50e0d111ad,Restaurant_460de04e,Italian,San Diego
+f7212fd6-1378-418f-aff0-ff0cbead6331,Restaurant_f7212fd6,Cafe,Chicago
+72646644-56ff-41a3-a842-2ea3016eff15,Restaurant_72646644,Mexican,San Diego
+d92ae15b-4aef-4d57-a0ed-b928cddcc1c7,Restaurant_d92ae15b,Asian,Phoenix
+5a01362f-2397-42e1-b29a-4a77b3e28843,Restaurant_5a01362f,Bar,Phoenix
+78a82b1f-f65a-49b7-9644-2a0a7f03d6ba,Restaurant_78a82b1f,Dessert,Phoenix
+08cb5125-9181-498c-b47e-ecccb44af67d,Restaurant_08cb5125,Fine Dining,San Antonio
+c33d7155-cfc8-4ca9-ae86-9df567298cef,Restaurant_c33d7155,Dessert,Los Angeles
+4387e066-fd32-4bfa-9561-18100a2eec63,Restaurant_4387e066,Fine Dining,San Antonio
+4ca6e2e5-8a98-4be3-8ea3-0c03a584b46f,Restaurant_4ca6e2e5,Asian,Phoenix
+e1ebdf15-1ed6-4665-8465-f64d578b7e8e,Restaurant_e1ebdf15,Cafe,New York
+3d219c44-ca32-4233-b350-82c23b535f64,Restaurant_3d219c44,Bar,Phoenix
+509b7b04-eea8-44a6-b3b4-35a7a4121d30,Restaurant_509b7b04,Italian,New York
+a0778b4d-ae29-4b03-bafb-f259d2333d07,Restaurant_a0778b4d,Dessert,Phoenix
+f121bf87-04d2-45bd-bd6f-8d1cb5d3709e,Restaurant_f121bf87,Fine Dining,Philadelphia
+57cdcf3d-efc3-434e-8aa4-ab193860a3a9,Restaurant_57cdcf3d,Fine Dining,Houston
+e8a5e238-a332-4312-a286-3818c2e1debe,Restaurant_e8a5e238,Cafe,Chicago
+5bc8ad2b-4d8a-4559-8941-4d3aeb9e5ab7,Restaurant_5bc8ad2b,Mexican,New York
+c538d00c-9773-4e03-8eb9-fbffa4910540,Restaurant_c538d00c,Cafe,San Diego
+f4412ff7-3a8a-44be-a3c0-0fc036eb328c,Restaurant_f4412ff7,Italian,Philadelphia
+37c7c47f-3140-447a-8eb8-f1aaa516d707,Restaurant_37c7c47f,Fast Food,Los Angeles
+6f27e48c-d4ac-46a2-bdf3-97e9c0cd901a,Restaurant_6f27e48c,Cafe,Philadelphia
+13f71213-9d15-4e6a-b395-35b80f46698e,Restaurant_13f71213,Bar,Chicago
+4849ca88-45b3-471d-8020-0946c65fa874,Restaurant_4849ca88,Fine Dining,Chicago
+b3cf0405-071d-4438-bc01-8c938b9a4959,Restaurant_b3cf0405,Asian,Phoenix
+7ccc3777-c2ed-48a5-968c-4bb57b3b6ac2,Restaurant_7ccc3777,Fast Food,Phoenix
+f3a9ca99-1e61-4385-8f0e-345d60648700,Restaurant_f3a9ca99,Dessert,Phoenix
+5245a846-0ffe-498c-9b6b-3d407b759edb,Restaurant_5245a846,Asian,Los Angeles
+c27eecb1-613d-4964-a260-235b7a977333,Restaurant_c27eecb1,Dessert,Los Angeles
+945a5dba-2767-4dfe-ada3-e9bdefd2e167,Restaurant_945a5dba,Fast Food,Houston
+c5002bf7-2b7b-4db5-87fe-461e8e76308c,Restaurant_c5002bf7,Bar,Philadelphia
+e3b3ac52-1916-4b70-b6e6-c3f5dc94d0ea,Restaurant_e3b3ac52,Mexican,San Antonio
+d10b021e-99c3-49bd-9cd5-cb81c83ddd8d,Restaurant_d10b021e,Italian,Phoenix
+be12f127-4aec-4e01-8e0d-c4f3c10a49ec,Restaurant_be12f127,Mexican,San Diego
+9b10102f-3a3f-413b-be59-f6dd895b400f,Restaurant_9b10102f,Asian,Phoenix
+765ec82c-4f1f-4d1d-b511-1224f86ecb18,Restaurant_765ec82c,Bar,Philadelphia
+40aa832c-6598-42b0-861f-5a22f46ca6e4,Restaurant_40aa832c,Mexican,Houston
+f9db88db-7c0c-4ef5-b11e-273532354fce,Restaurant_f9db88db,Dessert,New York
+412955e9-1fb1-48ce-9101-b5a910eb4e4b,Restaurant_412955e9,Asian,Houston
+a1ce84e4-3255-4ca0-b46f-7393b364eef4,Restaurant_a1ce84e4,Mexican,San Diego
+db46c4a2-bf50-4c03-a44a-0ef808b39b52,Restaurant_db46c4a2,Cafe,San Antonio
+50546b48-b0fd-4af5-9c0b-5855a30c958e,Restaurant_50546b48,Mexican,Chicago
+f5c35fcc-1f69-42f6-a38e-ae69e6717f46,Restaurant_f5c35fcc,Italian,New York
+68179517-40f8-435c-8281-5b22e1223b9b,Restaurant_68179517,Cafe,San Diego
+0bb440de-90dd-49eb-9b5a-b5014c38ab95,Restaurant_0bb440de,Mexican,Los Angeles
+ecfceabc-555d-4f65-a01e-dadeb42ae393,Restaurant_ecfceabc,Fine Dining,Chicago
+6ee5775f-c31b-4b6f-9e18-bffacd102f76,Restaurant_6ee5775f,Bar,San Diego
+3ba17e2e-3881-4931-967c-a0f7e6cf71cb,Restaurant_3ba17e2e,Asian,San Antonio
+14c852f1-cd7c-47a9-a663-7f3386cb8f52,Restaurant_14c852f1,Fast Food,San Antonio
+62f2735a-2003-4d85-b243-8dc5851ca925,Restaurant_62f2735a,Mexican,San Diego
+1edea6ef-1ce4-40bc-913b-a0770885813c,Restaurant_1edea6ef,Bar,Phoenix
+1ba8e6e1-d818-4e19-a80c-90a61bbc735b,Restaurant_1ba8e6e1,Italian,Philadelphia
+6340718d-8259-45fe-a292-4e54a5522fd4,Restaurant_6340718d,Fine Dining,San Diego
+7063878a-0737-4bbe-a7af-15b41dbac669,Restaurant_7063878a,Dessert,
+123cb310-0de1-4022-b9dc-f29d22bce341,Restaurant_123cb310,Asian,Los Angeles
+d3fdbfd4-9e3c-4a63-af8e-3cb3586505c2,Restaurant_d3fdbfd4,Asian,Philadelphia
+29283783-85c4-4ffa-a34f-f62dbc4601fe,Restaurant_29283783,Italian,San Antonio
+2d146994-e521-4112-b60b-2565137ff923,Restaurant_2d146994,Cafe,Houston
+5dadfb8c-f2bb-4d01-abbc-31b6b523c02b,Restaurant_5dadfb8c,Mexican,San Diego
+6a8364ac-b7a1-4a72-82d6-595b87094fcb,Restaurant_6a8364ac,Mexican,Houston
+cc346d4e-a062-4262-9fd2-b071187a46c4,Restaurant_cc346d4e,Italian,New York
+aa78106b-d133-4106-99ba-a6193fb1fc11,Restaurant_aa78106b,Asian,Houston
+14a65af6-9a2f-46c5-a0b7-162baf0be4b7,Restaurant_14a65af6,Fast Food,Houston
+79099e16-5669-4d8d-8535-4f2c3fd52a88,Restaurant_79099e16,Mexican,Houston
+20edf862-75ee-4ce9-8a15-8cb4e08efc45,Restaurant_20edf862,Fine Dining,Houston
+be911976-c4e4-4438-ab0c-13ac8da37887,Restaurant_be911976,Asian,Chicago
+79111880-1db2-4f4d-9790-093441deb238,Restaurant_79111880,Italian,Phoenix
+775dee42-aaed-4e20-8c1f-b310a3da0d66,Restaurant_775dee42,Fast Food,Chicago
+5d451e05-eb4f-48f8-9f5b-2cb6f6a5d9a1,Restaurant_5d451e05,Cafe,Chicago
+eee94a81-bf5a-4785-8d98-d2a22f28f7fc,Restaurant_eee94a81,Mexican,New York
+72dda4d3-3339-49c3-b7fe-79719fa16425,Restaurant_72dda4d3,Fast Food,New York
+7388a010-d8f2-4987-84d4-a253430ff751,Restaurant_7388a010,Asian,Houston
+88186ec1-285a-43c7-aa39-fb0300b3f34d,Restaurant_88186ec1,Asian,New York
+b5216863-c2d7-4ce3-903b-52e572460f58,Restaurant_b5216863,Fast Food,Phoenix
+4da2500d-3180-4aea-ab41-2b14ab806b1c,Restaurant_4da2500d,Italian,Chicago
+b615ec27-c5c9-47de-9040-0b35344cd7b0,Restaurant_b615ec27,Bar,Los Angeles
+dd170b94-cbc6-48a4-b8d9-1ec51cc4a6cd,Restaurant_dd170b94,Mexican,San Diego
+06f3a676-4e2a-479a-8dc5-8736cc711506,Restaurant_06f3a676,Dessert,Philadelphia
+54a33f23-be6a-4daa-be47-e22dfaaf9e99,Restaurant_54a33f23,Mexican,San Diego
+31947412-df06-4d23-9735-409b4b6e2410,Restaurant_31947412,Fine Dining,New York
+fb0e2509-6e90-42cc-8956-35464c6ec795,Restaurant_fb0e2509,Cafe,San Diego
+7db6ac0c-1691-4f88-9115-004826a61083,Restaurant_7db6ac0c,Italian,New York
+0572fe48-6eea-4796-b0e7-4d0f041df8fb,Restaurant_0572fe48,Dessert,San Antonio
+9d5a8fce-9608-45b4-8328-948e95742f9e,Restaurant_9d5a8fce,Bar,Los Angeles
+483c8f21-17e8-4517-bf73-c6316142f4a3,Restaurant_483c8f21,Dessert,San Diego
+896f707d-0c20-4054-aa2d-553466e7e26a,Restaurant_896f707d,Mexican,Los Angeles
+aaebb6c2-d5bd-41a4-b0db-d6125720cfab,Restaurant_aaebb6c2,Asian,Chicago
+caed3e39-6dd0-4e17-9021-f53981d661ce,Restaurant_caed3e39,Mexican,Chicago
+4d99eefc-0ca1-4259-aabb-a0e10d976d01,Restaurant_4d99eefc,Cafe,Philadelphia
+8b98eafd-4e14-4e5a-84d0-7dcb9f69468f,Restaurant_8b98eafd,Bar,Phoenix
+27b5ed79-e456-477a-acdb-ee491a500ec3,Restaurant_27b5ed79,Dessert,San Antonio
+e2c2c953-ef21-469d-9039-bb5bc5f308b2,Restaurant_e2c2c953,Mexican,Los Angeles
+1f435a95-64c3-4a8b-bc25-948beb6e68a6,Restaurant_1f435a95,Fine Dining,San Antonio
+483e02a1-4506-4c6d-82b1-bbea63558b56,Restaurant_483e02a1,Dessert,Houston
+90891806-3483-43ad-a141-01b412475210,Restaurant_90891806,Bar,Philadelphia
+27b28bb1-f974-4e5b-9ee0-97de3356e330,Restaurant_27b28bb1,Dessert,San Antonio
+db477f7c-ab0d-40b2-82ec-96f7ca03f9b5,Restaurant_db477f7c,Bar,Los Angeles
+2a0d1f0a-ddcd-4c17-8688-334340b8a82c,Restaurant_2a0d1f0a,Asian,San Antonio
+b608a520-8c7e-48be-bfbc-8897393fed73,Restaurant_b608a520,Asian,Phoenix
+25940e84-48b4-4363-ba5f-42b7400bfd89,Restaurant_25940e84,Asian,Chicago
+1b9e5216-2e87-4181-8a00-3b1f8aa39516,Restaurant_1b9e5216,Dessert,Los Angeles
+969f5063-7592-4215-9a91-9f2995aa9816,Restaurant_969f5063,Mexican,Los Angeles
+978cd62b-7d53-4b2d-850b-3899b3c32e9e,Restaurant_978cd62b,Mexican,San Antonio
+73f1065a-59a1-44bd-ab2b-38aebd596ba6,Restaurant_73f1065a,Mexican,Philadelphia
+c2764e73-8c47-4afb-a521-081e78e085ae,Restaurant_c2764e73,Fast Food,New York
+5a9eeec4-db21-4631-a254-2ace911ac9e8,Restaurant_5a9eeec4,Asian,Los Angeles
+ea76b518-61c4-4a0c-9a47-fc22d2d792a9,Restaurant_ea76b518,Bar,Philadelphia
+b7d23b4f-72a1-4080-ab7c-2b936db29f28,Restaurant_b7d23b4f,Bar,New York
+6ca250fa-2a0b-4cbf-9bfa-992eb6349654,Restaurant_6ca250fa,Cafe,Phoenix
+d4c87b5f-ffa3-4c96-b8a3-eb60695612de,Restaurant_d4c87b5f,Asian,Los Angeles
+ce59e95e-8e87-41f3-b5f4-bfa2fcfe8c72,Restaurant_ce59e95e,Fine Dining,Chicago
+ec202325-3272-4769-98a5-66c0521a50d8,Restaurant_ec202325,Dessert,Houston
+933a5f09-54f6-488c-a8ad-d60eded7cfdf,Restaurant_933a5f09,Mexican,Philadelphia
+1f20d774-9da3-4b6e-8f63-091dab372f2a,Restaurant_1f20d774,Asian,Los Angeles
+dc8750f4-e0ee-49ae-a922-1a75c9e0d97a,Restaurant_dc8750f4,Cafe,Houston
+63199b85-3f9f-461e-9d36-c6abc397545c,Restaurant_63199b85,Bar,New York
+a2054ce4-4d0d-41ac-b58e-9cbdd66c0f9b,Restaurant_a2054ce4,Cafe,New York
+8be9b9c8-5a12-408a-b604-1d6a481496b9,Restaurant_8be9b9c8,Fast Food,Phoenix
+39b529b2-485c-4134-8105-70469593e4f9,Restaurant_39b529b2,Cafe,Philadelphia
+eb99c4f8-e28c-409e-8ead-85566dbbe802,Restaurant_eb99c4f8,Asian,New York
+c3611f40-fc0c-4329-a706-ecb014571747,Restaurant_c3611f40,Fast Food,Chicago
+93b9d7c2-37bf-43a5-9b01-fa64bd7456cc,Restaurant_93b9d7c2,Bar,Los Angeles
+468186bf-ceb4-4a8a-8db2-76f50d1daee1,Restaurant_468186bf,Fast Food,New York
+d2861290-e355-453f-9ed0-826c7bcf7a26,Restaurant_d2861290,Mexican,Houston
+f6251abd-28ea-418a-9cd0-5a104ce65df3,Restaurant_f6251abd,Bar,San Antonio
+ccec3e45-c422-400a-967c-8b6123c0e5f6,Restaurant_ccec3e45,Dessert,Philadelphia
+a300deb3-e032-4a34-940d-3136338ae387,Restaurant_a300deb3,Fast Food,Philadelphia
+d0e858dc-dff6-4e13-9a63-db1af7aa8979,Restaurant_d0e858dc,Cafe,Philadelphia
+7c2d415b-d05f-4623-9b76-c70780a3954c,Restaurant_7c2d415b,Mexican,New York
+1c7e8fcd-d856-4129-8402-0a4c90649466,Restaurant_1c7e8fcd,Fast Food,Chicago
+3bd0e0ac-25df-4fae-a757-b3888474d57c,Restaurant_3bd0e0ac,Italian,Los Angeles
+49465db7-9ae9-49a2-b364-7a6579819e43,Restaurant_49465db7,Cafe,San Diego
+ee8cbe8e-6527-4188-9fdb-40ff872a70f6,Restaurant_ee8cbe8e,Bar,San Diego
+ef012a7b-9cac-4f58-8d25-77cbee249bd1,Restaurant_ef012a7b,Dessert,San Antonio
+d0f9b608-f066-4145-be13-7a3c792d51aa,Restaurant_d0f9b608,Cafe,Houston
+f421be1d-5f68-4a3d-889b-dce49c52ace7,Restaurant_f421be1d,Mexican,Philadelphia
+86605086-9b50-404a-8993-38d4343b1058,Restaurant_86605086,Bar,Los Angeles
+86a98f4e-56e3-426c-9cb1-8c493ac1a04a,Restaurant_86a98f4e,Cafe,San Diego
+73b10d99-8c75-47e8-949e-b25a51a99ab4,Restaurant_73b10d99,Cafe,New York
+cf93cbc5-a1d1-4dc1-acd5-d4151a9c64c2,Restaurant_cf93cbc5,Fine Dining,San Antonio
+3d9316ed-2d38-4dcd-b1db-681c45e8d5c6,Restaurant_3d9316ed,Italian,New York
+7a093baa-b46a-42ab-87ee-5a767558cd63,Restaurant_7a093baa,Fine Dining,Phoenix
+2597dc04-60dc-40fe-81c7-aee81fb58ca4,Restaurant_2597dc04,Fine Dining,Chicago
+1dfca58c-40e4-4a77-aaba-1ecba13fb03a,Restaurant_1dfca58c,Cafe,Phoenix
+d5451050-e4be-4376-a633-545dc5be7787,Restaurant_d5451050,Asian,Los Angeles
+1712c9ec-88db-41f0-b786-58ff2e9b9163,Restaurant_1712c9ec,Italian,San Diego
+b7420ebc-4736-4116-95f2-859b1ad57afe,Restaurant_b7420ebc,Bar,Chicago
+3acf07d9-b2b8-45bf-8472-58cbd359b482,Restaurant_3acf07d9,Fast Food,San Antonio
+3836fff1-b8b4-4559-9e77-98e8c1614498,Restaurant_3836fff1,Fine Dining,Philadelphia
+9b2176ce-cb13-4159-8d68-640bd95da9cc,Restaurant_9b2176ce,Mexican,San Antonio
+915d54f3-b9f0-4158-8a72-884ebe68ccfe,Restaurant_915d54f3,Italian,San Antonio
+99ebd831-3b9c-44bd-bc69-00e5511897cc,Restaurant_99ebd831,Italian,San Diego
+83928640-9a97-49e7-9a48-4e986ea18a84,Restaurant_83928640,Mexican,Philadelphia
+c8c4e8f0-2b27-4ed6-8e9d-6bacf067c5fa,Restaurant_c8c4e8f0,Bar,San Antonio
+02bc08d0-c45f-4937-8f4d-49edbf1a0605,Restaurant_02bc08d0,Bar,Phoenix
+675b6899-fa17-4403-8c15-ca180013ec16,Restaurant_675b6899,Mexican,San Antonio
+7f9c44f2-2178-4084-aed4-f03fd483cc2c,Restaurant_7f9c44f2,Italian,Philadelphia
+57fbb1d2-660e-43eb-953a-47aed983889f,Restaurant_57fbb1d2,Fast Food,San Diego
+d7043ff7-5bd8-429c-87f8-e5252bdc160c,Restaurant_d7043ff7,Asian,Los Angeles
+0f29acec-7870-4de6-900d-15323b2345d8,Restaurant_0f29acec,Bar,
+971d6170-488f-4282-bacf-646095ab6352,Restaurant_971d6170,Fine Dining,San Antonio
+4b618790-3a07-4e39-8e9b-0b6fe4ea5b29,Restaurant_4b618790,Bar,Los Angeles
+46f64eab-2263-44f0-92c4-afce44abfc83,Restaurant_46f64eab,Bar,Phoenix
+96d445c5-2054-4859-add6-63fd2d961acb,Restaurant_96d445c5,Asian,Houston
+8b028b2f-2862-4e2d-a533-95eb37635be6,Restaurant_8b028b2f,Asian,Chicago
+8e20eddd-cca8-41f0-881c-6e065b52ae4d,Restaurant_8e20eddd,Mexican,Los Angeles
+eec2cf78-3942-4cad-9981-6f1fb7116984,Restaurant_eec2cf78,Fine Dining,Philadelphia
+f88273b9-e685-4dd4-8789-51daf00994be,Restaurant_f88273b9,Asian,Chicago
+51b88492-495a-40de-b075-8594c96979a7,Restaurant_51b88492,Fine Dining,Los Angeles
+a697609a-bb22-4e72-b7a1-496831f5eba4,Restaurant_a697609a,Fast Food,Phoenix
+a89cefc7-eba4-4594-8d74-9745180dc95d,Restaurant_a89cefc7,Fine Dining,Chicago
+0deb19f0-71d2-44d5-a4b4-3686407e2ec8,Restaurant_0deb19f0,Fast Food,Los Angeles
+b8a1f075-cc67-4660-a1a7-bba1d669aae3,Restaurant_b8a1f075,Fast Food,San Diego
+3b979e4c-4f3c-43b6-9090-3c92bad3f4f2,Restaurant_3b979e4c,Dessert,San Diego
+e66b5974-0abf-4a52-9d5f-2495b035de76,Restaurant_e66b5974,Asian,Philadelphia
+9c555af1-a49d-4301-a001-d8a82a69e4f7,Restaurant_9c555af1,Fast Food,San Diego
+650a2c7b-dd4e-4f3e-ab27-4c33c65e7c34,Restaurant_650a2c7b,Mexican,San Diego
+07553d71-d6b3-48c1-80b4-a09003a9d27c,Restaurant_07553d71,Dessert,Phoenix
+dc2d799e-1133-4d2a-b0c9-da175a815718,Restaurant_dc2d799e,Cafe,New York
+e6d6d4bf-5990-494c-af00-fc6e5c971ab9,Restaurant_e6d6d4bf,Asian,Los Angeles
+24627a92-a9f5-4c18-8dc0-63e70822739f,Restaurant_24627a92,Cafe,San Diego
+009256d5-0adc-493c-b52c-490392981983,Restaurant_009256d5,Dessert,New York
+d560b3aa-2d7f-4c5a-9021-37b7339de876,Restaurant_d560b3aa,Italian,Philadelphia
+d30d0c7f-f336-4eb1-9cf6-6d223c74b8c4,Restaurant_d30d0c7f,Cafe,Los Angeles
+4ec905cd-c7ab-45fd-9a82-46d0d7aa26c5,Restaurant_4ec905cd,Mexican,San Antonio
+422068d5-b86d-4b83-8061-5548c1c6b1fa,Restaurant_422068d5,Dessert,New York
+e9a35c84-2324-45aa-b7d6-bdf399605640,Restaurant_e9a35c84,Dessert,Houston
+ba9aabc8-3c49-4ebe-b91b-23716aadc7c6,Restaurant_ba9aabc8,Asian,
+b9117793-f411-4dfb-9ae0-13b1ebbb44a7,Restaurant_b9117793,Fast Food,New York
+ab7023e6-8059-4f08-90ad-e5a496fa6030,Restaurant_ab7023e6,Dessert,Los Angeles
+e45d182a-baf7-483d-88d8-fe850b6d5de0,Restaurant_e45d182a,Asian,Los Angeles
+75028969-2f9f-4ad0-9f8a-6b0093589138,Restaurant_75028969,Fast Food,New York
+7d45e58a-65f7-4ac1-bfde-3ef039c27036,Restaurant_7d45e58a,Fine Dining,San Diego
+1940aa1b-ab12-4a72-a5a7-cbfa8d8cd41b,Restaurant_1940aa1b,Dessert,Chicago
+cb3e4824-1426-4fa0-b0cb-396b1dcb753a,Restaurant_cb3e4824,Asian,Philadelphia
+01cdd032-6347-4fbe-8676-7c5351b52469,Restaurant_01cdd032,Cafe,San Antonio
+e0e1ea60-5c0a-43ce-9c40-afa02683cab0,Restaurant_e0e1ea60,Bar,Philadelphia
+f75143fa-f932-43c9-8d4e-8e44b6e4192a,Restaurant_f75143fa,Italian,Philadelphia
+93b37cc1-cf25-4537-b297-ed8970f2a696,Restaurant_93b37cc1,Mexican,Philadelphia
+d1880de9-2ddd-4012-aabb-97c40463dbc9,Restaurant_d1880de9,Mexican,San Antonio
+d2fd5c94-5a97-4bda-89a6-557349dc778d,Restaurant_d2fd5c94,Cafe,Phoenix
+d146c919-c8be-4c8b-9478-7a4b1a645e36,Restaurant_d146c919,Fast Food,Philadelphia
+9ae0673f-c85f-43a4-b0e8-6f17975b68af,Restaurant_9ae0673f,Mexican,Chicago
+3ca4f4bc-e579-4660-a567-fb2a13901e02,Restaurant_3ca4f4bc,Asian,Phoenix
+b743ccb0-7c25-4da5-a78d-c3caeb1d3e53,Restaurant_b743ccb0,Bar,Chicago
+fe403a6f-6ced-4d1b-8b1d-81cc9a6051e6,Restaurant_fe403a6f,Mexican,Phoenix
+6bc4bd3a-99dc-41d1-9953-b5b285444007,Restaurant_6bc4bd3a,Bar,Philadelphia
+00de5f8e-91b6-489a-b10d-15ec929060bc,Restaurant_00de5f8e,Fast Food,Los Angeles
+bf70635d-7977-43ab-a237-73476724a1f3,Restaurant_bf70635d,Bar,Philadelphia
+16b928f9-8b03-4132-8f6a-8940928b4b6c,Restaurant_16b928f9,Italian,Philadelphia
+a52aff35-64bc-457c-98b2-1cf8c6557be0,Restaurant_a52aff35,Cafe,Chicago
+982da4a2-13d3-4edf-9cb1-977ae713911a,Restaurant_982da4a2,Fine Dining,Philadelphia
+49045171-1e37-43e7-a151-6943439228bf,Restaurant_49045171,Dessert,Houston
+d480d59a-0911-4378-b366-e2f170ec0e69,Restaurant_d480d59a,Fine Dining,Chicago
+a4ef749d-ae0b-44ba-9cdf-7019fe512f8e,Restaurant_a4ef749d,Fast Food,Los Angeles
+b3d9c504-cace-463d-82d9-2b9f43bb30fa,Restaurant_b3d9c504,Cafe,Los Angeles
+53e316dd-7f72-4317-9183-c17de03e8f4c,Restaurant_53e316dd,Italian,Philadelphia
+475ede97-fbe5-4171-9125-9e4efead7cdc,Restaurant_475ede97,Fast Food,San Antonio
+1dbda4da-a19b-4f5e-a51e-7c1a5591c878,Restaurant_1dbda4da,Fast Food,Chicago
+705fe097-b424-4626-ba89-7c6d6ddc38ae,Restaurant_705fe097,Fast Food,Chicago
+d5e97691-949d-4694-aeed-46a9f9c93eb4,Restaurant_d5e97691,Dessert,New York
+0a4876fa-1250-4faf-a0b5-7bd68af81ba2,Restaurant_0a4876fa,Bar,Philadelphia
+bb96d3df-734c-4525-a192-27bee708c38e,Restaurant_bb96d3df,Fine Dining,San Diego
+b2b27d1e-ec1b-4d42-bc98-0c5f013573ee,Restaurant_b2b27d1e,Cafe,San Diego
+a1ae3bac-5a56-43ee-8837-bd651c315202,Restaurant_a1ae3bac,Fine Dining,Houston
+89ae2560-e34e-473c-beea-cac440f6622b,Restaurant_89ae2560,Cafe,
+d5065171-3d77-4ecc-9523-cb1f8c4857c2,Restaurant_d5065171,Fine Dining,Philadelphia
+d8073710-a036-4915-9a22-9890c9bf270c,Restaurant_d8073710,Dessert,San Diego
+dbebc415-0f87-4dfb-955d-116f722c07c0,Restaurant_dbebc415,Cafe,San Antonio
+80250a90-1708-4cbb-aafb-56ee4b8978ef,Restaurant_80250a90,Bar,Chicago
+2ce0df80-ce03-40e9-b110-36d6ba24d43b,Restaurant_2ce0df80,Fine Dining,Chicago
+ef46e018-f545-480f-8b77-2f6cbd00c13b,Restaurant_ef46e018,Cafe,New York
+2633c4e0-a2a4-4516-a07d-73877cd7f08d,Restaurant_2633c4e0,Dessert,Philadelphia
+72e71e35-6b01-4826-9998-b104816ae477,Restaurant_72e71e35,Mexican,Los Angeles
+9dea726b-50e7-4197-a07d-52481c2dfd94,Restaurant_9dea726b,Cafe,Los Angeles
+e3b38c7f-1066-4593-84e9-0237e8d364cb,Restaurant_e3b38c7f,Fast Food,Phoenix
+d27a3899-1201-4518-963f-6c6c956ef6f3,Restaurant_d27a3899,Dessert,Chicago
+e1f65260-d6ca-47bb-b722-0d1752150871,Restaurant_e1f65260,Bar,Los Angeles
+f1a421f4-85be-4ca7-abf8-ab7f1d66481d,Restaurant_f1a421f4,Fine Dining,San Diego
+7547ac52-ca39-41ef-8bf8-4cbda2636d0a,Restaurant_7547ac52,Asian,New York
+6fa27e3e-6d3f-4858-a547-2efc671af932,Restaurant_6fa27e3e,Bar,New York
+f539fb8d-4298-4034-b841-ff853f9b6515,Restaurant_f539fb8d,Bar,Philadelphia
+0828e23d-ce4a-42dc-bde2-b458dd4648e8,Restaurant_0828e23d,Fine Dining,San Antonio
+5741756c-1ec7-441e-ae37-9ddb4ef19231,Restaurant_5741756c,Mexican,
+833a8c84-aa33-47e0-aa20-ef535b41df2e,Restaurant_833a8c84,Fine Dining,New York
+5f64381e-e4d3-44fd-8d3b-98afdfba6538,Restaurant_5f64381e,Asian,Los Angeles
+55bb9486-7d23-42f7-83fc-4a8e17bd14cb,Restaurant_55bb9486,Asian,Chicago
+f4abb140-48da-4b37-9e01-54c9b5ba382a,Restaurant_f4abb140,Fast Food,New York
+184a43d4-9edc-43f3-a863-42e91e3714d4,Restaurant_184a43d4,Cafe,San Diego
+55b3882e-8851-46ce-9f10-eb14e49d3658,Restaurant_55b3882e,Fast Food,San Diego
+1c63d633-7fdd-4243-b004-0cfcb39f1e21,Restaurant_1c63d633,Dessert,New York
+154f1b93-c6f5-42e6-a694-9a8545e3efe0,Restaurant_154f1b93,Mexican,
+9f238892-fad6-45f8-9545-4c336dd77e8b,Restaurant_9f238892,Cafe,Houston
+e6a56a69-b1f9-4072-a3d2-9a9016a712f4,Restaurant_e6a56a69,Fast Food,San Antonio
+c67b0d83-04ce-4642-bdb5-2bd6e48f7663,Restaurant_c67b0d83,Mexican,Phoenix
+00b69da1-3872-43dd-932c-19a847ff3c60,Restaurant_00b69da1,Fine Dining,Phoenix
+33018a3c-2d1b-4f88-ad28-970936e9599d,Restaurant_33018a3c,Mexican,New York
+181433bc-ecb0-49af-a8ee-d59f3d46dfbf,Restaurant_181433bc,Fine Dining,San Antonio
+2768deab-d348-4cae-96a2-1a7da590ba8e,Restaurant_2768deab,Dessert,Los Angeles
+4bc46eba-b254-4e9e-a9be-c1563a56b0c2,Restaurant_4bc46eba,Mexican,San Diego
+66e29703-ffe0-4bdb-b066-9710deb1d117,Restaurant_66e29703,Italian,Houston
+7ffbd631-710c-4308-a6f1-85ed599d84f8,Restaurant_7ffbd631,Fast Food,Phoenix
+a9a21e95-221c-4518-b8c1-ec8dbe74c0cd,Restaurant_a9a21e95,Bar,New York
+3abc8439-7f67-4969-ab21-70c0ef20b558,Restaurant_3abc8439,Asian,Houston
+65eef27f-0f20-4ac3-8b0c-e9763e1aad40,Restaurant_65eef27f,Bar,Chicago
+955f4abc-bee9-47a2-9b27-57ea6fe01543,Restaurant_955f4abc,Mexican,Philadelphia
+8237e305-ba34-4b8a-b07f-a333ecda7160,Restaurant_8237e305,Mexican,New York
+f4ddab68-79f2-4e8d-8031-ecc2ab5fa7c9,Restaurant_f4ddab68,Bar,San Diego
+f44d4827-5ddf-45ec-b1ce-1e3462856ae9,Restaurant_f44d4827,Italian,San Antonio
+94d95be0-f4b0-4333-b713-be1e76bbc50a,Restaurant_94d95be0,Asian,Phoenix
+b815a604-7a3d-4b3f-85a0-cab260c8a0d6,Restaurant_b815a604,Italian,Philadelphia
+befd594c-d826-483c-8fb8-a84e21b43496,Restaurant_befd594c,Mexican,Philadelphia
+99ee3e03-cc1e-42f5-afbf-69a2741e93d3,Restaurant_99ee3e03,Fine Dining,Los Angeles
+f11b4de1-5a82-4167-b7c6-f255f9ea2989,Restaurant_f11b4de1,Asian,Chicago
+9bc6300b-e3ed-4bdf-98ce-17aa27491f91,Restaurant_9bc6300b,Italian,Philadelphia
+f9fba072-489c-4581-83d7-d83e0faef4d0,Restaurant_f9fba072,Asian,Chicago
+f5d829ee-abb5-4ce5-b38b-28d6ad3b2c32,Restaurant_f5d829ee,Dessert,San Diego
+8c4813f4-ac6a-45a0-9dd7-be17b9eb155a,Restaurant_8c4813f4,Fast Food,Chicago
+f6a7fd79-3ecc-4e35-9345-56bf5b9a44b7,Restaurant_f6a7fd79,Mexican,San Diego
+b337ac23-b5af-48ec-a010-09dae7908f61,Restaurant_b337ac23,Italian,Phoenix
+8f6fc010-ebb3-47e6-ac87-fb44d49308d7,Restaurant_8f6fc010,Fine Dining,New York
+dd4fb833-0343-4741-a807-aa1be55622c8,Restaurant_dd4fb833,Fine Dining,New York
+b5ce8884-967d-4174-af8a-13764b878d13,Restaurant_b5ce8884,Asian,Phoenix
+c7b49cc4-f3da-4984-8591-c3e67af3593b,Restaurant_c7b49cc4,Bar,San Diego
+40cc86ff-aacc-4a04-8294-a0b87cac96ad,Restaurant_40cc86ff,Cafe,New York
+5ac3c7cc-284a-435e-9304-1c10226d7ee2,Restaurant_5ac3c7cc,Fine Dining,Phoenix
+5f84d817-3a01-4bc9-8d4e-85a9a1bbe5de,Restaurant_5f84d817,Asian,New York
+26f10050-cbd6-4448-827c-77caf78c311f,Restaurant_26f10050,Asian,Phoenix
+97c0bc43-c69e-4421-9ba8-8bb48f6b5962,Restaurant_97c0bc43,Mexican,Philadelphia
+16f1a0e1-8ed6-48b3-9c3e-979c8942d60d,Restaurant_16f1a0e1,Bar,San Antonio
+5365d9ae-1334-4cc7-8156-b1afa8dc9ed3,Restaurant_5365d9ae,Dessert,San Antonio
+15f37015-486a-4b68-bacc-e44e5fd2cb44,Restaurant_15f37015,Asian,Chicago
+fce02af3-566b-4694-9096-53777ba6c211,Restaurant_fce02af3,Dessert,San Diego
+804a6235-492b-4b8b-bab5-c875be38591b,Restaurant_804a6235,Asian,Phoenix
+9413a026-5f14-467f-95a3-913e020b6f36,Restaurant_9413a026,Mexican,San Antonio
+4a94049c-af1c-4800-9129-44ed9d87f054,Restaurant_4a94049c,Mexican,San Antonio
+4375f42d-b4b9-4c76-a632-62d94ce0fd11,Restaurant_4375f42d,Fast Food,Phoenix
+dc9a5f04-1e9e-4995-8b4f-aabde58c8124,Restaurant_dc9a5f04,Asian,Los Angeles
+4ea9dd2e-c3c1-4d0a-b131-e1dd31bae008,Restaurant_4ea9dd2e,Mexican,Philadelphia
+c0b3de09-03e6-46f3-a421-5140f5db5ee1,Restaurant_c0b3de09,Cafe,Phoenix
+3e037cdd-c803-4350-9b96-1ad1578c64ba,Restaurant_3e037cdd,Dessert,San Antonio
+166b3de4-8e87-4449-ba37-5580e80ebc5a,Restaurant_166b3de4,Fast Food,San Diego
+b06b99c0-2736-4c15-9123-79fc80257bf2,Restaurant_b06b99c0,Asian,San Diego
+216cfa0a-6401-4e64-8654-87661eccc96d,Restaurant_216cfa0a,Italian,Philadelphia
+c494c803-495a-4449-8f79-55ea59e87430,Restaurant_c494c803,Bar,Phoenix
+e35a7e43-0252-4c41-ac01-1e80c315ba21,Restaurant_e35a7e43,Italian,Los Angeles
+552ab954-53be-4fd3-a206-696a5ba0c179,Restaurant_552ab954,Bar,Philadelphia
+ed90e1a0-85b6-40b5-ad50-1cfbbec2496d,Restaurant_ed90e1a0,Fast Food,New York
+283b3e7f-56f5-43e3-9d52-0ade6937c2d9,Restaurant_283b3e7f,Fast Food,San Diego
+b0a42089-0e38-4e89-bd9a-11814c2be507,Restaurant_b0a42089,Italian,Chicago
+b736b58a-b7c2-4611-a9e5-1e2a07686c55,Restaurant_b736b58a,Mexican,Houston
+397a5eee-e127-49d5-9498-c43c398ee186,Restaurant_397a5eee,Asian,Philadelphia
+c502f49f-3e47-4a1b-840a-9af5d96319f9,Restaurant_c502f49f,Bar,New York
+bcc31b54-cc52-406f-9160-ad3533d9fcdc,Restaurant_bcc31b54,Fast Food,San Diego
+e4b375c2-0adb-463a-9aae-d3756472754c,Restaurant_e4b375c2,Asian,Philadelphia
+36053877-f442-4f11-9fe6-42e2d5bd98f4,Restaurant_36053877,Dessert,Los Angeles
+87ed9ac9-1c87-4ecf-b19a-e9c1d04386e1,Restaurant_87ed9ac9,Fast Food,Philadelphia
+6c3d1b39-2e4d-4bb2-98fd-4ab8444efdf1,Restaurant_6c3d1b39,Bar,Philadelphia
+dcdadbac-4d14-4650-91b8-f9a4738b7d1e,Restaurant_dcdadbac,Cafe,Houston
+c4308b26-f441-4130-8d3b-92b74e3314c8,Restaurant_c4308b26,Mexican,New York
+0cf3a8ee-8f38-499c-823b-76d534a770d3,Restaurant_0cf3a8ee,Fast Food,San Diego
+6ea96998-74c9-4e67-91ff-07d65bed75bd,Restaurant_6ea96998,Bar,Los Angeles
+b7938cf9-e9c8-4774-bb06-4ec6de77d1a5,Restaurant_b7938cf9,Cafe,Phoenix
+084bcf82-e781-4694-894f-8e73ab69d327,Restaurant_084bcf82,Dessert,Houston
+effc772a-926d-4dd5-9d05-da944caf7673,Restaurant_effc772a,Cafe,San Diego
+c0273e62-37e1-4209-9bf5-0cb3f0f6d134,Restaurant_c0273e62,Fine Dining,Los Angeles
+c402cc90-d944-4ca6-8432-256698a76797,Restaurant_c402cc90,Fast Food,Los Angeles
+f7388f89-89fb-409a-95b0-4fee1c71f96b,Restaurant_f7388f89,Dessert,Chicago
+2eece2c0-b27f-48f3-affa-191ed096b25c,Restaurant_2eece2c0,Dessert,Los Angeles
+eff3be78-d34f-4fea-94db-2e2e8946ce46,Restaurant_eff3be78,Asian,Philadelphia
+84cbdd80-4e0b-424a-ad59-3d5d9d7c3999,Restaurant_84cbdd80,Mexican,Phoenix
+0c479e34-2caf-42d0-8a27-50ab6b79f13b,Restaurant_0c479e34,Cafe,Chicago
+7bce61d6-bef8-41bc-9d84-def88b969de7,Restaurant_7bce61d6,Fast Food,Philadelphia
+e9b1775c-b94e-4c1a-8ca2-46c68c2684a1,Restaurant_e9b1775c,Fine Dining,Los Angeles
+9bba8cc7-7faf-4c65-b197-96718e009c34,Restaurant_9bba8cc7,Fine Dining,Chicago
+16440e34-04a0-4c31-9bca-b9f597b30cd9,Restaurant_16440e34,Fine Dining,San Diego
+f50590a4-1db7-4dd7-81ba-977de3d25a1a,Restaurant_f50590a4,Italian,Philadelphia
+b8cfa386-acc5-4eff-9aba-97e48f2a8a1f,Restaurant_b8cfa386,Asian,San Diego
+d73ffaad-7cb8-49d9-904e-19e65039dedb,Restaurant_d73ffaad,Fast Food,Los Angeles
+6a34032e-500b-4c48-9bec-be50fd1f39a1,Restaurant_6a34032e,Mexican,Phoenix
+f8706c6b-1343-4b24-99e8-817cf4f19ae5,Restaurant_f8706c6b,Bar,San Diego
+c01ef4cd-2efb-48b8-b4f0-797c4d8cdc45,Restaurant_c01ef4cd,Bar,San Antonio
+30ebea9e-5b0b-4c56-aa53-3c783cc455ca,Restaurant_30ebea9e,Mexican,Chicago
+d7d13808-fd75-49c6-a5d0-73e844fa9f9f,Restaurant_d7d13808,Asian,Los Angeles
+f557e610-4a9c-43c0-8e1b-4b7c8fa0d878,Restaurant_f557e610,Dessert,San Diego
+f18e0897-0f20-4815-a5fe-df990c02ffd7,Restaurant_f18e0897,Asian,Chicago
+755d72cf-419f-4268-8302-99bf836619bd,Restaurant_755d72cf,Fast Food,Chicago
+52ca59d3-97aa-4175-85de-e8eb506f260c,Restaurant_52ca59d3,Bar,New York
+dcc91755-7599-476a-8054-804b6fe15bad,Restaurant_dcc91755,Mexican,Chicago
+df252369-55e6-4269-b1d2-4b90dba67365,Restaurant_df252369,Cafe,Chicago
+1c45f3b3-1605-4031-95c5-4171adc2c79d,Restaurant_1c45f3b3,Fast Food,Philadelphia
+3fc93d10-493a-4b86-a3cd-9d2541ff68f8,Restaurant_3fc93d10,Fine Dining,Philadelphia
+0f2b88d0-e8d4-4460-83d6-898a431effa0,Restaurant_0f2b88d0,Cafe,Los Angeles
+288fdb28-fc22-4d28-9e12-cce8d7133bb1,Restaurant_288fdb28,Cafe,Houston
+4951fb92-8db8-4c62-8945-e70817f99ddc,Restaurant_4951fb92,Cafe,Chicago
+b99a505f-7413-4c4c-a103-ed90125066f7,Restaurant_b99a505f,Cafe,Los Angeles
+4c9c8c9e-bfd0-43d9-9344-9f4eefe26aa2,Restaurant_4c9c8c9e,Fast Food,Chicago
+00442c5a-a36e-42d2-bee8-660755a2153d,Restaurant_00442c5a,Fast Food,Philadelphia
+645a1a8f-8423-4e05-b48b-531516bd30e2,Restaurant_645a1a8f,Italian,New York
+bee7a538-3a03-44e1-82b5-d26b5d2dbae2,Restaurant_bee7a538,Mexican,New York
+41de2fb9-5db0-4835-86c7-6c86463b8fb5,Restaurant_41de2fb9,Cafe,Houston
+533b3961-8358-4e9a-ad74-c3147013050e,Restaurant_533b3961,Bar,New York
+d20798f8-e02a-4ca2-8566-a5fc29bb07a8,Restaurant_d20798f8,Dessert,Phoenix
+c0cca9f0-8f53-4012-9506-307188b4d6a8,Restaurant_c0cca9f0,Cafe,San Diego
+c27831b3-17b8-4475-95c1-85853132fda9,Restaurant_c27831b3,Fine Dining,San Antonio
+135018bb-a3fb-400d-8b33-52b48f567ef7,Restaurant_135018bb,Cafe,San Diego
+30eb77e5-0445-4553-a726-a8d182eb36be,Restaurant_30eb77e5,Mexican,New York
+67520f98-3ee1-47f9-b6f6-fffc955e4f31,Restaurant_67520f98,Fast Food,San Diego
+d70b91ce-68ac-4b52-aa5b-f318270585f7,Restaurant_d70b91ce,Bar,San Diego
+3e82e8ee-e93e-47ae-814c-7cfea6c70efb,Restaurant_3e82e8ee,Dessert,Houston
+875dca19-70fb-470e-96ef-8c4eab48184d,Restaurant_875dca19,Asian,Chicago
+97ffa6e1-23a5-431e-abb1-205b13a1101c,Restaurant_97ffa6e1,Asian,Philadelphia
+9ac6b4e0-dace-4203-a102-8c169f178703,Restaurant_9ac6b4e0,Asian,San Antonio
+d9c8308c-fa33-46b0-8abf-c3a2fc0a9ea7,Restaurant_d9c8308c,Fast Food,Philadelphia
+4dbc6c63-9d4c-4dae-9b1e-16e3007ffc6a,Restaurant_4dbc6c63,Mexican,Philadelphia
+68db6d16-2a22-4696-a50f-9106c6e3d7b0,Restaurant_68db6d16,Fine Dining,San Diego
+30ceb223-c97a-4ee8-9a2a-a555f6b6f9eb,Restaurant_30ceb223,Mexican,Phoenix
+9b2a1e45-23ad-47cb-86f4-d250bd65a006,Restaurant_9b2a1e45,Dessert,Houston
+7415aacd-248d-4c46-9e90-2d41def5c8f5,Restaurant_7415aacd,Fast Food,Los Angeles
+a61d4e75-9c6d-412b-9e33-018e02670d1c,Restaurant_a61d4e75,Italian,Phoenix
+f1c8691e-eb44-471a-a95f-ec4ba5b02840,Restaurant_f1c8691e,Bar,San Antonio
+bd25746b-d967-4eec-a4b2-a854a765b5b4,Restaurant_bd25746b,Fine Dining,Chicago
+93b92896-b2d1-4cc4-9f26-90ae03739cf4,Restaurant_93b92896,Asian,Philadelphia
+d8a75629-fde7-45e1-a1d9-f5bbe6f446f3,Restaurant_d8a75629,Fine Dining,Chicago
+8f817769-4ce1-436e-a9c8-a74f2704b194,Restaurant_8f817769,Dessert,San Diego
+b13b930e-3a5f-4272-8072-82b8bb0ba7e6,Restaurant_b13b930e,Dessert,Phoenix
+e59dfd2d-c3c6-4222-ac68-61f0392bbc61,Restaurant_e59dfd2d,Dessert,New York
+2b88cb6b-c08e-4d90-bef9-d6a59aaf6f84,Restaurant_2b88cb6b,Mexican,San Antonio
+6bfb82cd-b59f-4732-80ec-a9d1c1a43493,Restaurant_6bfb82cd,Dessert,Houston
+f1c2caac-f69c-496f-b06a-1b6f316f9245,Restaurant_f1c2caac,Fine Dining,Philadelphia
+392b8774-e928-4ce0-9fb6-f48ba4ffb529,Restaurant_392b8774,Italian,New York
+a1e649e3-1cb1-4739-aa11-a2c425eafb48,Restaurant_a1e649e3,Cafe,San Diego
+1c26b30d-8049-42df-bb05-73c4dbe9a65d,Restaurant_1c26b30d,Dessert,Phoenix
+35508338-fdbf-4deb-92f1-81f315376431,Restaurant_35508338,Italian,Los Angeles
+5ee7979d-4b1d-4e7d-8f6b-7a65c9b63bb2,Restaurant_5ee7979d,Bar,Chicago
+426b7884-d47e-4088-b3cc-6194e074d33e,Restaurant_426b7884,Cafe,Philadelphia
+9dbb8dc7-9dfb-4ab7-b427-6d7526d39046,Restaurant_9dbb8dc7,Bar,Philadelphia
+b9ac5650-3995-4f59-b7ad-e01936f5d682,Restaurant_b9ac5650,Italian,San Antonio
+8da5ac4f-44c3-4e9b-aab1-53a82fcffd7a,Restaurant_8da5ac4f,Italian,Houston
+30e9a47b-7c4b-4614-9ee5-cf5f364b9a43,Restaurant_30e9a47b,Asian,Phoenix
+db4c13e4-6a83-4678-ab11-924c15c34102,Restaurant_db4c13e4,Mexican,San Antonio
+906489ef-182d-4d33-bec3-6ceff4aea5f8,Restaurant_906489ef,Dessert,Phoenix
+e6e0a310-2cc3-4eb2-a2ab-da7f185c4479,Restaurant_e6e0a310,Mexican,Chicago
+a3fd6a49-52ff-4743-9216-19514577e514,Restaurant_a3fd6a49,Mexican,San Antonio
+3225910d-d54f-4704-a650-1c3419dc02c0,Restaurant_3225910d,Asian,Philadelphia
+389b766c-91a8-4443-9769-be20f353a7fc,Restaurant_389b766c,Asian,Chicago
+24ad399f-9ae0-4d76-9389-8adce3db4120,Restaurant_24ad399f,Fine Dining,San Antonio
+25cc03b8-0f14-4805-9ec2-61cd0800824e,Restaurant_25cc03b8,Italian,New York
+ea49ffa4-8aaf-4d5a-8d56-7eeb14b6c64f,Restaurant_ea49ffa4,Italian,Chicago
+b8f9302c-1870-46ea-ab62-f8b38c8705b9,Restaurant_b8f9302c,Asian,San Diego
+66289502-3a55-46d3-8419-0832c05f3fc8,Restaurant_66289502,Dessert,Chicago
+0541e8b7-b833-4a2c-8855-945c0c875e50,Restaurant_0541e8b7,Fast Food,Philadelphia
+93638766-2701-4ead-8d1c-eff0444d60e9,Restaurant_93638766,Asian,Chicago
+2790e1ee-c703-4231-84c5-d41f41ab089d,Restaurant_2790e1ee,Bar,Phoenix
+6bdb5018-8d58-4904-a398-6aad3af60bca,Restaurant_6bdb5018,Asian,San Diego
+1fa911bb-950d-4414-9187-1eae9acb2cb1,Restaurant_1fa911bb,Cafe,San Diego
+0138416a-ea2a-4822-b44e-994d37ecb2c9,Restaurant_0138416a,Italian,Philadelphia
+af2fc2be-3c57-49b1-82fe-4dbfa975c748,Restaurant_af2fc2be,Asian,Los Angeles
+78cc227d-4b6b-48e5-93f8-e6e32551c5b4,Restaurant_78cc227d,Bar,Phoenix
+0f00a82f-8cbc-4c90-8943-332422215087,Restaurant_0f00a82f,Italian,
+d6053877-2cf7-4d97-9613-3552281b9378,Restaurant_d6053877,Cafe,Houston
+77e9f787-3c5c-4e69-aea0-babd030e77c1,Restaurant_77e9f787,Italian,San Diego
+e8766fc4-f9ca-4a57-bf70-a3396be895bb,Restaurant_e8766fc4,Fast Food,San Antonio
+d7af6d07-6db9-4318-aee1-6d9dc5ef9d78,Restaurant_d7af6d07,Fast Food,Houston
+b1da1bcf-d446-41eb-8b74-8d76e4dc1e77,Restaurant_b1da1bcf,Italian,Los Angeles
+8fb5c1aa-8cbc-4341-8aa2-3ca51d53c2b3,Restaurant_8fb5c1aa,Fine Dining,New York
+7b79aa95-e3b8-49f8-8c07-777c4ac6df54,Restaurant_7b79aa95,Dessert,Philadelphia
+d6502d77-2bf8-43a6-84f3-03d9a1690978,Restaurant_d6502d77,Bar,Chicago
+ba5a52c2-2b81-4d42-85cd-803d3495207a,Restaurant_ba5a52c2,Bar,Houston
+a1caec4f-8264-42ba-b41c-738679d69fce,Restaurant_a1caec4f,Bar,San Diego
+c86fc0bd-80ca-4542-8a04-3b46fc7c48e7,Restaurant_c86fc0bd,Italian,
+3e300d4b-1b8a-4a2a-af39-894df23829ab,Restaurant_3e300d4b,Fine Dining,Philadelphia
+66c4737f-aea5-4f14-9c1e-1073e56a0970,Restaurant_66c4737f,Dessert,San Antonio
+61782bce-86e2-4621-b026-956b07e7df4a,Restaurant_61782bce,Asian,Chicago
+61143003-0e27-45ba-b830-6224793a6507,Restaurant_61143003,Dessert,Philadelphia
+759cae38-72e3-4def-8c52-fb06dfcaf695,Restaurant_759cae38,Asian,Phoenix
+0f424ef2-f725-49f8-bcaa-1852ed4ed328,Restaurant_0f424ef2,Dessert,Houston
+d807191c-3271-4036-8fb7-35f8ccb2ebbd,Restaurant_d807191c,Fine Dining,Phoenix
+a1b0112f-68ce-427f-b781-660dc23855a6,Restaurant_a1b0112f,Cafe,Houston
+c0b1f047-111b-4b32-ad6c-485e8ee57074,Restaurant_c0b1f047,Cafe,Phoenix
+de274284-b18c-4752-823d-c0db5e447a3a,Restaurant_de274284,Fine Dining,San Diego
+f700d3fd-dbc0-491c-a461-d69c9d5cb614,Restaurant_f700d3fd,Asian,San Diego
+9da96394-5ccf-4e40-b986-7f9758683348,Restaurant_9da96394,Asian,Phoenix
+c96ec3bd-4657-4d7a-a7ca-789af0637a31,Restaurant_c96ec3bd,Cafe,Los Angeles
+6e1e204c-b0bc-406c-933c-0632eb832f83,Restaurant_6e1e204c,Bar,San Antonio
+dc545e12-056e-407d-badd-dc96a14e13b2,Restaurant_dc545e12,Asian,Chicago
+635a8e74-6810-42e6-9628-3db74f72bad5,Restaurant_635a8e74,Cafe,New York
+47f23cc0-70f7-49ef-8e2c-74458606ff42,Restaurant_47f23cc0,Cafe,Los Angeles
+adc881f3-4cc6-4310-900c-b555a259dbe3,Restaurant_adc881f3,Asian,San Diego
+f70fad9b-58d1-418d-b2df-fc8c754c3020,Restaurant_f70fad9b,Cafe,San Diego
+4c162b71-39f4-4163-9b33-6f5c543bb26d,Restaurant_4c162b71,Fine Dining,Houston
+b74ee7ad-0228-472b-9ade-082f87c3ffaa,Restaurant_b74ee7ad,Cafe,Phoenix
+0aee7f3b-eda1-48eb-a5ef-fc8bbfe2a908,Restaurant_0aee7f3b,Fast Food,Los Angeles
+4e427610-bb37-4c4c-b1b4-95f8485a0d52,Restaurant_4e427610,Fine Dining,Houston
+4b21e5d7-aff3-407a-9633-bb4c18a2aefd,Restaurant_4b21e5d7,Italian,Houston
+a4d93a1c-c019-42da-93c8-0331f08810a7,Restaurant_a4d93a1c,Fine Dining,New York
+9b9a21a2-6a2e-4990-af05-6c45b74c6ec3,Restaurant_9b9a21a2,Mexican,San Antonio
+83bc4a78-2aad-4597-a050-f356a74dcb98,Restaurant_83bc4a78,Asian,San Diego
+ad3325b8-03b1-4cff-bb6d-31952405bb7a,Restaurant_ad3325b8,Mexican,Chicago
+e293c9fc-e49e-433d-82e2-9ca0d59b93f9,Restaurant_e293c9fc,Italian,Chicago
+eebe828f-d6f1-4dd1-9f45-89e3f9069128,Restaurant_eebe828f,Bar,San Diego
+6c7547a2-fc76-41d4-bbc1-a77b2cf32441,Restaurant_6c7547a2,Dessert,Houston
+7a91bba0-697b-4009-a51c-74c8915186a3,Restaurant_7a91bba0,Cafe,Philadelphia
+ef229840-c325-410b-bcc0-868cd8ec6958,Restaurant_ef229840,Cafe,New York
+c499e42b-5dee-4df8-a935-34f656334282,Restaurant_c499e42b,Mexican,Houston
+88eff949-5dee-4bb5-af23-24bf460065ea,Restaurant_88eff949,Italian,Chicago
+c59a3d48-9771-419c-aed6-6f78928dc454,Restaurant_c59a3d48,Bar,Chicago
+daa188b1-ab12-4007-b5d4-771914ee937d,Restaurant_daa188b1,Italian,San Antonio
+1b689692-c1d6-4c61-b027-50137d042a6f,Restaurant_1b689692,Dessert,Chicago
+a40727e9-0493-4109-a0ab-158cd7c126f7,Restaurant_a40727e9,Cafe,New York
+b3e4bb97-97f4-4c16-96a1-0fa78d0e99f1,Restaurant_b3e4bb97,Italian,Phoenix
+33f4a574-3691-463b-b1e2-7c74ca468ad5,Restaurant_33f4a574,Mexican,Philadelphia
+e237dc33-6d86-4a22-91ff-2ab345490ff5,Restaurant_e237dc33,Cafe,San Diego
+5d849a93-4532-4f57-a5c3-4b3c132b9bec,Restaurant_5d849a93,Dessert,Chicago
+18d27a13-bb07-4b9b-98bd-9cb6365a9f6a,Restaurant_18d27a13,Dessert,Phoenix
+4acee586-9aa9-45e3-b2a5-468e8effcf0c,Restaurant_4acee586,Fine Dining,Los Angeles
+2f7e07a1-f70c-46d6-a9b0-b2ee47a61a0e,Restaurant_2f7e07a1,Asian,Chicago
+38d8c102-2681-410e-99bf-201e68a6026f,Restaurant_38d8c102,Dessert,Phoenix
+51f9c725-ecdc-43e6-975c-74dedb7a0273,Restaurant_51f9c725,Fast Food,New York
+126789c6-9918-4ab5-bebc-22b42a09dba9,Restaurant_126789c6,Asian,Phoenix
+acd7bfba-042f-409f-89ba-c68a2ecf29c7,Restaurant_acd7bfba,Fine Dining,Chicago
+f42b7ad7-2e32-4318-90ed-7b2898d9f8da,Restaurant_f42b7ad7,Bar,San Antonio
+b1815705-a25a-478f-a12c-123b6c9b79dd,Restaurant_b1815705,Asian,Los Angeles
+6e6d2997-79bc-4898-96ef-cf5099481409,Restaurant_6e6d2997,Bar,Los Angeles
+73b63fab-a556-48b8-8e1d-c62c0fb71257,Restaurant_73b63fab,Fast Food,Chicago
+9d793a6d-3bca-4b51-b1ee-5080cbcf9e3f,Restaurant_9d793a6d,Dessert,Philadelphia
+7a1f1dba-b3bb-40ff-be86-ed354c91c414,Restaurant_7a1f1dba,Fine Dining,New York
+f4edb4d9-49a4-4aba-a260-e5e6bc7d304a,Restaurant_f4edb4d9,Cafe,San Antonio
+86071bd1-f5df-464b-b254-96aca3faee1e,Restaurant_86071bd1,Fine Dining,San Diego
+559078ba-8c9a-42f0-abbe-ad1a1e6f5989,Restaurant_559078ba,Cafe,Philadelphia
+cde42e1e-8f48-4444-a1e9-96331752070d,Restaurant_cde42e1e,Cafe,New York
+76e52f30-988d-4ed6-85f0-70eef5dc54e6,Restaurant_76e52f30,Cafe,Philadelphia
+11bf4e9f-300c-4059-88b4-3ffd5d63b477,Restaurant_11bf4e9f,Fine Dining,New York
+281481b1-67da-4837-a7f1-a05d61259793,Restaurant_281481b1,Mexican,San Diego
+5d9830f9-2d0c-4ff3-ba6c-c5e20635a063,Restaurant_5d9830f9,Cafe,Chicago
+9299eb89-5a79-4a47-994b-87c7a3cc94dc,Restaurant_9299eb89,Bar,Phoenix
+8671af4c-0335-4d36-8936-b7e6e47c9799,Restaurant_8671af4c,Mexican,Phoenix
+74c488b4-ef21-4f91-a18c-7e623cd23f38,Restaurant_74c488b4,Asian,Houston
+b05f1738-e970-4628-9dcb-f6bbe5fd8cf3,Restaurant_b05f1738,Fine Dining,Chicago
+c6c99a8f-abaa-45f3-ae1a-75b037d41028,Restaurant_c6c99a8f,Dessert,Chicago
+1ad57f8d-54e8-4fc1-8e85-fc315607ed4e,Restaurant_1ad57f8d,Dessert,Philadelphia
+7d5feb48-9b04-4a3d-a740-f6dfce0f9dab,Restaurant_7d5feb48,Bar,San Diego
+ba25afc6-5095-474c-ab0f-72846e1fa9d1,Restaurant_ba25afc6,Fine Dining,
+18beccfa-8222-4677-bc2e-e84c00b283db,Restaurant_18beccfa,Mexican,San Diego
+45819c1f-aae3-4fea-90df-30a31ffd439f,Restaurant_45819c1f,Asian,Los Angeles
+dfa3e664-6ce3-4fbe-8164-bb462d6447c4,Restaurant_dfa3e664,Mexican,New York
+05caaa37-8986-42ae-8508-7926b5528006,Restaurant_05caaa37,Fine Dining,Chicago
+a78ebe26-e747-4f4c-ad68-e4ca982d6fe6,Restaurant_a78ebe26,Fast Food,Philadelphia
+b617ca4d-dd92-48dd-a6ef-e1589e4ffc2f,Restaurant_b617ca4d,Dessert,Los Angeles
+b3d61c59-ae61-4428-bf4f-019492df07d4,Restaurant_b3d61c59,Fine Dining,San Diego
+67658a35-e95f-479b-b620-09a9b9dcebb3,Restaurant_67658a35,Mexican,San Diego
+8be57a9f-2455-4134-aade-5e974185cddd,Restaurant_8be57a9f,Italian,San Diego
+11e6895c-9605-49df-86ab-6ecf373e5111,Restaurant_11e6895c,Fast Food,San Antonio
+74018840-64d0-4d56-a627-bbac7c18bfcf,Restaurant_74018840,Dessert,New York
+20a01da9-288b-42eb-a830-05fb2470a1af,Restaurant_20a01da9,Dessert,Phoenix
+f9b0a239-49fd-4b9e-bb97-a58f29473d40,Restaurant_f9b0a239,Italian,San Antonio
+c79a2a43-2edb-45c2-a693-b2f2f0db32fb,Restaurant_c79a2a43,Cafe,New York
+42287491-d81f-4c3e-ae90-fdc290ad60e4,Restaurant_42287491,Fine Dining,Los Angeles
+c8c7a01c-1129-4f28-b7a7-095a996afc1c,Restaurant_c8c7a01c,Italian,San Antonio
+bcb15e0c-fd7b-43c5-9287-3d515c0d641b,Restaurant_bcb15e0c,Asian,Los Angeles
+b6e1be46-9f6a-41a4-ac2a-8d19ab0876f8,Restaurant_b6e1be46,Italian,Los Angeles
+8683d219-619d-47ac-9a07-f53d525c8ae4,Restaurant_8683d219,Dessert,New York
+4eec0dc8-ecc9-4ae4-8cfd-572465594f50,Restaurant_4eec0dc8,Cafe,San Antonio
+f55bf184-ee3d-4afc-9c13-c93a9943c92a,Restaurant_f55bf184,Fast Food,Chicago
+014aedfc-f5a1-4353-8806-31c5037923f3,Restaurant_014aedfc,Bar,Philadelphia
+9cc369c5-3596-4548-93e9-a9019af2ad45,Restaurant_9cc369c5,Bar,San Diego
+a2eeeeae-87e9-4bfa-a9bf-8ea4628ab697,Restaurant_a2eeeeae,Bar,San Antonio
+446420e7-d41a-4832-9cb6-42ca621db909,Restaurant_446420e7,Mexican,Chicago
+ff7aba27-0661-4f71-ae31-dc1633b46c7f,Restaurant_ff7aba27,Asian,Los Angeles
+252e33ca-439a-400e-9396-a37d577933d9,Restaurant_252e33ca,Fast Food,San Antonio
+74e0f4f5-5308-4b71-bf9e-2fbf0181d062,Restaurant_74e0f4f5,Fast Food,Houston
+9120824d-e859-4398-bf3d-34da6dba0db8,Restaurant_9120824d,Italian,New York
+32ce7a58-0bd2-4b9f-8446-d9f4681e0a6c,Restaurant_32ce7a58,Cafe,San Diego
+363225b4-c964-4c59-97fa-ab69ccc47642,Restaurant_363225b4,Bar,San Antonio
+3abcb672-f8ab-46f7-a7d3-226c4613cb7d,Restaurant_3abcb672,Fine Dining,Houston
+96ae3926-9bf7-46fb-acfe-f455321c8c77,Restaurant_96ae3926,Dessert,Philadelphia
+da15cc3e-eecc-4dd9-a2d3-412d4e9ff59a,Restaurant_da15cc3e,Fast Food,Phoenix
+2da2604e-0250-4242-a14c-e4a1e9b16437,Restaurant_2da2604e,Fine Dining,Los Angeles
+89085a92-02f7-4d2c-914a-5aa1012a5565,Restaurant_89085a92,Italian,
+b07ecab8-7a7a-4286-9c0e-51015b3ff27c,Restaurant_b07ecab8,Italian,Houston
+ebfa9c8d-f1d0-4fb4-acd3-a560dd54856e,Restaurant_ebfa9c8d,Fine Dining,Los Angeles
+a00ba61f-b8bd-439a-b8d2-98f13a992ff7,Restaurant_a00ba61f,Mexican,New York
+9e3b2114-ede2-41cc-b5f3-5bdb4874e5c7,Restaurant_9e3b2114,Dessert,New York
+2e851640-f66d-4a2a-ba87-56dcadcb332d,Restaurant_2e851640,Fine Dining,New York
+b14288d6-4367-4476-b59f-bd1662780c54,Restaurant_b14288d6,Bar,San Diego
+92816002-9827-4412-a596-82568b860b49,Restaurant_92816002,Fine Dining,Houston
+ac7647a4-c8d2-4a78-93bf-44212e8d7115,Restaurant_ac7647a4,Italian,Chicago
+d51d1eae-4014-4c4f-a8ab-9d8eee5e96ac,Restaurant_d51d1eae,Cafe,Houston
+b4d41048-a288-4faf-812b-1aeba2e44007,Restaurant_b4d41048,Asian,Philadelphia
+816e9083-26ca-4391-8957-90a98c1fb57d,Restaurant_816e9083,Fine Dining,Phoenix
+e0285623-f6fc-457b-bd5f-11cfb3ca852f,Restaurant_e0285623,Fast Food,Houston
+a64f7955-c5fa-4973-a55f-1bc8b704a9ad,Restaurant_a64f7955,Bar,Phoenix
+e49b452a-06fb-4885-a552-a7059bcc65af,Restaurant_e49b452a,Cafe,New York
+6c96586f-bcea-4c39-bb37-34c9c57e1f3e,Restaurant_6c96586f,Fast Food,San Antonio
+28a8a6c9-32b8-436e-9654-6d72e9f3349c,Restaurant_28a8a6c9,Dessert,New York
+efc77f41-f639-4307-91d2-67dc29778c09,Restaurant_efc77f41,Asian,San Antonio
+ce47107b-849b-4278-bdce-b9c4fd6ea290,Restaurant_ce47107b,Asian,San Antonio
+5d50d9be-05bb-42e9-bb8a-181d8960e460,Restaurant_5d50d9be,Bar,Chicago
+3b05322a-c3f8-473d-bcee-947891065a6f,Restaurant_3b05322a,Cafe,San Antonio
+a8e82628-445f-4513-ab7f-488f3cc958a6,Restaurant_a8e82628,Fast Food,San Diego
+56830153-720c-4bce-8920-f60d8a601c9d,Restaurant_56830153,Fine Dining,Houston
+8a0e3b41-8c57-49bc-9a81-dcbdb4b5ecdc,Restaurant_8a0e3b41,Cafe,Chicago
+383ad652-7e62-47c9-b38e-f1784ec714d8,Restaurant_383ad652,Dessert,New York
+5e3c832f-9c06-43e2-b625-4bcedf3c3d04,Restaurant_5e3c832f,Bar,San Antonio
+8baa857e-86e8-4b6c-8707-a5932b3ad613,Restaurant_8baa857e,Fast Food,San Antonio
+3b32775f-020d-4fb2-b3b7-7d8a730f969d,Restaurant_3b32775f,Fine Dining,Phoenix
+1abfc4b8-972c-46c7-a4b1-b172a5bd0489,Restaurant_1abfc4b8,Fine Dining,Philadelphia
+df5c1ea4-92fd-45b5-a76d-1634e83e6d25,Restaurant_df5c1ea4,Mexican,San Diego
+93e3ec64-2587-47e4-8643-45d18ff04c3b,Restaurant_93e3ec64,Asian,Los Angeles
+b85d2c79-1a09-483d-9abe-d63c36581c7a,Restaurant_b85d2c79,Fine Dining,New York
+9a605d3c-a42b-490f-a2e0-504d7816986a,Restaurant_9a605d3c,Cafe,San Antonio
+b3760053-bce4-433c-8993-47ee8bb86479,Restaurant_b3760053,Italian,Los Angeles
+f4f2dbee-956c-4c5d-8be5-589955ee24a9,Restaurant_f4f2dbee,Fine Dining,Houston
+8fb99b33-34a6-4286-96e1-17843fbdc1e0,Restaurant_8fb99b33,Dessert,Houston
+6c674ac3-a688-414a-8186-e654f8fe7581,Restaurant_6c674ac3,Asian,Phoenix
+131c795c-3642-4a3c-bcbf-4ec54e262b21,Restaurant_131c795c,Italian,Houston
+0e0fbc97-858e-4401-833a-9512d8f26602,Restaurant_0e0fbc97,Fine Dining,Los Angeles
+58f331fb-043f-4e5e-a728-d1b8f70eaf17,Restaurant_58f331fb,Dessert,Houston
+35302cd5-f2f4-4860-abba-fa78ce58c5af,Restaurant_35302cd5,Fine Dining,San Antonio
+24e2c16a-4876-4c5d-b58b-b3f2b8bbebee,Restaurant_24e2c16a,Fine Dining,Philadelphia
+3c9671d9-0f42-46f7-9b66-766ffed559cd,Restaurant_3c9671d9,Cafe,San Antonio
+be040220-90b8-4a98-93b1-70ef02015b3f,Restaurant_be040220,Dessert,Philadelphia
+a7eb7320-a51c-45b9-b800-563eaa92fd28,Restaurant_a7eb7320,Cafe,Phoenix
+3b717b76-e860-49ed-a9e9-018169c8a32a,Restaurant_3b717b76,Asian,San Diego
+511b5091-5405-415e-be19-081a3dcde659,Restaurant_511b5091,Dessert,Los Angeles
+05de8daf-af6a-452b-a9de-9c6c47c06e73,Restaurant_05de8daf,Dessert,Philadelphia
+50d0993f-c012-40a4-a20a-11771ebefd6e,Restaurant_50d0993f,Fine Dining,Philadelphia
+c54a9694-69ea-47fb-9511-179b25d3b8df,Restaurant_c54a9694,Asian,San Antonio
+daa2b27c-b502-405d-a7fa-03e45ef6da72,Restaurant_daa2b27c,Italian,Houston
+27f574a6-57e3-47ad-adce-bf62607b7d41,Restaurant_27f574a6,Fast Food,New York
+e0c8afc8-902d-4620-b15a-55cc11a7f682,Restaurant_e0c8afc8,Cafe,San Antonio
+85f5d19d-6a78-483c-925f-83fe548e68eb,Restaurant_85f5d19d,Cafe,Chicago
+2699eca9-644e-4226-812c-17fe1f67574f,Restaurant_2699eca9,Fine Dining,Philadelphia
+74fe8150-7849-4b50-a114-5dc311d7004a,Restaurant_74fe8150,Fine Dining,San Antonio
+e4222513-0ac1-469c-a6e1-b2e8d53cb515,Restaurant_e4222513,Fine Dining,San Diego
+8ecde4e6-0dbc-4dea-a400-99e8116ac584,Restaurant_8ecde4e6,Asian,Phoenix
+8376f3f3-250c-4853-94e3-1311dcbb0aa4,Restaurant_8376f3f3,Dessert,San Diego
+a27f8cb3-23b0-430f-985c-9a506033a337,Restaurant_a27f8cb3,Dessert,Chicago
+01462ee8-f036-43d4-99c8-dac261f95c84,Restaurant_01462ee8,Asian,Chicago
+bdf450a1-7e7b-4647-b250-e055fe0cc87c,Restaurant_bdf450a1,Fast Food,San Diego
+56c459b2-8b65-4646-8220-3ea7475dccfb,Restaurant_56c459b2,Fast Food,New York
+6b1cf0d9-4866-45ca-8660-6d645404b1e1,Restaurant_6b1cf0d9,Italian,Los Angeles
+ad6f39d3-6b84-456e-9d3a-cc8f74f7c6df,Restaurant_ad6f39d3,Italian,New York
+f9221fa6-2a8d-4914-8589-68e0eaf3e643,Restaurant_f9221fa6,Bar,Chicago
+1b11bf1b-1b76-4d59-9627-aaf408606b66,Restaurant_1b11bf1b,Fine Dining,Los Angeles
+ba31095f-f30f-407b-9be7-e838243b2d78,Restaurant_ba31095f,Fast Food,New York
+351cfd97-3151-4214-8c80-f1a8dbec2c66,Restaurant_351cfd97,Fine Dining,San Diego
+a2e7770d-0079-45ae-8f77-2a117074c356,Restaurant_a2e7770d,Asian,New York
+db0c2be9-b710-4332-a8ec-2a87acf6844b,Restaurant_db0c2be9,Dessert,San Diego
+c5c46193-8b5b-49ce-88c7-032ca7e743b4,Restaurant_c5c46193,Italian,New York
+253f7c56-83d7-43b9-9b59-a12390d608ba,Restaurant_253f7c56,Bar,New York
+01a75206-76c8-430a-94f5-94bdb5830168,Restaurant_01a75206,Italian,Phoenix
+c6ad8d2a-e728-4226-900c-14c1af92accc,Restaurant_c6ad8d2a,Cafe,New York
+23b1abdd-1c2a-4154-8c8c-ad58ec43e1f6,Restaurant_23b1abdd,Bar,Chicago
+39706c77-c5cc-42c7-bcb7-cceb7378da12,Restaurant_39706c77,Mexican,Los Angeles
+d3feb514-e84a-4bfc-b6a9-14f1082da40b,Restaurant_d3feb514,Fast Food,Houston
+394ddcee-7ea8-415d-a4cd-4eadbc7d0902,Restaurant_394ddcee,Fine Dining,Phoenix
+14517107-54ef-4b78-81e8-5147adebeec4,Restaurant_14517107,Asian,Phoenix
+f51cb2bd-2b15-4bc1-811f-d3a8ddd1e5a4,Restaurant_f51cb2bd,Bar,Los Angeles
+e7da1876-57e6-4ce3-b4f7-ac14a57836fa,Restaurant_e7da1876,Asian,San Antonio
+36979b87-21dc-4e52-9263-c80e7136c64a,Restaurant_36979b87,Dessert,Houston
+83384fad-1d98-4870-85d1-80ca7e07ae65,Restaurant_83384fad,Fine Dining,
+4cc23043-c5ca-475d-8c9e-7c84ab47f8fb,Restaurant_4cc23043,Mexican,New York
+0d13bcb0-b20d-4618-af48-2c514ba282a4,Restaurant_0d13bcb0,Mexican,
+848cd4f3-df9b-440d-adf1-1847300df1ec,Restaurant_848cd4f3,Bar,San Antonio
+7d7145ae-a449-4bc2-8c69-f2acc815954c,Restaurant_7d7145ae,Dessert,New York
+5cf72cb4-1b44-4612-9059-0f068c958ae8,Restaurant_5cf72cb4,Italian,Chicago
+cc24a526-a934-4b1f-855d-f00959acaa74,Restaurant_cc24a526,Mexican,San Diego
+347f43bc-d3e8-4ec8-8947-d5552d3f32b2,Restaurant_347f43bc,Bar,Philadelphia
+9dd16c79-9d9c-4a23-8a04-d4429891e5dd,Restaurant_9dd16c79,Mexican,New York
+3cb75e8c-c2e7-45a2-a7cc-013ce1f4a150,Restaurant_3cb75e8c,Fine Dining,Houston
+d0b3d08f-d8d5-498b-b501-4361a0941c59,Restaurant_d0b3d08f,Dessert,Phoenix
+773feca4-d927-41f3-b823-73435b819d18,Restaurant_773feca4,Italian,Los Angeles
+43022c34-a79c-4574-977f-4d934aacd97b,Restaurant_43022c34,Cafe,New York
+51dfc071-6833-4a2a-bd8a-f29e4f76d0e4,Restaurant_51dfc071,Fast Food,Philadelphia
+0fdbc747-fe2f-439c-b690-46c32fcf45e5,Restaurant_0fdbc747,Italian,Houston
+39de7d0c-3aca-4631-805d-e1066cf9f950,Restaurant_39de7d0c,Fast Food,San Antonio
+7a441759-a981-4580-bc0c-09eca361fd67,Restaurant_7a441759,Mexican,Phoenix
+a8b29d2d-2eac-4319-a519-a304be48bd59,Restaurant_a8b29d2d,Fast Food,Houston
+65281123-fb91-4e61-987b-ba30a3691a02,Restaurant_65281123,Bar,Philadelphia
+8af95074-6c33-4745-84e0-e7a612048b14,Restaurant_8af95074,Bar,Chicago
+edaa86bd-3cbd-463b-928a-9fb89d4a84f7,Restaurant_edaa86bd,Mexican,Philadelphia
+c913d84f-79a9-4428-8a1c-2444d2dd58ec,Restaurant_c913d84f,Italian,Los Angeles
+05bc059e-8d85-4e67-9b45-ead2518006fa,Restaurant_05bc059e,Bar,Houston
+9ebae0d4-1f03-4ebe-9c79-dcea7cb33c15,Restaurant_9ebae0d4,Mexican,Philadelphia
+c771dd2b-588d-456b-9fec-98128ba702e0,Restaurant_c771dd2b,Bar,Philadelphia
+c3a4a534-d72f-4378-a8f9-0c4991e738bb,Restaurant_c3a4a534,Italian,Phoenix
+e66733f9-7091-471e-a446-fdad70e28df7,Restaurant_e66733f9,Dessert,San Diego
+9492cd01-0c4b-41e5-b0a8-915371176f99,Restaurant_9492cd01,Fine Dining,Philadelphia
+4648059a-7fd6-468a-bbda-3f5dabbb42f4,Restaurant_4648059a,Bar,San Antonio
+b977c3ae-a6e5-471f-bb7c-ef9b023721f7,Restaurant_b977c3ae,Fast Food,San Antonio
+d2da1fe7-f846-47f7-8860-3a17894bf54e,Restaurant_d2da1fe7,Mexican,Phoenix
+126fa310-0c3f-41fa-98e7-45d394a2d40a,Restaurant_126fa310,Fine Dining,Los Angeles
+c7932ed4-a2f8-47bc-bc79-5648dd5fdd83,Restaurant_c7932ed4,Mexican,Phoenix
+24b22c80-1416-42bb-bd27-51239f75dbe6,Restaurant_24b22c80,Fast Food,San Antonio
+58a8e6af-524f-4735-8c6e-55b3eb76e1f1,Restaurant_58a8e6af,Fast Food,San Antonio
+1fba9a6c-2029-41d2-9655-7aeec95bc28a,Restaurant_1fba9a6c,Asian,Philadelphia
+6cb7014c-7048-46bc-937e-e0f316637d7d,Restaurant_6cb7014c,Mexican,Los Angeles
+9b41af7e-8a5f-43c2-bce7-73b42000db0b,Restaurant_9b41af7e,Italian,Phoenix
+e084f895-054a-45ec-9893-c3923c316e1e,Restaurant_e084f895,Dessert,Philadelphia
+bba6e41e-28ff-4f0b-a2a4-31173c5f0c2b,Restaurant_bba6e41e,Cafe,Los Angeles
+df777fc8-25c6-41f0-9ad2-efcc82e00d36,Restaurant_df777fc8,Fast Food,Los Angeles
+aca7cf77-67e7-423f-8a7f-b8c020c87cbe,Restaurant_aca7cf77,Fast Food,San Antonio
+98579e53-13c1-4fd3-bb5f-a950e32be5ee,Restaurant_98579e53,Dessert,San Antonio
+c0778352-abbe-4204-acd6-9a58522ec63d,Restaurant_c0778352,Mexican,
+c6e563a6-0905-47f1-9669-2dfa363903b5,Restaurant_c6e563a6,Mexican,Philadelphia
+cdd01fd5-4035-4f31-b550-2bd2558b7084,Restaurant_cdd01fd5,Mexican,Philadelphia
+a0e53d64-3edd-4aff-b01b-57d5b20413a5,Restaurant_a0e53d64,Bar,New York
+734d5a36-67ac-4041-8e3b-cf2a5ac0f708,Restaurant_734d5a36,Cafe,San Antonio
+1c5594d5-a874-4be9-88df-38b101661549,Restaurant_1c5594d5,Bar,Los Angeles
+97aa8e89-fe3e-4999-9374-c67202461939,Restaurant_97aa8e89,Fine Dining,Chicago
+d0776528-c268-4d78-8320-40d57790e7cb,Restaurant_d0776528,Bar,Chicago
+5293e155-7688-428e-9bcd-331bbd8880cc,Restaurant_5293e155,Fast Food,Phoenix
+0b4b7aa9-f3da-44c0-b5fc-8da6240fe198,Restaurant_0b4b7aa9,Cafe,Phoenix
+fb848731-23f8-4ce8-931a-a9390c43540a,Restaurant_fb848731,Dessert,Chicago
+1ca5209f-e928-40ab-a92f-4fefd1aa33fe,Restaurant_1ca5209f,Mexican,Chicago
+77cfad4c-f5e9-43f7-99d3-e6bf3d6fb7d2,Restaurant_77cfad4c,Bar,Phoenix
+32beec1a-91db-4321-9e73-5a8973c51d31,Restaurant_32beec1a,Bar,Phoenix
+46697af1-44f8-4491-abc2-044dcd8be5a0,Restaurant_46697af1,Dessert,Los Angeles
+74697561-84b0-40be-a350-d418b6db41ae,Restaurant_74697561,Asian,Phoenix
+ef6188f0-05dd-4a51-a28f-88ab805717fa,Restaurant_ef6188f0,Fine Dining,San Diego
+89dab140-2fbb-4788-a1e6-c647d2d74e78,Restaurant_89dab140,Fine Dining,San Diego
+2cb98d77-e4d4-495e-9103-f5181ccdf50a,Restaurant_2cb98d77,Mexican,Chicago
+8ee9a8da-842f-4e43-bb43-00fb7ec5d968,Restaurant_8ee9a8da,Cafe,New York
+b8abb32a-d053-4646-b8fe-6b0e65f45c1b,Restaurant_b8abb32a,Bar,Philadelphia
+dce821c9-a30b-47ee-a7d3-e6481e58afe7,Restaurant_dce821c9,Bar,Philadelphia
+7fb4e69c-f741-474c-b4a3-ffe9d2568d3b,Restaurant_7fb4e69c,Dessert,Philadelphia
+284287d3-65df-4c92-b707-c96aff821541,Restaurant_284287d3,Bar,Chicago
+3db02bf4-4725-4bdc-bed8-36bd5a25a122,Restaurant_3db02bf4,Cafe,Philadelphia
+af892d4f-e247-4d0e-82fb-a9751e87d52d,Restaurant_af892d4f,Fine Dining,San Diego
+4615f0da-29ba-4896-979d-720254ef250e,Restaurant_4615f0da,Asian,Chicago
+f5d5f3db-8ff2-48fa-bd38-91ddeff6c6e4,Restaurant_f5d5f3db,Bar,Philadelphia
+737dd223-04ef-41df-be26-7910de53199e,Restaurant_737dd223,Cafe,San Diego
+b737ec16-b149-47c4-8be3-5a171d1c5eef,Restaurant_b737ec16,Fine Dining,Philadelphia
+cb48c248-5617-4d86-82cb-ab523e861247,Restaurant_cb48c248,Bar,Phoenix
+d4a2251d-5222-4c31-8f7b-ed948fb14ca7,Restaurant_d4a2251d,Bar,Philadelphia
+8f8a1a7d-2d21-4e7e-a5e2-80fdff097aba,Restaurant_8f8a1a7d,Mexican,Houston
+c366770f-7359-4fee-86e8-a589c18e9886,Restaurant_c366770f,Fast Food,New York
+ffcd7604-e866-4981-ba1f-3a53751f09e2,Restaurant_ffcd7604,Dessert,Houston
+319a0f94-afc5-44e1-93d8-ab561a3407e5,Restaurant_319a0f94,Dessert,Phoenix
+6377e39c-207e-4254-af5b-4c9f9eb93972,Restaurant_6377e39c,Mexican,San Antonio
+f1ba4601-d1f5-434b-be9c-e9bed3d34d08,Restaurant_f1ba4601,Dessert,Chicago
+159ad204-3aa1-41c1-819e-0777450e9395,Restaurant_159ad204,Cafe,Houston
+19efc809-5a66-4f81-bdd1-ce3345de815a,Restaurant_19efc809,Cafe,Chicago
+8df7a361-c490-45ec-9420-e5b6566d7ed2,Restaurant_8df7a361,Bar,San Antonio
+196bc34e-9c25-486f-87aa-ec6a44a7df6e,Restaurant_196bc34e,Mexican,San Diego
+b9faff10-1c63-4025-8a40-7b9a48064b05,Restaurant_b9faff10,Dessert,San Antonio
+5e25e1e4-ae9f-4f20-a3df-1ecf56dd594d,Restaurant_5e25e1e4,Bar,New York
+6b49fed3-20cb-4d48-8170-92c43df65883,Restaurant_6b49fed3,Asian,Los Angeles
+6a62c2f7-79e4-4d00-a361-3c9eb0a3dae1,Restaurant_6a62c2f7,Mexican,Houston
+4d017332-8060-40e1-9688-c5bc698adb6a,Restaurant_4d017332,Asian,Chicago
+1d3d9a5e-216a-47de-aa70-2274d90468db,Restaurant_1d3d9a5e,Italian,San Antonio
+c766e461-d99a-4357-a811-5de681a832c0,Restaurant_c766e461,Asian,San Antonio
+f553802b-99d9-4f10-aab5-4637799d46c0,Restaurant_f553802b,Mexican,New York
+91b59212-fa2b-43df-87b6-46556a3eff43,Restaurant_91b59212,Mexican,Phoenix
+418556c2-c337-4b5c-8e22-7466c3872f72,Restaurant_418556c2,Fine Dining,Houston
+81c9be44-4a21-4e90-a880-fd3403d33d2b,Restaurant_81c9be44,Dessert,Philadelphia
+33a2da13-4b6d-46d6-bc2e-e9f76db68323,Restaurant_33a2da13,Bar,San Diego
+1399fbf9-bfec-43d3-a200-540513d72ea2,Restaurant_1399fbf9,Fast Food,Philadelphia
+41f21d69-00a6-4f9f-8a5b-bfebe66c3751,Restaurant_41f21d69,Italian,San Diego
+56f6a0e0-84da-48ae-84b8-1e36ec128196,Restaurant_56f6a0e0,Mexican,Phoenix
+88dd7a91-6d4d-4d2d-aff1-f172bc414bd9,Restaurant_88dd7a91,Bar,Los Angeles
+9a9b01ae-291a-451f-928b-5702a4f1826b,Restaurant_9a9b01ae,Mexican,Chicago
+1945892b-326b-4959-a26e-e28325a481e7,Restaurant_1945892b,Asian,Phoenix
+5a97d1ed-24c9-4b99-9544-b36ec271b90e,Restaurant_5a97d1ed,Asian,San Diego
+e89cd696-b444-4028-a690-0b86fa5e84dc,Restaurant_e89cd696,Fine Dining,San Diego
+38de75b9-018d-458d-89ba-4dbbd3959084,Restaurant_38de75b9,Asian,San Diego
+f3e2abd6-dbb0-4641-a987-351c5e27a6ee,Restaurant_f3e2abd6,Mexican,San Diego
+bcf79d00-7547-48d5-850c-d824330fa59c,Restaurant_bcf79d00,Dessert,Philadelphia
+4cd4b619-7580-4e51-9d2f-a9b5d43992a2,Restaurant_4cd4b619,Mexican,Phoenix
+3bdd5368-9cef-4411-b0f9-5c706efa6018,Restaurant_3bdd5368,Italian,Los Angeles
+44ba2f70-1b6d-4b66-8f99-007575a78375,Restaurant_44ba2f70,Italian,Philadelphia
+1d9f248f-4f17-44e9-9844-46ff2c174975,Restaurant_1d9f248f,Mexican,Chicago
+a86f96be-1e9a-4d80-aabc-ca85bcf204be,Restaurant_a86f96be,Fine Dining,Chicago
+0e34b891-bba9-4150-97ca-53d5bd312a68,Restaurant_0e34b891,Fast Food,Philadelphia
+c8142517-57e4-4bb4-b742-77d4b07fb894,Restaurant_c8142517,Bar,San Diego
+1d70a8f8-51c2-4602-8c97-31a277ca0c8a,Restaurant_1d70a8f8,Fine Dining,San Antonio
+10719d56-30e5-4aa0-9266-9c8c162d0e3c,Restaurant_10719d56,Fast Food,Chicago
+e462886f-6537-42a6-bf45-b9cc612d5177,Restaurant_e462886f,Bar,San Antonio
+40328239-dab8-43bb-aac1-e70a172c750c,Restaurant_40328239,Italian,Houston
+6302c799-bc71-4814-b44e-cd9e1ed9eb51,Restaurant_6302c799,Dessert,San Antonio
+96bcb426-055b-4b9d-8691-43f4878061c5,Restaurant_96bcb426,Bar,New York
+901656b0-b38f-4cc1-b536-171072de9104,Restaurant_901656b0,Fine Dining,Houston
+806b6944-d369-4f9c-a0e2-f1f09d68d6a8,Restaurant_806b6944,Cafe,Los Angeles
+d8375ba9-8dac-4d18-b14c-b7dc9cfcdbad,Restaurant_d8375ba9,Mexican,Chicago
+720eb78d-bece-419a-8df7-5084e0de8389,Restaurant_720eb78d,Asian,Philadelphia
+85e23262-edd6-49fb-98ad-556ea1dd3b6c,Restaurant_85e23262,Fine Dining,San Diego
+48a63eb7-a05e-4d9f-9362-98a626dad2f5,Restaurant_48a63eb7,Mexican,Phoenix
+f005628f-25ba-4f90-9746-6a4fe26433c7,Restaurant_f005628f,Dessert,Philadelphia
+3f3644d6-ee7b-43fd-8ec9-a2f8c2882551,Restaurant_3f3644d6,Bar,San Antonio
+0ee60869-0492-4006-beac-3bf988139be4,Restaurant_0ee60869,Mexican,Philadelphia
+d6b94ebd-fcf2-4f99-8c19-957500958171,Restaurant_d6b94ebd,Asian,San Diego
+8f847bae-c0c3-44b8-8faf-7b7ef958db64,Restaurant_8f847bae,Fast Food,Phoenix
+c77ede7c-4764-483f-b555-1e2268292fc9,Restaurant_c77ede7c,Mexican,Chicago
+5ac23c57-02f7-406a-9077-d5b3ebc301bb,Restaurant_5ac23c57,Asian,Los Angeles
+c7fced53-292e-4668-9e42-63d9001f64e7,Restaurant_c7fced53,Fine Dining,
+c4d93440-d184-4f88-a937-e8f6ca29ee10,Restaurant_c4d93440,Mexican,Chicago
+eb6780a9-7a57-4fd3-9928-ee99ce7427f7,Restaurant_eb6780a9,Asian,Chicago
+f792361b-f7f8-4a2d-8496-11326d88b8dc,Restaurant_f792361b,Bar,San Antonio
+6047c192-5d4c-4488-ac48-3da6ede4f37b,Restaurant_6047c192,Fast Food,San Antonio
+f81dd060-15ae-4ad9-8e06-9e86c2445116,Restaurant_f81dd060,Bar,Chicago
+31d65320-d84b-4a73-a914-010e43538c9d,Restaurant_31d65320,Dessert,Chicago
+9028b4e4-f10f-434d-bb7b-fa9eee66a47a,Restaurant_9028b4e4,Fast Food,San Diego
+4fdbefc4-a368-4f68-a952-7562191e8a59,Restaurant_4fdbefc4,Cafe,Chicago
+3693fa40-8f39-4fb8-a2eb-de3ab1cb4e66,Restaurant_3693fa40,Fast Food,Philadelphia
+f0517151-bfca-465e-bf79-7b0a9d4c1dcf,Restaurant_f0517151,Dessert,New York
+b937468b-6c3a-47a6-b1c8-6a63c7ff74d1,Restaurant_b937468b,Asian,New York
+3cdf4082-be01-47c2-8b01-fb30ec085300,Restaurant_3cdf4082,Dessert,Chicago
+86b1005b-40b1-4e33-abf7-9ed7b5788210,Restaurant_86b1005b,Fine Dining,San Antonio
+77f14678-19c2-4995-a6d7-a370232ed0c4,Restaurant_77f14678,Dessert,San Antonio
+b3828b96-490a-4ec6-bd2e-12db961cfc17,Restaurant_b3828b96,Dessert,San Antonio
+5929c875-9f6f-4606-82cc-a59a24f0cffd,Restaurant_5929c875,Dessert,San Diego
+fa97c4b4-1bae-4cad-9fdc-26f0814e7f87,Restaurant_fa97c4b4,Fast Food,Los Angeles
+2fac1c88-627a-42e7-bc8f-fe9ecab7f5d9,Restaurant_2fac1c88,Italian,Houston
+711c0bc3-e4be-4223-b5f3-a4ddc6c528e9,Restaurant_711c0bc3,Cafe,New York
+5492fa12-c68e-4009-ba0d-410f6d1e226f,Restaurant_5492fa12,Cafe,
+0faee187-aa24-4a1b-bbdf-2754e3c07db8,Restaurant_0faee187,Cafe,Chicago
+ec18c93e-1580-4dcb-ac2b-c0e107f6c5b3,Restaurant_ec18c93e,Dessert,San Diego
+8a88a5c7-33da-45e8-8f26-038145699183,Restaurant_8a88a5c7,Mexican,Los Angeles
+b8007aa7-107d-44c6-9a74-a0fb74e38c67,Restaurant_b8007aa7,Cafe,Philadelphia
+65905517-62fb-480c-9085-e1d686642a46,Restaurant_65905517,Italian,San Diego
+9c05e41b-1bc0-41e4-bce6-219d39b5ea8c,Restaurant_9c05e41b,Fine Dining,San Antonio
+ef5f7289-f966-4296-ad32-a31c066b80bc,Restaurant_ef5f7289,Mexican,Houston
+21f8eef1-a185-4603-9858-b2e4f183cb72,Restaurant_21f8eef1,Cafe,New York
+83e041e2-6713-4a07-831b-de501d22c9f4,Restaurant_83e041e2,Dessert,Phoenix
+b986019e-e677-4f87-9365-1fc998ab34ef,Restaurant_b986019e,Asian,Los Angeles
+46ac157d-9003-45e2-a83d-b6a2290b0256,Restaurant_46ac157d,Dessert,Los Angeles
+b5733d53-f9f9-4060-9f01-0301ddd4cd3d,Restaurant_b5733d53,Fine Dining,Houston
+58eddfc6-18f4-42f4-9e4a-52dd2be9ae68,Restaurant_58eddfc6,Asian,San Antonio
+376cc559-99ec-46dc-907a-24973ec35c0d,Restaurant_376cc559,Fast Food,Chicago
+6ef264a8-1855-420b-85c3-6b4963605911,Restaurant_6ef264a8,Fine Dining,Houston
+aec5f8db-c810-493b-a98c-c59843826851,Restaurant_aec5f8db,Italian,Philadelphia
+379cebb7-8dc6-490d-8cc8-f9ff911f5178,Restaurant_379cebb7,Cafe,Chicago
+a1ce2c7e-2af9-40e0-b8aa-f39b247b3044,Restaurant_a1ce2c7e,Asian,Phoenix
+2d3dba9e-4ee3-4571-80d6-74132cf24141,Restaurant_2d3dba9e,Cafe,Phoenix
+4a41723a-4041-4001-8191-589133324bb1,Restaurant_4a41723a,Mexican,Chicago
+fb22ae50-af41-4132-b1cb-363eb2d5245c,Restaurant_fb22ae50,Bar,New York
+306ae729-a100-4839-90a8-24dcd535882b,Restaurant_306ae729,Cafe,Chicago
+aceb69e0-4d67-424e-955f-dbaca500cb92,Restaurant_aceb69e0,Fast Food,Houston
+c04a9100-c723-4c6c-992e-71a599aa6252,Restaurant_c04a9100,Fast Food,Philadelphia
+e4841bd0-d045-4de5-a018-353e71e87daf,Restaurant_e4841bd0,Fine Dining,San Antonio
+331c028f-5b1f-4d83-a818-bbe84ea21877,Restaurant_331c028f,Dessert,Chicago
+c6c87981-09ac-4941-87f0-64fe70a45314,Restaurant_c6c87981,Cafe,San Antonio
+acc01aa4-f71b-4dfe-9b5b-3cf08319c1be,Restaurant_acc01aa4,Bar,San Diego
+a7c29a87-2deb-4ae9-b1b4-855de3e4b8aa,Restaurant_a7c29a87,Mexican,Los Angeles
+d7b3dadd-ecde-4794-9f7f-4e62b730026b,Restaurant_d7b3dadd,Bar,Phoenix
+9eba9f03-6ade-4dd4-a781-fbd2759d5fa9,Restaurant_9eba9f03,Asian,San Diego
+4a2e4b0a-d4c2-4366-a05c-4be115fd5699,Restaurant_4a2e4b0a,Dessert,Philadelphia
+fcac5d0b-cd79-41ff-96f2-5869f7b8a0d1,Restaurant_fcac5d0b,Italian,Los Angeles
+03a2acc2-0ca0-449c-9794-bb94f9834ab0,Restaurant_03a2acc2,Dessert,Philadelphia
+a8b29b84-0c07-492c-ad34-80576c586f3c,Restaurant_a8b29b84,Mexican,San Antonio
+af80c6d2-0335-44f8-a174-5ea8ebd9eee4,Restaurant_af80c6d2,Fine Dining,San Antonio
+0859d663-4481-4707-b3e3-4d83ff2ac020,Restaurant_0859d663,Fine Dining,San Diego
+929f4080-8f82-4202-9508-70b4295dbea5,Restaurant_929f4080,Cafe,Philadelphia
+ff8747a9-03f9-4c67-93d2-2791c01485f9,Restaurant_ff8747a9,Cafe,Philadelphia
+668b2b0b-adda-455d-a87a-99c3bcaf9ebf,Restaurant_668b2b0b,Fast Food,San Diego
+55c14725-6153-4153-855a-a46811a49439,Restaurant_55c14725,Asian,New York
+81a40df5-fb20-46ff-9ba5-5bff2dca3c1f,Restaurant_81a40df5,Italian,Los Angeles
+a25bfecd-b3a7-416b-901d-673a2ec736fc,Restaurant_a25bfecd,Dessert,New York
+00aff9e6-6ab3-4c6e-9d8c-e2e2a7c94b76,Restaurant_00aff9e6,Mexican,Chicago
+8bca92da-6b6a-44f6-ae47-ba85c840f2c7,Restaurant_8bca92da,Dessert,San Diego
+93e52c6c-f856-45af-8028-26c782079839,Restaurant_93e52c6c,Italian,San Antonio
+51b12b28-f29d-4fe8-aafd-acb53f1dbcec,Restaurant_51b12b28,Fine Dining,Chicago
+a820341c-c905-4c50-bf0b-e464879c9245,Restaurant_a820341c,Cafe,Chicago
+4e334358-48c3-4190-a973-46f6806db2b8,Restaurant_4e334358,Cafe,Los Angeles
+168eac8c-55b0-461a-a5a4-7a44f9de880e,Restaurant_168eac8c,Asian,Phoenix
+fdcb1cb1-cac1-4b7a-8851-f300417cff6f,Restaurant_fdcb1cb1,Mexican,Philadelphia
+d3db1878-5454-41ac-b98d-99bb972c1ea6,Restaurant_d3db1878,Fast Food,New York
+24e3726d-b2aa-47de-865d-ea58f91ce1c4,Restaurant_24e3726d,Bar,Phoenix
+494d3d0d-de6b-485c-b115-9864ec3f407e,Restaurant_494d3d0d,Fine Dining,San Antonio
+e102a037-30a5-4cd0-b351-11c77a859efa,Restaurant_e102a037,Mexican,Los Angeles
+66809f0c-5efe-404b-88af-1b928dccded7,Restaurant_66809f0c,Italian,Houston
+8a58637c-0934-49bd-ac05-1dcc233a6376,Restaurant_8a58637c,Dessert,Los Angeles
+a3dd7acf-ff67-4515-82ca-10ebeab5296a,Restaurant_a3dd7acf,Fast Food,Houston
+3d098764-835e-44b5-8a6c-c99b24b7ae5b,Restaurant_3d098764,Dessert,New York
+1e4a24c0-ba0c-480b-a8f6-1bf8ec58e98c,Restaurant_1e4a24c0,Italian,Philadelphia
+1e6c950c-7144-455c-8258-3c2f574a33d0,Restaurant_1e6c950c,Mexican,San Antonio
+db897ece-f9cd-479b-a346-c769d321b0a3,Restaurant_db897ece,Fast Food,San Diego
+c4f7a899-d55a-490f-80ce-751335971979,Restaurant_c4f7a899,Mexican,Houston
+bdc144b7-6c20-41ee-80e6-6d726b0be11b,Restaurant_bdc144b7,Bar,Los Angeles
+6cc074e6-5ba7-42ae-b913-ae0d4944f450,Restaurant_6cc074e6,Mexican,Los Angeles
+32c1c457-31ac-4fb0-b1d6-c2a88d107dae,Restaurant_32c1c457,Asian,Philadelphia
+b117cb89-8984-4f4b-bb94-734feb137473,Restaurant_b117cb89,Cafe,Chicago
+86d524db-48b6-429b-8888-dca95602d5ac,Restaurant_86d524db,Bar,Chicago
+20b60ce4-da6c-4e96-bc7d-c5993d08007e,Restaurant_20b60ce4,Fast Food,Los Angeles
+892608c5-2037-4b01-9057-96729f44a190,Restaurant_892608c5,Italian,Chicago
+b7528258-b743-48c6-b4dd-ed8b9f7595ef,Restaurant_b7528258,Dessert,Philadelphia
+d10e8945-8e7b-42ef-9d5d-b730b2a3937d,Restaurant_d10e8945,Fine Dining,Chicago
+5bf2c7d8-1bfe-496d-903e-729c98007bfb,Restaurant_5bf2c7d8,Bar,
+8561b627-773a-416b-b634-1c7c5ab54e7c,Restaurant_8561b627,Fine Dining,Los Angeles
+fb2ba045-a0f0-4440-9e5b-e1bb83642bbe,Restaurant_fb2ba045,Mexican,Chicago
+4bd90669-90ac-4b18-92fd-59d44c9acf90,Restaurant_4bd90669,Mexican,San Antonio
+95bca920-d800-4e1b-bfec-1c9067d13cc0,Restaurant_95bca920,Asian,San Antonio
+6de54ede-771d-40b7-a06c-621dd5b21386,Restaurant_6de54ede,Asian,Chicago
+3af607e3-c15b-4c76-92b3-fb15725631c7,Restaurant_3af607e3,Fine Dining,Phoenix
+6e999a36-7cb0-424c-a292-deb0c80569a4,Restaurant_6e999a36,Mexican,Houston
+1441bac1-bb42-4680-b9f0-1ead5e5a2972,Restaurant_1441bac1,Cafe,New York
+af301da8-835e-4835-97bf-d81f111ac455,Restaurant_af301da8,Cafe,Houston
+b1b5e848-e282-4d5d-84b0-c4edced38f84,Restaurant_b1b5e848,Fine Dining,San Antonio
+7619e718-cc5f-48bf-abed-2e2d93435ec9,Restaurant_7619e718,Cafe,New York
+4a35ca98-82a7-4e35-87f2-59e3565b9b03,Restaurant_4a35ca98,Fine Dining,San Diego
+25d785de-5e9e-435e-bbbe-735530420769,Restaurant_25d785de,Bar,Los Angeles
+c0c81c7d-9d35-420f-b9e7-40aa353f27f8,Restaurant_c0c81c7d,Fine Dining,San Diego
+d57ae093-0107-4af9-a9b4-7fa6aaea364c,Restaurant_d57ae093,Mexican,New York
+2b6ea209-1e43-43ed-a381-c0d024bd99d8,Restaurant_2b6ea209,Asian,Philadelphia
+b913d94f-492c-4015-bda2-7b65f2350e81,Restaurant_b913d94f,Fast Food,San Antonio
+b9f4462c-c7eb-40f5-b26b-705c7391aac8,Restaurant_b9f4462c,Bar,Philadelphia
+9b1cfa7a-d36e-49da-b51e-f54b989c1a45,Restaurant_9b1cfa7a,Fast Food,San Diego
+975f48ff-21e0-4a6b-859d-a0f6ff8e6d9c,Restaurant_975f48ff,Mexican,New York
+ae26f380-959e-44ec-b664-adc991be36c0,Restaurant_ae26f380,Mexican,New York
+1096926d-b01c-4555-8576-cda7fdddcd8d,Restaurant_1096926d,Cafe,Houston
+fe222396-44db-4c5c-86b0-c5f239472f53,Restaurant_fe222396,Italian,New York
+ecc10858-20df-441e-bc19-f91e144b50a6,Restaurant_ecc10858,Bar,Phoenix
+09f0ecb0-7a29-40c2-9355-219ec47e50db,Restaurant_09f0ecb0,Bar,San Antonio
+b47ab840-279d-4736-8eab-317a54435172,Restaurant_b47ab840,Bar,Los Angeles
+f59d080c-3237-4946-87e7-461540999070,Restaurant_f59d080c,Fast Food,Phoenix
+af4e2102-c102-4bed-a97b-00bc1fd90a37,Restaurant_af4e2102,Mexican,Phoenix
+439b2828-b848-435d-a173-28d6ad81a66a,Restaurant_439b2828,Mexican,Houston
+cbe52895-d163-481b-b139-4c58702e360e,Restaurant_cbe52895,Fast Food,Philadelphia
+9f955c4e-c035-4951-be05-7ca7fbc565af,Restaurant_9f955c4e,Bar,Los Angeles
+18bbb10b-dac6-4ed3-aab2-20e9f4f3c42a,Restaurant_18bbb10b,Cafe,San Antonio
+09670eaf-add0-4f06-a5cd-b74fcf0e4215,Restaurant_09670eaf,Fine Dining,New York
+a11e059f-6ab3-4114-a454-02396f2f4758,Restaurant_a11e059f,Fine Dining,Los Angeles
+90876fbe-5a68-4ba3-8aae-8fc910221c8a,Restaurant_90876fbe,Bar,Los Angeles
+dc76a6af-5e60-4a16-a95b-c87518cc6d78,Restaurant_dc76a6af,Dessert,New York
+59075499-6b52-4e78-977e-52fb4d86f635,Restaurant_59075499,Cafe,Chicago
+d1e8560a-365a-45bc-9b6c-4975f97c750d,Restaurant_d1e8560a,Mexican,New York
+51f75f74-f107-4f4d-948b-c72a339c245c,Restaurant_51f75f74,Fast Food,New York
+d660dd79-b36b-4e70-a479-7ddbee332ba5,Restaurant_d660dd79,Fast Food,San Diego
+bfe3fbdc-04f4-4796-a420-beec31ba5ffd,Restaurant_bfe3fbdc,Asian,Phoenix
+74dfe0b5-11da-41b5-90bf-3ebb20010ce9,Restaurant_74dfe0b5,Fast Food,Philadelphia
+4bf09554-730c-40d6-94f2-9f3f430f1eb8,Restaurant_4bf09554,Fast Food,Phoenix
+13d75c48-ee77-4332-a0b4-0f0194ceefaf,Restaurant_13d75c48,Mexican,New York
+7c01b5b1-0679-4a3e-972d-ead8a55efe49,Restaurant_7c01b5b1,Asian,San Antonio
+d185a3dd-95fa-4b4f-b760-6bf2a159e1f4,Restaurant_d185a3dd,Cafe,Los Angeles
+5a7b1373-3175-4de2-a344-5be27dbd30ef,Restaurant_5a7b1373,Cafe,Los Angeles
+03f587ae-63c3-4b8f-89e0-456b9a51d790,Restaurant_03f587ae,Dessert,San Diego
+809c6135-0034-40af-b345-bfe766099b71,Restaurant_809c6135,Asian,New York
+fd6dd220-7915-4191-b6ef-264bd3ac2100,Restaurant_fd6dd220,Dessert,Chicago
+48f998bf-13f1-4ddf-b2dd-6b6f6288fbef,Restaurant_48f998bf,Asian,Chicago
+cf2664ba-bcf7-47f1-85bf-f00f162389f9,Restaurant_cf2664ba,Cafe,Los Angeles
+009ee697-c3f6-4942-b1aa-d4f7f6eb05ef,Restaurant_009ee697,Mexican,Houston
+6084e120-5a45-4424-9f6c-8ca800aedddb,Restaurant_6084e120,Italian,New York
+245aa735-db0a-474f-8215-dbc32c81823e,Restaurant_245aa735,Italian,Houston
+64f7d292-ac94-4056-8a1b-5cd252b06f60,Restaurant_64f7d292,Italian,San Diego
+0d7cb133-1c40-455c-81f9-7db1f3b89b69,Restaurant_0d7cb133,Asian,San Antonio
+9fde1c90-a611-4292-ae41-3aac26c8c53f,Restaurant_9fde1c90,Fast Food,Chicago
+4e1805a7-8fee-4278-99dc-d7b5e95c4920,Restaurant_4e1805a7,Italian,San Antonio
+bcef61b9-5800-45aa-a512-f147d35c9d49,Restaurant_bcef61b9,Fine Dining,Philadelphia
+87cc0085-20ea-4ceb-ac2f-2bc350243785,Restaurant_87cc0085,Fine Dining,San Antonio
+e678bb8e-ddd8-48f9-9b9b-711c22d79503,Restaurant_e678bb8e,Asian,Phoenix
+96f5d3fd-98f0-4eac-a825-f9d0ebe3489d,Restaurant_96f5d3fd,Mexican,Philadelphia
+5f9ee7db-7a1f-4920-8237-73f5db3917cc,Restaurant_5f9ee7db,Mexican,New York
+77d3a13b-9349-406c-8236-c11ae7535a37,Restaurant_77d3a13b,Fast Food,Houston
+fd64b398-8c73-4480-9f71-f1a94b6a4ceb,Restaurant_fd64b398,Italian,San Antonio
+414b3810-f417-4a55-b607-0c3b6f55ce58,Restaurant_414b3810,Mexican,San Diego
+3e8c2473-41d6-4f16-a31d-c4156bf4e740,Restaurant_3e8c2473,Cafe,Phoenix
+efa3f844-26a1-469c-b816-866e9583665c,Restaurant_efa3f844,Asian,Los Angeles
+35f526d3-d0c9-4cc8-9712-968271ad2dd8,Restaurant_35f526d3,Dessert,New York
+b35f2437-5cfd-4002-8053-b562d4ec4c46,Restaurant_b35f2437,Asian,Houston
+fef4276c-cbfb-4775-9667-ddbbbcab9bbb,Restaurant_fef4276c,Cafe,Phoenix
+20110087-9035-41aa-85d8-c8125784433b,Restaurant_20110087,Fine Dining,San Diego
+0b567798-6de3-428b-8c76-b80e89a0e3a3,Restaurant_0b567798,Asian,San Diego
+5213b5c9-ce22-4a30-84ee-c171fc9d27ab,Restaurant_5213b5c9,Fine Dining,Houston
+1a9c1153-084c-4ece-b78f-589590818ed8,Restaurant_1a9c1153,Fast Food,New York
+f4cb77a6-8dbd-497e-89aa-6c1db9ede924,Restaurant_f4cb77a6,Bar,New York
+c4d76025-6f93-46bc-bbbc-c2f3be06210d,Restaurant_c4d76025,Fine Dining,Philadelphia
+ba19644f-f81e-4362-a6af-6c93b3ee3405,Restaurant_ba19644f,Italian,Philadelphia
+c77d0f7d-6c71-4879-99b7-581362544cc4,Restaurant_c77d0f7d,Italian,San Antonio
+351f0d73-26e7-485b-8dcc-57d09774dfd2,Restaurant_351f0d73,Cafe,Los Angeles
+796b50e9-d422-45f2-9ee6-da596d6da342,Restaurant_796b50e9,Fine Dining,Houston
+726b7e16-17af-4887-bd8d-072a8e6fc4b3,Restaurant_726b7e16,Bar,San Diego
+66186e5c-415d-45ff-8bcf-a9d92521d084,Restaurant_66186e5c,Italian,Chicago
+dfa6b282-c949-405e-afe9-4d65002c174a,Restaurant_dfa6b282,Cafe,Los Angeles
+4c224381-1725-44f7-8a01-c0f6acedeb56,Restaurant_4c224381,Italian,Houston
+31b56f96-ab8f-4dc1-9899-f277986a2146,Restaurant_31b56f96,Bar,Philadelphia
+b21d25f1-842f-40d4-8fda-923749bca13d,Restaurant_b21d25f1,Dessert,Los Angeles
+d1ea197d-bbea-4c6e-b2ca-ad9158c1f4f8,Restaurant_d1ea197d,Mexican,Chicago
+1fa58a43-9f0d-441d-b6b9-2e428a9bcfa0,Restaurant_1fa58a43,Bar,Los Angeles
+0d8a13c0-26cb-4231-96f3-b4b10e66e421,Restaurant_0d8a13c0,Italian,San Antonio
+35ac503d-0820-45ed-ad9a-f143f1bbde31,Restaurant_35ac503d,Fast Food,Houston
+84b0d820-db69-4444-9622-9c6ac7c26534,Restaurant_84b0d820,Cafe,Phoenix
+f33eddab-f008-4553-83b6-8e0e74440e3f,Restaurant_f33eddab,Asian,San Antonio
+36f2e457-c49a-46fd-bc5c-8e41f30d3a4a,Restaurant_36f2e457,Asian,Philadelphia
+38c6d802-6b37-483e-9b53-889000680a07,Restaurant_38c6d802,Dessert,Phoenix
+55a173b9-bdb7-45ec-ad3a-8d7918668ce7,Restaurant_55a173b9,Fine Dining,Los Angeles
+8af2789e-deb0-4c68-af12-dd72f701fcf4,Restaurant_8af2789e,Fine Dining,Chicago
+4fa36a17-8a20-446b-a5d8-e36b4f9c2632,Restaurant_4fa36a17,Mexican,Chicago
+12e4ead7-60a3-4c44-be07-6ec6ff2b18b2,Restaurant_12e4ead7,Mexican,Chicago
+bff14457-774b-46e9-9ed1-be758dbdefd4,Restaurant_bff14457,Dessert,San Diego
+7655a04c-17a3-4f10-81e3-38dace21d9c9,Restaurant_7655a04c,Asian,San Antonio
+3bc205a7-17fb-42a8-8ebc-34b0cd32a5e4,Restaurant_3bc205a7,Mexican,Philadelphia
+cddf1d9a-7c5b-494b-8cf7-552306f3e112,Restaurant_cddf1d9a,Fine Dining,San Diego
+c06acdfa-8ab2-4f08-b401-34dedb3201ac,Restaurant_c06acdfa,Cafe,San Diego
+5aa2d1cf-eff4-4314-9a62-e2b6cbb14c8c,Restaurant_5aa2d1cf,Cafe,Los Angeles
+c1fa535f-7e45-4f45-a26b-913d63b51491,Restaurant_c1fa535f,Mexican,Chicago
+6b6db7f8-3d2c-432f-bb21-dcbd566e3e43,Restaurant_6b6db7f8,Cafe,New York
+ed6b7d47-4ef1-4a51-b876-6419a7366a5f,Restaurant_ed6b7d47,Fine Dining,Philadelphia
+415f5a18-e0cf-47c1-ad4d-9ba341c827e1,Restaurant_415f5a18,Fast Food,Los Angeles
+17ab4807-6ff1-4dc7-ab47-3989d49cbd58,Restaurant_17ab4807,Fine Dining,Philadelphia
+9d69dc85-4e31-4960-8fe1-188da3f57368,Restaurant_9d69dc85,Bar,New York
+16ca39ea-9e8d-4416-ad0f-026caab6a3a0,Restaurant_16ca39ea,Cafe,Phoenix
+143c4c8b-4b4a-43c0-8be4-db23272c3515,Restaurant_143c4c8b,Fast Food,New York
+a1ed0133-5a3f-4c33-91fe-6468462f84a6,Restaurant_a1ed0133,Bar,San Diego
+133cbba4-2f00-457c-ab85-e30ec7d3afce,Restaurant_133cbba4,Fine Dining,Los Angeles
+3b71ebd8-1c64-4ba7-8952-84d4ea978a47,Restaurant_3b71ebd8,Dessert,Los Angeles
+910fd612-4817-431b-947b-1515787c92a4,Restaurant_910fd612,Fast Food,Los Angeles
+107f013e-24a4-4869-a494-f116080ee15a,Restaurant_107f013e,Italian,New York
+bd6afac4-dcd0-4ff6-ad1f-a3b15a881f6b,Restaurant_bd6afac4,Fine Dining,Chicago
+85ed73c4-c9a7-4184-9aa4-0c141e45a558,Restaurant_85ed73c4,Fine Dining,San Antonio
+dcedafc9-8c92-4617-bd20-ff612afe05cc,Restaurant_dcedafc9,Asian,Los Angeles
+60848e66-e07d-43dd-9cc4-2a39a60e14ce,Restaurant_60848e66,Cafe,Los Angeles
+c35b0a1b-f15a-4a7d-bdf4-4ee4cfef93eb,Restaurant_c35b0a1b,Italian,Los Angeles
+1bb4271c-71d0-496b-87bf-ad4fdcbec371,Restaurant_1bb4271c,Fine Dining,San Diego
+e8843293-0e64-4f79-9956-5289a79966f0,Restaurant_e8843293,Fast Food,Los Angeles
+bcb0bb38-a38b-4f55-992f-d09c3ae2f911,Restaurant_bcb0bb38,Asian,Los Angeles
+8a20c3da-9141-40dc-91a5-3b4bb11d0b4f,Restaurant_8a20c3da,Italian,San Diego
+852dfa47-e38c-45ff-86f1-2caa56bb2456,Restaurant_852dfa47,Italian,Chicago
+9ece2f08-4354-4b45-90d3-88b2c1b41734,Restaurant_9ece2f08,Bar,San Antonio
+464084e2-ed68-4093-acde-ab82548c7022,Restaurant_464084e2,Dessert,New York
+e5134327-92f4-4e29-9056-9b3c9fd0273f,Restaurant_e5134327,Bar,San Antonio
+0089e1dc-3138-466a-aab3-a92c720eab46,Restaurant_0089e1dc,Fast Food,Philadelphia
+2249ba91-48ba-44b6-8b48-00b99c6b2614,Restaurant_2249ba91,Fine Dining,Chicago
+77fa84b8-bd70-4a18-ba14-d33496402e62,Restaurant_77fa84b8,Cafe,
+b8f9f2dc-07c9-4489-9162-4021d6d705cb,Restaurant_b8f9f2dc,Dessert,Chicago
+71f42e42-1a46-49e7-a9d8-0000d721acc4,Restaurant_71f42e42,Italian,Houston
+4a2a5eb1-99af-4768-8548-0f3f12883d4c,Restaurant_4a2a5eb1,Cafe,
+3e27dfa7-1184-4cb9-b73c-bd14d192c2f5,Restaurant_3e27dfa7,Bar,San Diego
+00dfe770-ebb9-4cd7-a41a-6d39bdcc1d69,Restaurant_00dfe770,Italian,Los Angeles
+e54b8ebc-d8ec-47d9-8528-2b5c666aed43,Restaurant_e54b8ebc,Cafe,San Antonio
+d7bee0c4-237b-45bc-b7a9-cb0e494d2455,Restaurant_d7bee0c4,Fast Food,San Antonio
+e8839dd7-1df5-42aa-93bb-f0e7e39695ab,Restaurant_e8839dd7,Fine Dining,Houston
+8596670b-0993-41c5-84ee-092ff2606640,Restaurant_8596670b,Italian,San Antonio
+97937782-8464-405c-8a84-ce2244028b3d,Restaurant_97937782,Asian,San Diego
+91a261af-3224-491d-a7e5-6ebef599a036,Restaurant_91a261af,Dessert,Philadelphia
+0e635c1f-7018-4bc6-8dcb-44f4f2b0eca8,Restaurant_0e635c1f,Asian,San Antonio
+3c4cf08b-702a-43a5-acb1-acadfd84897e,Restaurant_3c4cf08b,Cafe,Chicago
+a1b01d58-d41d-41f5-ad1a-18baf68e5109,Restaurant_a1b01d58,Italian,Philadelphia
+7fadab6a-bc32-454f-8f1e-b98bbd55da3d,Restaurant_7fadab6a,Fine Dining,New York
+2d05d2fa-7152-413b-824a-529f386dfc29,Restaurant_2d05d2fa,Cafe,New York
+a05a9537-5567-469d-9260-4c05b159676c,Restaurant_a05a9537,Dessert,Philadelphia
+3de6a6b2-1c6a-4b9d-8596-1e83c6b01cf1,Restaurant_3de6a6b2,Fine Dining,Chicago
+22983a4b-2882-4394-a656-b4d5e1a69216,Restaurant_22983a4b,Mexican,Houston
+80f92322-6591-4235-b1ac-e44a97172b6f,Restaurant_80f92322,Fine Dining,Phoenix
+287f013a-df4b-4e0f-b844-4fba6265c56f,Restaurant_287f013a,Italian,Houston
+590f4df8-10da-4f5c-b29e-818068b9af6f,Restaurant_590f4df8,Bar,Philadelphia
+a1ece18e-1846-4c45-bf1f-31c54b8b1c5c,Restaurant_a1ece18e,Fast Food,Chicago
+58234516-d023-4d6f-b225-56cd81e85fb9,Restaurant_58234516,Fine Dining,Philadelphia
+2464ba2f-f5fa-46f0-9807-aa387cbb3111,Restaurant_2464ba2f,Asian,New York
+9c0012e6-f8c6-4883-a91b-be2bab943942,Restaurant_9c0012e6,Asian,Chicago
+339206e4-03d4-4616-a409-69918fa8e537,Restaurant_339206e4,Fine Dining,San Diego
+401d7b56-7151-44b0-8826-713ad074fe7c,Restaurant_401d7b56,Cafe,Chicago
+e6660de4-ed68-48c4-9133-fc19d895beea,Restaurant_e6660de4,Dessert,New York
+9a0fa767-9fab-47a8-9903-7830e66509c1,Restaurant_9a0fa767,Mexican,New York
+20a8c8ae-ff97-4c29-9789-7f0d0534a833,Restaurant_20a8c8ae,Fine Dining,Houston
+9eb1955e-6101-4790-a06b-4492a8b58040,Restaurant_9eb1955e,Italian,San Diego
+f4f90d0a-2adf-417a-8b6d-4d571b2e4be3,Restaurant_f4f90d0a,Italian,Philadelphia
+58ccb7c3-ea98-4adf-bbca-878694861838,Restaurant_58ccb7c3,Fine Dining,Chicago
+2ac40b8d-d710-472e-8d57-da4398c62aba,Restaurant_2ac40b8d,Asian,Chicago
+446d0c0c-bb12-4ec3-8fad-35b1338850dc,Restaurant_446d0c0c,Asian,New York
+e8e67a6d-3943-4516-9032-a4ec2d5ecf2f,Restaurant_e8e67a6d,Italian,
+bac98181-c099-40c3-a8fb-12542284ff60,Restaurant_bac98181,Fast Food,Los Angeles
+40c90907-9333-47a6-a6f3-d263b1072ef9,Restaurant_40c90907,Asian,Los Angeles
+69466ec8-f1f3-4629-8fc2-cabcc488535a,Restaurant_69466ec8,Asian,San Antonio
+01424fd5-8326-47dd-b818-9fd1c6ef6bd1,Restaurant_01424fd5,Mexican,Philadelphia
+5920ac16-8889-4c84-98d6-1005764ed718,Restaurant_5920ac16,Cafe,Philadelphia
+b7c99e76-be96-46da-b90c-18df26789f27,Restaurant_b7c99e76,Fast Food,Chicago
+0d6a29c2-73f9-471c-89f5-4e944ab5f719,Restaurant_0d6a29c2,Bar,San Diego
+801e2eec-dcdb-4f4c-9957-98dd39821b63,Restaurant_801e2eec,Asian,Chicago
+be597319-cd43-40fe-9846-0c4e658e24ba,Restaurant_be597319,Asian,Houston
+b46604cb-fa23-427e-855e-b9497b69972b,Restaurant_b46604cb,Fast Food,San Antonio
+d8903f78-d035-4428-b78c-ecb2c0a821e9,Restaurant_d8903f78,Cafe,Phoenix
+a2f19200-a802-4dda-8ee9-1dc451a2e4b1,Restaurant_a2f19200,Fast Food,Chicago
+322ae050-ef01-4716-8b78-c4f8bb784db4,Restaurant_322ae050,Italian,San Antonio
+33723fb9-b474-4937-848d-edc282599512,Restaurant_33723fb9,Italian,Chicago
+b555579f-b26b-4615-8118-f320f763125f,Restaurant_b555579f,Asian,Houston
+940b83c6-9d55-4321-92fd-912efb05b807,Restaurant_940b83c6,Mexican,San Diego
+b4b903f2-8282-47f1-a40e-f87542764e39,Restaurant_b4b903f2,Fast Food,Philadelphia
+09bb9bfd-047a-43ce-8bce-7dd140f21418,Restaurant_09bb9bfd,Mexican,Houston
+f8a529e6-60f9-42fa-8d78-e8fe0f69133b,Restaurant_f8a529e6,Asian,Philadelphia
+600add3e-ca5e-4374-916a-3c2481bc2df5,Restaurant_600add3e,Fast Food,Los Angeles
+ba1362a1-a81c-4d98-9682-4bc26273a526,Restaurant_ba1362a1,Asian,San Diego
+e7d93c04-9bb3-4520-8ea6-1415bc326e8a,Restaurant_e7d93c04,Italian,Phoenix
+daed45bc-e9db-40c7-b578-741f372640f2,Restaurant_daed45bc,Fine Dining,Houston
+12d0fd4d-89a9-4564-82b9-4f9582cd1832,Restaurant_12d0fd4d,Mexican,Philadelphia
+879499c8-750e-4db8-bcca-d927215d402d,Restaurant_879499c8,Cafe,Los Angeles
+8b62fd58-43f7-444a-9ffe-aca668252135,Restaurant_8b62fd58,Italian,New York
+5083a802-994d-43df-a95c-218a748d3f65,Restaurant_5083a802,Bar,San Diego
+08f2140d-9806-4f0e-901e-173855e2c139,Restaurant_08f2140d,Bar,Chicago
+c900a4c1-9456-46d4-8cff-5992d9655a81,Restaurant_c900a4c1,Bar,San Diego
+adffd831-a5b8-483f-b224-8e9a74f8f074,Restaurant_adffd831,Bar,Philadelphia
+df3e7eb7-8010-41a2-b42d-f1679ed7ebe1,Restaurant_df3e7eb7,Bar,Los Angeles
+bafbc24a-c96e-4973-9612-a7f20b20f2af,Restaurant_bafbc24a,Dessert,Houston
+33851857-1cca-4345-afc8-3fb10a4965be,Restaurant_33851857,Fast Food,San Diego
+bb7817a8-4b43-44f4-a8d3-3e1a017ce56f,Restaurant_bb7817a8,Mexican,New York
+c23e9667-5cf3-467f-82a4-5be0c8d22dd3,Restaurant_c23e9667,Cafe,New York
+be827337-f47f-43e9-9110-aa41c464efd5,Restaurant_be827337,Asian,Phoenix
+a6a4e1be-bfc9-4cb1-b6d1-6597bb59c6e9,Restaurant_a6a4e1be,Mexican,Los Angeles
+0ff6193b-2dc0-4a89-a1a0-fe65f9431788,Restaurant_0ff6193b,Asian,Chicago
+4d71eae2-11a3-4c46-b042-0dcff5930785,Restaurant_4d71eae2,Bar,Chicago
+fe686a9a-ffae-4298-a656-73b53879ba02,Restaurant_fe686a9a,Mexican,Los Angeles
+95d533c3-34d1-4fc3-80b9-735a9f815d19,Restaurant_95d533c3,Asian,San Diego
+e9327a7f-d0e3-4fd7-b6b4-a0f11859f040,Restaurant_e9327a7f,Italian,San Antonio
+9124facd-a8e4-4159-bec9-525092bf141f,Restaurant_9124facd,Fast Food,San Antonio
+3382bd84-38d4-4de6-8a14-fc81f89550b1,Restaurant_3382bd84,Fast Food,New York
+de8a82b2-5ada-4fae-a87f-21b4f6c8e083,Restaurant_de8a82b2,Mexican,Philadelphia
+5b6d4842-95a5-4e2f-acac-5d5d01a30f48,Restaurant_5b6d4842,Fine Dining,Houston
+8ff45be4-dadd-4a49-8bf2-ea4cdb5e5673,Restaurant_8ff45be4,Bar,Phoenix
+73c9e42b-9b37-4421-b659-b867e449fa1e,Restaurant_73c9e42b,Cafe,Phoenix
+abcad246-fa31-4fcf-982e-ca5a7a1630fd,Restaurant_abcad246,Fine Dining,Los Angeles
+93b7f5a3-34af-4e70-9db8-e2c5ac3264a0,Restaurant_93b7f5a3,Italian,San Antonio
+a4b66261-7470-4fbd-b0b3-bef5789cb547,Restaurant_a4b66261,Dessert,Chicago
+2b47fa87-25fa-430d-8155-f4359949b167,Restaurant_2b47fa87,Italian,Philadelphia
+2e598fa4-22ea-4467-ab3f-17a504d65c26,Restaurant_2e598fa4,Italian,San Antonio
+f532c3ca-54c1-4e0c-ba02-f3ac1a85417a,Restaurant_f532c3ca,Mexican,Phoenix
+1a02e346-6f36-4a81-8379-c9b64cfbf4f9,Restaurant_1a02e346,Dessert,Houston
+bc77914c-4a50-4595-9ed1-00843a3aa690,Restaurant_bc77914c,Mexican,New York
+ea0270a9-42f7-4008-b2b5-56ad77fca41e,Restaurant_ea0270a9,Fine Dining,Chicago
+f32faf37-5a69-475d-8153-b96134563f52,Restaurant_f32faf37,Cafe,Los Angeles
+7c1b91ab-59dc-4df3-98ef-9f46ef452456,Restaurant_7c1b91ab,Dessert,Los Angeles
+4e5b2049-4a6b-466f-8981-1fa9a6a042c5,Restaurant_4e5b2049,Cafe,San Antonio
+c7e40878-c3ba-4959-8fe5-f57cf870afe1,Restaurant_c7e40878,Dessert,
+7bed1e65-77ee-479b-ba7c-e9db4caff2d2,Restaurant_7bed1e65,Cafe,Los Angeles
+ba3d9c3d-e2f4-491c-8342-c2ee99607a4f,Restaurant_ba3d9c3d,Bar,Chicago
+5ca8076c-50f9-403c-9454-cf36ca3c0b1b,Restaurant_5ca8076c,Asian,San Antonio
+ec4b1119-b635-4eea-a68d-6237282e69f8,Restaurant_ec4b1119,Asian,Chicago
+958cfe16-0f2d-40ab-9a59-2d9ca70a219f,Restaurant_958cfe16,Dessert,New York
+7c34966d-8f6f-459f-bcb8-83ceaee5d20e,Restaurant_7c34966d,Cafe,San Diego
+7b7d4fe3-ed61-40e8-81ba-03a1f39d27e9,Restaurant_7b7d4fe3,Dessert,Phoenix
+18d43418-3dcb-4d01-b2d5-1fc642266fc4,Restaurant_18d43418,Fine Dining,Phoenix
+7fc49914-5119-4dc6-adcf-7f18c0343550,Restaurant_7fc49914,Italian,Chicago
+0db1fe70-8323-41b8-a9f9-61d6a8fb08d2,Restaurant_0db1fe70,Mexican,Los Angeles
+cea98daa-4c7b-41b9-8d48-974e3f14f2d2,Restaurant_cea98daa,Asian,San Antonio
+a937f45f-f2f0-4f53-92e2-c9c0dadc3f03,Restaurant_a937f45f,Fine Dining,New York
+aec25f2e-8975-4942-b740-0ad7a4a33e4b,Restaurant_aec25f2e,Bar,San Antonio
+faa612f2-b70f-45a7-a0ea-ff3f251c5901,Restaurant_faa612f2,Dessert,Houston
+71464c36-9d20-4827-b66d-6c43a6f986a8,Restaurant_71464c36,Dessert,Phoenix
+4f03e998-992a-47a4-968e-a943f8975df9,Restaurant_4f03e998,Mexican,San Antonio
+29a481f6-d81d-4942-a006-468e500634d1,Restaurant_29a481f6,Italian,Chicago
+a26d7a32-0dd9-4335-885c-d304cfd5600a,Restaurant_a26d7a32,Mexican,San Diego
+4b90fa6b-b3f0-42cd-9cc2-6c636a5f6185,Restaurant_4b90fa6b,Fast Food,Chicago
+1a537e98-f0f7-4bbe-970c-26007d4e60c3,Restaurant_1a537e98,Fine Dining,Houston
+da503d38-b539-4bc8-bd91-d4794cec379a,Restaurant_da503d38,Fast Food,New York
+0250ffeb-98ad-4378-b3e6-abe34a86d5ea,Restaurant_0250ffeb,Bar,Los Angeles
+ea0694aa-7e7f-4aad-a1af-b90c86feed61,Restaurant_ea0694aa,Bar,Houston
+82df90a5-9ce2-417f-b5fd-302ea22dc4d8,Restaurant_82df90a5,Fast Food,Phoenix
+d9147cd1-0eb5-4f06-8ea0-9b8995141a78,Restaurant_d9147cd1,Asian,Los Angeles
+5eb8dc61-901b-4812-9376-1557e5c35355,Restaurant_5eb8dc61,Mexican,San Antonio
+388a4947-965d-41b2-bdf5-428aa201a92f,Restaurant_388a4947,Bar,Philadelphia
+687715b4-b8b3-40a2-9c35-357b6e3f1d24,Restaurant_687715b4,Cafe,San Diego
+8a01523e-00ef-4e76-8e52-e51719791c54,Restaurant_8a01523e,Italian,San Antonio
+04455dc0-a65c-4c85-ac22-faad9b0d1c61,Restaurant_04455dc0,Mexican,San Antonio
+43313106-2fab-4fe5-9641-9e3c14abd949,Restaurant_43313106,Fast Food,Chicago
+57661723-2cec-4701-8b43-a1de09a71e4b,Restaurant_57661723,Mexican,Los Angeles
+b854ba21-898d-4958-9c87-64a57dcbe804,Restaurant_b854ba21,Mexican,Phoenix
+a56c6087-4fd7-45c6-a7ac-d35218ff9b41,Restaurant_a56c6087,Asian,San Antonio
+71cfe6c3-a82b-459b-b273-659bf01af374,Restaurant_71cfe6c3,Cafe,San Antonio
+c048f5a0-c9c4-4c68-8418-c06c9da9ec98,Restaurant_c048f5a0,Dessert,San Diego
+164d7b37-8b5d-4604-8083-76c1135143c4,Restaurant_164d7b37,Italian,Chicago
+ef044de7-ef68-48e1-b383-66354c80e056,Restaurant_ef044de7,Cafe,San Antonio
+c208cc1e-7c3e-48b8-83a0-9b44deaeb06d,Restaurant_c208cc1e,Fast Food,San Antonio
+dbd0c18a-8d3c-46c3-926b-0fa3ff275b8b,Restaurant_dbd0c18a,Italian,San Antonio
+5b59942b-a9b6-4b40-95c6-a58a38aa1ca3,Restaurant_5b59942b,Asian,Houston
+da25a456-b3d4-4a5c-875c-daae3b7f8e23,Restaurant_da25a456,Italian,San Diego
+6b29b78d-db53-4265-9721-d31935acdd02,Restaurant_6b29b78d,Cafe,Philadelphia
+a9eaeee0-e11f-4635-8e94-f01ad7238f6b,Restaurant_a9eaeee0,Italian,Philadelphia
+79a063b7-bcd2-4591-af2d-5e9b5b3e6181,Restaurant_79a063b7,Cafe,Phoenix
+4dea24bc-150a-40af-b574-a58a222339f4,Restaurant_4dea24bc,Cafe,San Diego
+77aeadee-e150-4858-97fe-61e2179aa139,Restaurant_77aeadee,Mexican,Houston
+3ad16b6a-5fc4-4e95-8a63-e3e5fcbc564e,Restaurant_3ad16b6a,Fast Food,Phoenix
+3a84e03e-a73c-4b64-afaf-61ca41d61c88,Restaurant_3a84e03e,Dessert,Philadelphia
+83a7270f-9e36-41ae-b62b-02996cd690c3,Restaurant_83a7270f,Cafe,San Antonio
+09b5cf82-e751-49fc-a9c0-0cc8d3005306,Restaurant_09b5cf82,Mexican,Houston
+27051748-2bd3-49a3-9a67-23dc8d5eb870,Restaurant_27051748,Dessert,Houston
+f4d1b614-1937-4b9f-8eb6-01bcc17ebe6f,Restaurant_f4d1b614,Bar,San Diego
+9dc6286b-d34a-49fb-bb2d-7dc3604aff87,Restaurant_9dc6286b,Asian,New York
+5a658db3-f0b0-4718-9186-520339e5883e,Restaurant_5a658db3,Fast Food,Los Angeles
+4c479b95-88f7-4665-8a33-89fb10cc143b,Restaurant_4c479b95,Cafe,San Antonio
+1824bc84-60f1-4a0d-a0aa-f6c0a6e581bb,Restaurant_1824bc84,Fast Food,New York
+e0818e0b-9ce7-4b10-9ad5-3200e65ed2c3,Restaurant_e0818e0b,Fast Food,Houston
+88186102-ba69-46b6-8009-781cbc0c606d,Restaurant_88186102,Fine Dining,New York
+a58baba4-af0e-4e70-8c1f-169e98a6e67d,Restaurant_a58baba4,Fine Dining,New York
+229c766b-3b47-4d7d-bf93-94579af6de88,Restaurant_229c766b,Dessert,New York
+fe60c5dc-b1a5-4ab2-b5d1-fa6f2a582710,Restaurant_fe60c5dc,Asian,Houston
+ad03b508-bc70-41c9-bcd7-f415993e2d5c,Restaurant_ad03b508,Cafe,Philadelphia
+7a783654-9ed2-4c2f-87af-f0eff1e6b543,Restaurant_7a783654,Dessert,San Antonio
+edff0e53-bd7a-4432-93f8-bed0481abbc7,Restaurant_edff0e53,Mexican,New York
+9a9ed99c-71da-4f91-bdbc-17c1d07a8678,Restaurant_9a9ed99c,Fine Dining,Philadelphia
+dea58251-77d9-439c-979e-28124246d3ff,Restaurant_dea58251,Dessert,San Diego
+ade2a5dd-0858-49ff-87e0-541ff2c47601,Restaurant_ade2a5dd,Fast Food,San Diego
+7a43a5ee-15cb-43bf-beb4-f7bd89c48a73,Restaurant_7a43a5ee,Asian,Philadelphia
+26c18182-0d09-4630-bf34-648641541529,Restaurant_26c18182,Fast Food,Phoenix
+2d44e28a-d1bf-44c5-bd39-bb799ac0ea32,Restaurant_2d44e28a,Mexican,Phoenix
+5e5abc60-d83a-4ae5-b077-cce404ffddcc,Restaurant_5e5abc60,Italian,San Antonio
+23f248f7-1706-4aa9-b834-b4cb6fd0e844,Restaurant_23f248f7,Italian,Chicago
+012ee98c-18f8-4d75-83d1-679ecab21a04,Restaurant_012ee98c,Fine Dining,Houston
+ac938d70-fd1c-4716-bd7b-322d87bc459f,Restaurant_ac938d70,Fine Dining,Houston
+095a4cc8-97ee-4c0f-b9b5-2cb2abdc9888,Restaurant_095a4cc8,Cafe,San Antonio
+06bc6d89-2162-42a0-9aa1-f714f9386ec0,Restaurant_06bc6d89,Italian,New York
+25f145be-e538-451b-b474-c90f93890031,Restaurant_25f145be,Dessert,Chicago
+a9a6cc84-ea9a-4af0-88e8-e887f62dd334,Restaurant_a9a6cc84,Fast Food,New York
+e864bd2e-a709-406a-a7c3-9795a3344ce5,Restaurant_e864bd2e,Fine Dining,Phoenix
+244bfcb5-2f25-495f-aa08-1bb3e6441df7,Restaurant_244bfcb5,Cafe,Phoenix
+4a0486b3-ffd0-45c0-bb33-f7b1526c9c99,Restaurant_4a0486b3,Bar,San Antonio
+e38bb368-4a37-4448-a3ef-f970255ed42a,Restaurant_e38bb368,Asian,San Diego
+09453744-9000-4baa-8b64-5a846e25ad77,Restaurant_09453744,Cafe,Houston
+daf5effa-96c0-4d0f-9af3-327943f6fa85,Restaurant_daf5effa,Dessert,Phoenix
+4c5343c8-028a-4495-8a4b-105fcfec61af,Restaurant_4c5343c8,Bar,Los Angeles
+adba46ae-7dcb-42a4-9d85-17ace75516a2,Restaurant_adba46ae,Italian,Philadelphia
+9a7a29dd-0b1b-4e2f-8fc4-dd67e7ae7e83,Restaurant_9a7a29dd,Cafe,Phoenix
+dacc07f0-3f82-469e-9cd4-aa56f4fe6dbe,Restaurant_dacc07f0,Mexican,San Diego
+b18dfa72-e916-4ecd-89fc-7c3f4545953d,Restaurant_b18dfa72,Mexican,Philadelphia
+30a68bd0-82cd-499b-b971-19ff47b446e9,Restaurant_30a68bd0,Cafe,Philadelphia
+94165b53-9f80-4058-b252-e6e748aad86e,Restaurant_94165b53,Cafe,Phoenix
+f56c69de-ad8c-415e-bd35-dcff2243fa8d,Restaurant_f56c69de,Cafe,Houston
+6f7db184-1bbc-41bc-ae2e-c34ed1810e37,Restaurant_6f7db184,Fast Food,Houston
+edf36748-a80b-474d-bc36-f19edea385ea,Restaurant_edf36748,Italian,San Antonio
+d1a3ddaf-f528-4c21-ab4a-8572eeebdd1b,Restaurant_d1a3ddaf,Asian,Chicago
+88b9e10b-5b3b-4973-9357-c993bfdb6e68,Restaurant_88b9e10b,Italian,San Diego
+2a69ed97-aeda-4f8c-a049-0714a85ee1d7,Restaurant_2a69ed97,Cafe,Phoenix
+9a15cdb2-0e92-45d0-aa84-4bc670d388c9,Restaurant_9a15cdb2,Bar,San Antonio
+d6279836-de8e-4733-9aab-b1f78e4fed37,Restaurant_d6279836,Bar,New York
+22b8caa7-ab2d-41f2-a1c7-7b36644a9ffe,Restaurant_22b8caa7,Fine Dining,Philadelphia
+608e951d-995b-4496-bd1c-9232da3b6f0c,Restaurant_608e951d,Fine Dining,San Diego
+c8114b3c-153d-4dac-8e68-70d42238793d,Restaurant_c8114b3c,Asian,Phoenix
+175bdb10-0b29-4c99-81f1-9e24f80f202f,Restaurant_175bdb10,Fast Food,
+696d31e2-14df-454f-a94e-36dc21287c39,Restaurant_696d31e2,Cafe,Los Angeles
+cb60f760-0913-410b-8873-d384a829b9ff,Restaurant_cb60f760,Dessert,Chicago
+c4c77aa3-e8ea-4d84-9fc0-48252c1f4594,Restaurant_c4c77aa3,Cafe,
+c3e1113d-c4cd-42de-a5ab-313807ba366e,Restaurant_c3e1113d,Asian,Los Angeles
+4e885eb3-23df-4676-8456-3512216fa5da,Restaurant_4e885eb3,Fine Dining,Philadelphia
+fb2d6589-0e72-4834-b506-bb8f8708ecd7,Restaurant_fb2d6589,Fine Dining,Phoenix
+a5a496e7-3b3b-4d04-8d56-3da89de4ffcd,Restaurant_a5a496e7,Bar,Philadelphia
+da11f168-360e-43cb-8c6f-09f712dd2252,Restaurant_da11f168,Asian,Phoenix
+bb01ba4b-4133-4fc2-a106-303ec06bd61d,Restaurant_bb01ba4b,Cafe,San Diego
+c48f69ad-8135-4735-9483-d98e2b15aefa,Restaurant_c48f69ad,Mexican,
+6f0e6bd3-90ad-4f9b-81d4-37150819f521,Restaurant_6f0e6bd3,Italian,Los Angeles
+c7a9c678-cae3-4d4a-a87f-d100af178c46,Restaurant_c7a9c678,Dessert,Houston
+77c97a53-476f-41a1-bfdc-b865eda782d8,Restaurant_77c97a53,Mexican,San Antonio
+c41bebd8-9a5f-4298-947b-97e141e4eb2e,Restaurant_c41bebd8,Cafe,San Antonio
+83c1aba5-44d3-4432-be43-ad29d92e3e51,Restaurant_83c1aba5,Italian,Chicago
+60f0d506-e720-4694-b54b-f57364648bff,Restaurant_60f0d506,Fast Food,Houston
+c862b5e8-bf55-49c8-a3ca-818a35abac49,Restaurant_c862b5e8,Asian,San Antonio
+0edcd4b1-fdf3-4800-9372-3c1740ae9357,Restaurant_0edcd4b1,Dessert,Chicago
+3b4339d1-9655-4425-b4cd-f4cfc3c42aaf,Restaurant_3b4339d1,Asian,Chicago
+67c89988-2390-441a-b70a-14d6e15ae344,Restaurant_67c89988,Mexican,San Diego
+dd6ac2a9-7a17-458a-925b-1789108633e0,Restaurant_dd6ac2a9,Asian,Chicago
+bc38b3c2-83aa-4a0a-8c73-8f1764fd0336,Restaurant_bc38b3c2,Asian,New York
+b69ca241-6f28-4443-88c8-3efd866a6448,Restaurant_b69ca241,Italian,San Diego
+50a056e8-2fa3-4f2e-9875-09d3aeb609e8,Restaurant_50a056e8,Cafe,Houston
+1b5393bc-6ea6-489d-9684-511f923accd5,Restaurant_1b5393bc,Fast Food,Chicago
+1577e79f-aa77-468d-9e31-957d3dfcabeb,Restaurant_1577e79f,Dessert,Los Angeles
+d00eaa4f-c850-4285-9b2f-cedc59b36808,Restaurant_d00eaa4f,Fast Food,San Antonio
+0b277ab6-58c4-475a-a237-03dbdadead70,Restaurant_0b277ab6,Bar,San Antonio
+babd6009-d9cf-472b-b84f-b73fd334ace8,Restaurant_babd6009,Bar,San Diego
+6a406713-1f43-4672-9622-8b07051d15c9,Restaurant_6a406713,Bar,New York
+1547d669-1d0c-47a7-99b9-bbbe2a2dc58c,Restaurant_1547d669,Italian,Houston
+0e7a9cf4-8ff7-4578-9ec2-5ec92b76c758,Restaurant_0e7a9cf4,Asian,New York
+a4a65668-8bf3-44ac-b0d6-e30463262505,Restaurant_a4a65668,Asian,Houston
+b9c502dc-816a-480a-ad53-8abff7601ddd,Restaurant_b9c502dc,Italian,New York
+e681f953-9614-4c3f-a1f5-6ed74cd53f66,Restaurant_e681f953,Fine Dining,Houston
+5c529306-8b67-4b9e-a017-a090214550a5,Restaurant_5c529306,Asian,Phoenix
+2c5dd686-caef-4fd9-87a7-9ddc0093a54a,Restaurant_2c5dd686,Fast Food,Los Angeles
+ebf94958-0b70-4617-8db2-358b1c862029,Restaurant_ebf94958,Bar,Phoenix
+336245a5-a076-4ac2-afdc-4c395ddb8d6a,Restaurant_336245a5,Fast Food,Los Angeles
+bdb85469-a8d8-4bcb-856f-c33655c236d2,Restaurant_bdb85469,Italian,Phoenix
+873efef0-a438-412c-a366-633140d8bde5,Restaurant_873efef0,Cafe,San Diego
+9591c518-1611-4021-beff-65ecc869cbfa,Restaurant_9591c518,Asian,San Antonio
+df88c5b1-1e8e-4eaa-85bd-8b520730444b,Restaurant_df88c5b1,Fast Food,Philadelphia
+cc3656f9-8845-421a-9554-6f8b1c761ca4,Restaurant_cc3656f9,Dessert,Philadelphia
+a75bbf45-f6db-4894-8d8f-33bafff88b05,Restaurant_a75bbf45,Fine Dining,Chicago
+8f1d2e87-5168-4306-bd4f-02fcc5c5f399,Restaurant_8f1d2e87,Bar,New York
+5383e435-0378-459c-9375-df7b41efdf8f,Restaurant_5383e435,Fine Dining,Houston
+f88b6c68-02e6-4523-ad4f-bd5bf61b9ce1,Restaurant_f88b6c68,Fast Food,Houston
+d526ae44-0c94-4c63-84ec-0f77d291fd69,Restaurant_d526ae44,Italian,Chicago
+9ebff0be-1526-4131-978a-e4309b1a2e3f,Restaurant_9ebff0be,Mexican,
+052c20c0-848c-4702-b239-9df1ad515838,Restaurant_052c20c0,Italian,San Antonio
+923757dc-7093-4efa-bb54-35073fe0ba5c,Restaurant_923757dc,Cafe,New York
+16f5d1f4-8b79-41ce-8fad-9207b7a6e321,Restaurant_16f5d1f4,Italian,Los Angeles
+848f12e1-4438-44fd-be74-3cd4388280ea,Restaurant_848f12e1,Italian,New York
+0c85f782-7288-4f0c-b964-068f5edf166c,Restaurant_0c85f782,Mexican,San Antonio
+816240f8-67b9-49bc-a380-a952776de8cc,Restaurant_816240f8,Dessert,San Antonio
+bec4de0e-c69d-4ea0-aded-fa9c0fc8dfd8,Restaurant_bec4de0e,Mexican,Phoenix
+2a196045-8678-4277-8641-4628dbfb8241,Restaurant_2a196045,Dessert,Chicago
+9aa7e076-b66a-4c97-9896-d7d68f20e0b5,Restaurant_9aa7e076,Fine Dining,New York
+3a4fffe8-0d7f-4ee7-8bc0-ab13e251b74d,Restaurant_3a4fffe8,Cafe,San Antonio
+5cd0e9fe-355c-44bd-849e-40f3adce951a,Restaurant_5cd0e9fe,Mexican,Phoenix
+6fd10f71-be48-49df-9a83-81bf2d549107,Restaurant_6fd10f71,Fast Food,San Antonio
+555a7221-5736-4df4-8ff9-05af5ce977d4,Restaurant_555a7221,Mexican,Los Angeles
+5a6c8a6a-d1c9-4a59-86d8-f9820e714535,Restaurant_5a6c8a6a,Cafe,Los Angeles
+e1f2bb58-edc7-4469-8259-382469bd1143,Restaurant_e1f2bb58,Mexican,San Diego
+13d42fbc-e5d6-4458-ab25-f6a7b1ac3f62,Restaurant_13d42fbc,Fine Dining,Houston
+789189e1-a894-473c-b05b-802b133a8664,Restaurant_789189e1,Cafe,Houston
+19d31813-6ca1-4383-b781-973d60e714b8,Restaurant_19d31813,Asian,San Antonio
+ad95f07d-2e68-4671-9ed5-bd533b0de714,Restaurant_ad95f07d,Cafe,Chicago
+ae08968f-ab2c-420a-8d83-14ae57cfb41b,Restaurant_ae08968f,Italian,San Diego
+c0d50e68-e109-4ad3-b46f-1200048acc55,Restaurant_c0d50e68,Fine Dining,San Diego
+e2294254-4646-4e85-b2ee-c233d873afda,Restaurant_e2294254,Asian,Houston
+eb0772ce-a9a2-4ba9-9922-a8f747f6f0a5,Restaurant_eb0772ce,Italian,New York
+9190635f-aefe-47a2-a8ff-83b2511fec05,Restaurant_9190635f,Mexican,Los Angeles
+22791347-52d5-4e75-b6d6-782f80670808,Restaurant_22791347,Dessert,Chicago
+a68ae2d6-6f86-47ce-aec4-5bcc828a5569,Restaurant_a68ae2d6,Mexican,Los Angeles
+df708997-7d54-4c86-b2bc-da57361596d7,Restaurant_df708997,Mexican,Phoenix
+ef1a1f6f-5b0f-4e3f-9bd9-4b578eb23dbb,Restaurant_ef1a1f6f,Fine Dining,San Diego
+9b4e29a2-85a9-42e8-a2d6-bf63d1e228e2,Restaurant_9b4e29a2,Cafe,Phoenix
+3fcbdb28-96aa-4646-9efa-ddb1d1800e08,Restaurant_3fcbdb28,Dessert,New York
+c662a6c9-3cde-4bf3-b5d5-a52b10e8f2a9,Restaurant_c662a6c9,Mexican,Chicago
+cd909416-9ba6-480c-aa29-9d1d6011f51f,Restaurant_cd909416,Italian,Phoenix
+e9191847-b9f9-4be1-80e9-1255a0c958b1,Restaurant_e9191847,Asian,Philadelphia
+6065642a-cb3a-4276-84dd-e31a52099db9,Restaurant_6065642a,Bar,Los Angeles
+a3d9d6ec-31b1-4a84-8fc4-f2e89cb67bd6,Restaurant_a3d9d6ec,Mexican,New York
+0e422d34-9b38-49a3-8c0c-102f51c5fa84,Restaurant_0e422d34,Italian,Chicago
+edc9a5de-36df-44cc-9826-2e75816e2830,Restaurant_edc9a5de,Fast Food,Philadelphia
+81f20e80-621e-4534-a633-bb7c63cc8c27,Restaurant_81f20e80,Asian,San Diego
+58881acc-bb90-4033-a087-2a04f51d8049,Restaurant_58881acc,Cafe,Los Angeles
+22dcc647-1531-43ed-bd5a-9a09937add9d,Restaurant_22dcc647,Asian,Philadelphia
+606bb153-372b-46a3-8728-8392dd352c2f,Restaurant_606bb153,Fast Food,Los Angeles
+827f920a-deb7-4662-93ef-57147aaf7439,Restaurant_827f920a,Bar,San Antonio
+133cb837-ff90-46bb-ad3d-7fabd46ee5c8,Restaurant_133cb837,Dessert,Phoenix
+61f60e15-0b8e-4835-a4c6-9a3ceb46301b,Restaurant_61f60e15,Bar,San Diego
+0dfe7c2d-62aa-454b-9af5-44f19abbb3aa,Restaurant_0dfe7c2d,Bar,Chicago
+ea56ca87-7c54-42de-a1f3-fa51254748be,Restaurant_ea56ca87,Mexican,Chicago
+d05183be-aebe-4f48-9813-795a10500063,Restaurant_d05183be,Italian,Chicago
+c273d5d2-dc17-4bcd-83c6-0aedcde0c753,Restaurant_c273d5d2,Mexican,San Antonio
+67e8d686-6fee-412d-8543-929e10fff49e,Restaurant_67e8d686,Dessert,San Diego
+291782e6-5cfa-444c-9ede-d3dfb155cbc5,Restaurant_291782e6,Fast Food,San Antonio
+f22e0eb5-6f4a-4f45-ad70-25c0f72a3aeb,Restaurant_f22e0eb5,Asian,New York
+838030b1-895b-46f5-80d7-d82e2fc23263,Restaurant_838030b1,Fast Food,San Diego
+a909f49d-4ed3-4ee9-bb60-d52d9e2df1a8,Restaurant_a909f49d,Dessert,Los Angeles
+65e5d95a-4a73-43df-be1a-7f8f69a107fb,Restaurant_65e5d95a,Bar,San Diego
+7cfd9540-8c07-4336-a366-3a512abb121f,Restaurant_7cfd9540,Italian,Los Angeles
+a0eaed8a-92fa-4cb2-89fd-93dcd6f55552,Restaurant_a0eaed8a,Cafe,Philadelphia
+9b3a7dae-81cb-47dd-b505-e40d77f94be3,Restaurant_9b3a7dae,Italian,Houston
+c89bfafb-30b6-43df-9653-4f4cfb5181ff,Restaurant_c89bfafb,Asian,Los Angeles
+bb9daf88-1761-4098-835c-14c1a009cf74,Restaurant_bb9daf88,Bar,Houston
+b04c7f2d-3cfa-4c32-8299-cf94373f2cab,Restaurant_b04c7f2d,Dessert,Philadelphia
+4c6fcd88-31ed-40a9-9687-b2a0815ba3b5,Restaurant_4c6fcd88,Bar,Chicago
+0cff0104-03ef-42f6-a7cb-535d0ec16b7a,Restaurant_0cff0104,Italian,New York
+be55af86-3e2e-45bc-9d1d-283aa8865eb1,Restaurant_be55af86,Fast Food,San Diego
+f05853ec-d6df-4b32-9e63-e591bb624ff7,Restaurant_f05853ec,Dessert,Chicago
+bac16282-5acf-464b-b6f0-b845fa2d5545,Restaurant_bac16282,Mexican,San Diego
+2bce128f-8f88-498f-a3e5-f7f0d7e10d71,Restaurant_2bce128f,Asian,Houston
+ada86105-22b8-43cc-9dfe-07efb1f586ab,Restaurant_ada86105,Asian,Phoenix
+3a52d486-503c-4466-8f12-2bab18eb52f8,Restaurant_3a52d486,Italian,Houston
+5f7a92bc-d0e7-4070-bc78-052f439fa1fd,Restaurant_5f7a92bc,Bar,San Antonio
+d15ac6a7-058c-4901-ac5c-f3554a5a4299,Restaurant_d15ac6a7,Fine Dining,Los Angeles
+c476a39c-59f2-484d-9445-a000c223d734,Restaurant_c476a39c,Dessert,San Diego
+dceb1ff5-2df3-4610-a40d-422ade9c33a5,Restaurant_dceb1ff5,Dessert,Los Angeles
+ed2a6ce6-90d5-4c9e-841e-f1487f63388b,Restaurant_ed2a6ce6,Dessert,San Diego
+2187c3de-72ef-43f9-95a4-2ddec8595cf2,Restaurant_2187c3de,Asian,Los Angeles
+47d26d6d-f11b-4650-acdd-7e084accd81d,Restaurant_47d26d6d,Dessert,
+eec33058-ea7f-404b-8e9b-bcd99f63e822,Restaurant_eec33058,Mexican,San Antonio
+7ab78709-2936-4526-ab1a-c258ffc6d938,Restaurant_7ab78709,Bar,New York
+da404019-d48f-451e-b668-bd8a247740f0,Restaurant_da404019,Italian,Los Angeles
+30b4a545-03d8-44cd-acf7-28f899adaac2,Restaurant_30b4a545,Cafe,Houston
+d7c9651a-7abd-41d8-b770-45d9dda20e7a,Restaurant_d7c9651a,Dessert,Philadelphia
+c5ba0d8e-f909-4f15-869a-239a2dfe943e,Restaurant_c5ba0d8e,Asian,New York
+53ec089a-f66f-447b-8039-2cea63ad3e41,Restaurant_53ec089a,Fine Dining,San Diego
+fec91fad-4a31-48e3-9550-829d54276361,Restaurant_fec91fad,Asian,San Diego
+74c791f6-866b-4df9-826a-4fbcfc54adc2,Restaurant_74c791f6,Asian,San Diego
+e26fc4ac-5ecb-4583-a49c-43670374d9b6,Restaurant_e26fc4ac,Mexican,Los Angeles
+f5e970c3-d7a9-4b8a-8843-7f230ae5a8e4,Restaurant_f5e970c3,Fine Dining,New York
+9dcc7980-aeeb-4c9b-b3ad-c970c42fa6a4,Restaurant_9dcc7980,Asian,Philadelphia
+9a872dba-d301-4735-a189-7e255fe2822f,Restaurant_9a872dba,Cafe,Philadelphia
+48a2705d-b9f9-4043-ad8c-540d2771cdf8,Restaurant_48a2705d,Mexican,New York
+3cb30659-b0a4-4ff9-a9a8-9c347fec78de,Restaurant_3cb30659,Fast Food,San Diego
+b8db7600-90dc-4641-8fa6-facbf4e7363a,Restaurant_b8db7600,Fast Food,San Antonio
+3ebf17fc-b9f3-4b14-a4b3-40ec12681e0e,Restaurant_3ebf17fc,Mexican,Phoenix
+a3eb90d9-9108-4f85-9596-40253ca66b88,Restaurant_a3eb90d9,Fine Dining,Houston
+95ad7951-00c1-46dc-b0a3-660a1f3e71e9,Restaurant_95ad7951,Mexican,San Antonio
+80ea25f9-7a9f-47e5-9156-10afd93c87d9,Restaurant_80ea25f9,Fine Dining,San Diego
+cb529127-5931-43d4-a59a-6ca22a210cf2,Restaurant_cb529127,Fine Dining,Philadelphia
+a32b4605-d90a-495e-a80b-27aaa2f90301,Restaurant_a32b4605,Mexican,San Antonio
+42a0b1c4-ac7b-4f15-88cd-6e14284b0e4e,Restaurant_42a0b1c4,Italian,Los Angeles
+83753d03-b9d0-49a4-99d7-42cbe423c206,Restaurant_83753d03,Dessert,San Diego
+4e60c7fe-06e5-4353-87b5-4ce23558f195,Restaurant_4e60c7fe,Fast Food,San Diego
+acf9d5ca-3146-4f18-86ee-4106dfce27cb,Restaurant_acf9d5ca,Italian,New York
+d270e3a6-9b80-479d-8fb8-3a0a7cd9227e,Restaurant_d270e3a6,Bar,San Diego
+15d42f41-6c38-421d-9889-deedcb700872,Restaurant_15d42f41,Fast Food,Chicago
+6a742821-55eb-43dd-927f-63b788aff5e9,Restaurant_6a742821,Fast Food,Los Angeles
+fb251be5-0f7b-4cf6-9fb8-90976f56df19,Restaurant_fb251be5,Bar,Philadelphia
+a37bfd2a-022b-436a-859a-e9fd93573b66,Restaurant_a37bfd2a,Bar,San Antonio
+856029d5-196c-4218-9ced-6c70d39c99ee,Restaurant_856029d5,Fine Dining,Phoenix
+131b0b08-04d2-4501-9cd5-d8be7012a8b6,Restaurant_131b0b08,Bar,Philadelphia
+10e4ca8b-af7c-42e8-a520-c6d8d19c9c3b,Restaurant_10e4ca8b,Cafe,San Diego
+0f52f5bc-a2ad-445a-988c-185525ecbfa2,Restaurant_0f52f5bc,Fast Food,Chicago
+a20c7550-327a-4913-8048-1868cb906270,Restaurant_a20c7550,Bar,
+04d20d5b-8cec-4436-9294-a2e247569e80,Restaurant_04d20d5b,Asian,Houston
+e5aa6912-d2a1-4592-9a04-d6906ce3e71f,Restaurant_e5aa6912,Fine Dining,Houston
+05d13953-4538-464a-8f1d-f0056155b03d,Restaurant_05d13953,Cafe,Philadelphia
+afed703a-725a-485e-b0f9-7ec06f22ce80,Restaurant_afed703a,Fast Food,Chicago
+ccce025e-bb5d-4e6b-8710-2b41ce1565b0,Restaurant_ccce025e,Asian,
+16535659-c1db-49b9-bb42-b6447494a758,Restaurant_16535659,Asian,San Diego
+086add7b-bb78-43a0-95c7-4bce2c466beb,Restaurant_086add7b,Bar,Phoenix
+b6e68511-8dac-47ed-8b20-391e2867f906,Restaurant_b6e68511,Bar,New York
+ab3bd917-965e-414d-9521-3600d2bcff21,Restaurant_ab3bd917,Mexican,New York
+fc21e753-f258-41de-80f7-b79cd92d89c4,Restaurant_fc21e753,Bar,Chicago
+21287be2-521f-4944-a81a-f7decc909e97,Restaurant_21287be2,Italian,New York
+eb3a3b1d-dfac-4df2-8713-5929e54e5779,Restaurant_eb3a3b1d,Fine Dining,Phoenix
+3cfa412b-5667-4777-881f-87abf3c4c5ab,Restaurant_3cfa412b,Fast Food,Phoenix
+2a1bcdc0-5e95-430e-874f-2e5ac0b9887d,Restaurant_2a1bcdc0,Cafe,Chicago
+26049ac7-91b9-40c5-86d4-8171ec17239a,Restaurant_26049ac7,Italian,Phoenix
+ea572b37-ca1a-4cc3-865a-324dcf726d70,Restaurant_ea572b37,Fine Dining,New York
+471f1ed1-b566-48dc-bff9-ff0e8b227fbf,Restaurant_471f1ed1,Asian,San Diego
+ba5874bc-f225-459c-9bc2-90f22f12f8e6,Restaurant_ba5874bc,Mexican,Houston
+45e97970-4e00-4015-888b-0e735f9926b3,Restaurant_45e97970,Bar,Houston
+e6cf6a1b-b222-4f39-963d-3cf756cb056e,Restaurant_e6cf6a1b,Cafe,New York
+695aee2d-9785-47df-8ef2-0a09688a4bc3,Restaurant_695aee2d,Bar,San Antonio
+ac32d9ed-bda2-4430-9458-d68f3124552e,Restaurant_ac32d9ed,Bar,Philadelphia
+8b561791-fd84-4fde-a538-23e0c1b72a01,Restaurant_8b561791,Italian,New York
+fef0c500-c749-4286-ba21-6bc97d7e2e60,Restaurant_fef0c500,Cafe,Houston
+16fdc141-6c66-4e77-b417-059d4a9c974a,Restaurant_16fdc141,Dessert,Houston
+023592bf-f6ad-45b2-87b8-5e549ce5d756,Restaurant_023592bf,Asian,Houston
+718bfa9c-b9fa-4bd3-a4af-e2819a461b23,Restaurant_718bfa9c,Fine Dining,Phoenix
+f18493bd-4fd2-4ecf-95e8-fde8df64e9d4,Restaurant_f18493bd,Dessert,Chicago
+536b5add-d459-4723-a0ae-9796453c990e,Restaurant_536b5add,Mexican,Chicago
+a512d3cd-802e-43c2-9e57-4b2702d963be,Restaurant_a512d3cd,Fast Food,Los Angeles
+1d6c01e5-6091-4ad3-a060-e6ea962fa98d,Restaurant_1d6c01e5,Bar,New York
+162e6c23-42b7-4ada-8b2d-f07101b8dafb,Restaurant_162e6c23,Bar,Phoenix
+13d74eca-296c-4c98-8dc6-1aeb80ccbb08,Restaurant_13d74eca,Cafe,Chicago
+ccabbaa6-72e7-4c01-b7bf-38eba80fac00,Restaurant_ccabbaa6,Fast Food,Phoenix
+e0721e90-e2bc-4745-847d-3efdd06e30c2,Restaurant_e0721e90,Italian,Philadelphia
+788df24e-4c1e-4667-a682-a5287ed51829,Restaurant_788df24e,Dessert,Chicago
+e77d0f58-e463-4ad7-b9f5-09ebc8eacd28,Restaurant_e77d0f58,Italian,Chicago
+9407fa86-066c-4e31-906a-23164d795d56,Restaurant_9407fa86,Asian,New York
+ba3fd127-1ec2-476d-9110-c59d47e7b4a6,Restaurant_ba3fd127,Cafe,San Diego
+31daaa99-133d-478e-a201-8dfd037e942c,Restaurant_31daaa99,Asian,Los Angeles
+82354f42-8a62-4c8a-971e-11b716c989bf,Restaurant_82354f42,Asian,Houston
+b4d223f7-53d7-4fba-910f-30852bd434ab,Restaurant_b4d223f7,Fast Food,Los Angeles
+a0369242-81bc-42c1-96e7-7d38637910a8,Restaurant_a0369242,Fast Food,San Antonio
+ac5e637c-f5d0-4eab-bc02-0af6d369f2bd,Restaurant_ac5e637c,Bar,Los Angeles
+3ba93b87-e875-44d1-825e-6d71b800d9d9,Restaurant_3ba93b87,Asian,Houston
+2fb235be-edc1-44fe-871b-151d4abfb050,Restaurant_2fb235be,Fine Dining,Philadelphia
+2404a9b9-2e37-4e01-9203-091ced29a0d0,Restaurant_2404a9b9,Asian,Philadelphia
+4d015ea6-ee15-4dbc-a61d-b56b6a9d331a,Restaurant_4d015ea6,Cafe,Houston
+c5a9d328-9123-47aa-96fe-f075229358a9,Restaurant_c5a9d328,Dessert,New York
+90c2c554-eb81-450d-9e86-d1d236ace2b5,Restaurant_90c2c554,Mexican,Philadelphia
+3ccfdd54-1fe0-4057-a923-30f54e747a58,Restaurant_3ccfdd54,Dessert,Houston
+1ac5e421-f949-4b5a-84d0-bdae33e072d8,Restaurant_1ac5e421,Fine Dining,New York
+4820e57f-3a5b-4634-bdc0-bb36a050f119,Restaurant_4820e57f,Asian,San Antonio
+222a0035-d0b9-4767-b8e3-ad642504db06,Restaurant_222a0035,Mexican,San Antonio
+091ba47f-6b5d-4867-b504-620d2ff1dddd,Restaurant_091ba47f,Cafe,Phoenix
+754d6627-e1ad-44c7-a304-36002796833e,Restaurant_754d6627,Italian,Philadelphia
+244471ff-a3fe-4fa7-9e4b-456f9afb5c95,Restaurant_244471ff,Dessert,San Diego
+34b450f7-a717-48e3-a522-c68631b19900,Restaurant_34b450f7,Italian,Phoenix
+a23486b2-3cfd-417f-ae1f-63177385cf0c,Restaurant_a23486b2,Fine Dining,Philadelphia
+bbd5b1d3-936b-4b92-b50f-2b9da2af92fe,Restaurant_bbd5b1d3,Mexican,Los Angeles
+65df3f60-243c-4447-bef3-f38a77c2edde,Restaurant_65df3f60,Fast Food,New York
+0e32aeca-c3a4-4961-9eb6-1197183240a4,Restaurant_0e32aeca,Mexican,Houston
+1efaa087-8991-4d70-a8dc-cf838a0af08a,Restaurant_1efaa087,Fine Dining,San Antonio
+793c2aff-09fd-419d-be67-99ce4d9c35f6,Restaurant_793c2aff,Mexican,Houston
+4fec0b72-b58b-473f-aae6-2c1aee1f9c0e,Restaurant_4fec0b72,Bar,Los Angeles
+25ce6f9c-c866-44cd-8819-a39bfcdbe3a0,Restaurant_25ce6f9c,Fast Food,New York
+ef5ce872-2353-466d-8894-1ec9e1810ebd,Restaurant_ef5ce872,Dessert,Philadelphia
+94affe36-a540-4d65-a4eb-55e4a86e7245,Restaurant_94affe36,Italian,Los Angeles
+c3642181-1fba-46c9-a0c8-dd7ba6d76400,Restaurant_c3642181,Mexican,New York
+6f468a8f-b415-4695-8b04-11a456b31901,Restaurant_6f468a8f,Fast Food,Phoenix
+63909c86-d917-49d4-9583-324c40063cf3,Restaurant_63909c86,Mexican,Houston
+da1c8d56-4e43-426e-9c17-b54a5b5a2e61,Restaurant_da1c8d56,Cafe,San Antonio
+f336a870-ec68-4116-aea3-288b048ef759,Restaurant_f336a870,Bar,San Diego
+06c82e1f-162d-490f-aab1-fa1457b80df0,Restaurant_06c82e1f,Bar,San Antonio
+54ac8c24-75cf-43e2-af7b-c2cce8d8b701,Restaurant_54ac8c24,Asian,New York
+57ae2d1f-7540-471d-9dbb-4570702ccb60,Restaurant_57ae2d1f,Bar,Los Angeles
+f381a13e-6f6a-4655-a348-c3e53d732890,Restaurant_f381a13e,Italian,Los Angeles
+2938cedc-9dce-4a61-9681-770ddd387bdb,Restaurant_2938cedc,Italian,Los Angeles
+0ff18e5a-3d54-4125-8775-60c2a526798c,Restaurant_0ff18e5a,Asian,Los Angeles
+3559edc7-f1d5-4432-a21e-eccc2c09e601,Restaurant_3559edc7,Cafe,Phoenix
+bf7aa0ce-63f5-4595-8ce8-2d4df9421f14,Restaurant_bf7aa0ce,Mexican,Phoenix
+629d6d4a-c0dc-495a-9c2a-7cde442d8582,Restaurant_629d6d4a,Dessert,San Antonio
+c6210699-a894-4fe7-a5da-10c335d01e55,Restaurant_c6210699,Bar,New York
+d3e18141-4fbc-467a-a773-25f5943ff8c7,Restaurant_d3e18141,Dessert,Chicago
+c302eb1d-08f8-4f02-bf25-d7a84e805ec9,Restaurant_c302eb1d,Fine Dining,Chicago
+22bd1482-881d-455e-9d88-28a4edf246df,Restaurant_22bd1482,Bar,Phoenix
+458ca556-cd67-4001-92cd-2fa7b27d7058,Restaurant_458ca556,Fast Food,Phoenix
+4621715d-8b31-4d7b-98bc-3f1f581623f3,Restaurant_4621715d,Asian,New York
+6d252c7f-5a8f-47e2-b271-a08e18051cd6,Restaurant_6d252c7f,Fast Food,Los Angeles
+5c7bec61-a30d-4355-8827-6169650eabf5,Restaurant_5c7bec61,Italian,
+79cd0a9b-a7d7-4795-8d6e-8d9ed3c364d8,Restaurant_79cd0a9b,Bar,Los Angeles
+c59c7f64-f2bd-4dc4-8189-71e649d36994,Restaurant_c59c7f64,Cafe,Houston
+edb7d136-2aa0-491e-ba4b-2d6f4267d254,Restaurant_edb7d136,Asian,Houston
+2cdfcab9-e7c5-43a2-b658-5e78f9c15f6d,Restaurant_2cdfcab9,Bar,Chicago
+95cddd29-f737-477c-9200-5c3c7ffc7eec,Restaurant_95cddd29,Fast Food,Chicago
+1417d1e2-05b6-4332-b7ea-25f2d3ac6e48,Restaurant_1417d1e2,Fine Dining,Phoenix
+ce6844df-7d2b-4229-a40d-09afb0c4ff0d,Restaurant_ce6844df,Fine Dining,Los Angeles
+bfdb2ba0-30a8-48cb-b727-e5197010e9e0,Restaurant_bfdb2ba0,Fast Food,New York
+ebb0f7c2-d9e4-4af1-9c7d-2b630367e016,Restaurant_ebb0f7c2,Dessert,Los Angeles
+dc3f8565-725e-419a-b07c-b2f0f5a71426,Restaurant_dc3f8565,Cafe,Los Angeles
+7c350d74-097a-4ea3-a096-af49474c6243,Restaurant_7c350d74,Cafe,Los Angeles
+9d37b4ef-1669-4500-9472-bb9505abca02,Restaurant_9d37b4ef,Fine Dining,San Diego
+d6fd0467-5ff4-4a38-a9f4-d7e80b9195e8,Restaurant_d6fd0467,Asian,Philadelphia
+46246e8a-d481-4bcb-b487-83f734541699,Restaurant_46246e8a,Fast Food,Houston
+b3b5cd29-9734-4c60-98c1-d16adeb4ecdd,Restaurant_b3b5cd29,Mexican,Phoenix
+c389ed29-d9da-4776-b66f-ad753829254e,Restaurant_c389ed29,Mexican,Houston
+7208f709-9488-468b-b6a8-08d4d0b6f784,Restaurant_7208f709,Asian,San Diego
+da65136f-f37c-4625-8a37-017bdd40923b,Restaurant_da65136f,Dessert,Philadelphia
+a23130fa-1c3f-4785-a004-f66b8e22fec5,Restaurant_a23130fa,Cafe,Chicago
+996508da-d2c1-488d-b1fa-4c7c6df2179a,Restaurant_996508da,Asian,Philadelphia
+bcb089df-af9d-4f76-8910-dea5da6e2bbb,Restaurant_bcb089df,Bar,Chicago
+92ec461d-ba98-4052-bb4e-b68f1e06959d,Restaurant_92ec461d,Italian,Philadelphia
+33301e9b-623a-4335-8ee4-41dca24d9de1,Restaurant_33301e9b,Fine Dining,
+220fdb57-a3d9-400b-8c58-9d3ee815a50f,Restaurant_220fdb57,Bar,Phoenix
+8d7368a8-f33b-4cef-a3fa-8e8864940d4e,Restaurant_8d7368a8,Asian,Chicago
+b424d1e6-2a14-4d75-8b57-9c46c9d0cebc,Restaurant_b424d1e6,Asian,San Diego
+00afbf81-8eff-46db-9923-77c02ed8b4f6,Restaurant_00afbf81,Dessert,San Diego
+a4c68d02-5339-4105-98fb-2a23c2118292,Restaurant_a4c68d02,Asian,Phoenix
+85ac8d90-15c3-4b52-b71e-48c041c2f9f0,Restaurant_85ac8d90,Dessert,Los Angeles
+0eac38e7-c426-4583-a696-62e4dc640a2c,Restaurant_0eac38e7,Fast Food,Los Angeles
+5f51645d-e58c-49ad-811e-ea2ac23460e6,Restaurant_5f51645d,Cafe,Chicago
+41d5928e-0992-4a88-aea6-02a124130dd1,Restaurant_41d5928e,Fine Dining,Phoenix
+6c1dde12-cb66-4279-8e44-f6ae0120c00d,Restaurant_6c1dde12,Mexican,Los Angeles
+b64b71f1-4b6b-40ab-9742-fdb05229199a,Restaurant_b64b71f1,Italian,New York
+9669a2b7-4e41-447b-a786-99d296dc2d8f,Restaurant_9669a2b7,Bar,Houston
+089f1a93-73dd-4768-8a58-1a8b640328cc,Restaurant_089f1a93,Italian,
+8d7c3490-e035-434a-a3bc-58fdbf7f28c1,Restaurant_8d7c3490,Dessert,Chicago
+9c9627c2-21fc-4cb4-857f-7a0146e56b3d,Restaurant_9c9627c2,Asian,San Antonio
+7ee97b7e-7e4a-4fcb-8b05-75bfd119104c,Restaurant_7ee97b7e,Fine Dining,Phoenix
+179b5194-0bfe-4620-b4df-4268d099abec,Restaurant_179b5194,Fast Food,San Diego
+c5f4dc5e-3d44-496f-bcd5-e2b1b5a1417a,Restaurant_c5f4dc5e,Mexican,San Antonio
+88aaefa6-5f15-48f2-be5c-a567535df49d,Restaurant_88aaefa6,Asian,New York
+bc637260-9ed7-413b-989a-e3ca256ff558,Restaurant_bc637260,Fine Dining,Chicago
+911e493b-7727-4e2f-9af2-1cb029f1c6d4,Restaurant_911e493b,Fast Food,San Diego
+b97a8fa0-ddea-4dcd-baac-ce035c33d227,Restaurant_b97a8fa0,Fast Food,Chicago
+393231b3-f83e-4694-a580-03730e3097fe,Restaurant_393231b3,Fast Food,San Diego
+de0685be-6d2d-4926-be42-091658c8994b,Restaurant_de0685be,Asian,
+7c8637f1-aa50-464b-88f3-df916337ca64,Restaurant_7c8637f1,Fine Dining,San Diego
+10af15b9-90f6-449d-bff5-a81390ddebcd,Restaurant_10af15b9,Fine Dining,Los Angeles
+314a8f77-a6eb-4bc3-9b2f-dfec326a1738,Restaurant_314a8f77,Cafe,Philadelphia
+97e8a187-ce9e-4568-8a8b-8513ef8da26e,Restaurant_97e8a187,Fine Dining,New York
+cb879bdd-4a3d-457d-a32b-defd39b9d42c,Restaurant_cb879bdd,Fine Dining,Philadelphia
+0b5c510a-c4ee-4395-89af-094e510fd670,Restaurant_0b5c510a,Bar,San Diego
+b3242f5f-926d-4bc6-b78e-a7b887efe5bd,Restaurant_b3242f5f,Dessert,New York
+78c1e1a2-07e2-4dca-ba1e-1fe019f1bdd1,Restaurant_78c1e1a2,Italian,Philadelphia
+61512096-9b27-41b3-afec-cc4f1e88f055,Restaurant_61512096,Mexican,Phoenix
+0d83ded0-0fab-439c-91b7-15e2e081ffe9,Restaurant_0d83ded0,Cafe,Chicago
+958c1b88-6b6d-4398-bcaf-0dc767487189,Restaurant_958c1b88,Bar,San Antonio
+616c56aa-505f-44c2-a346-a6a5f5c7bf57,Restaurant_616c56aa,Asian,Los Angeles
+9c4280cc-7c6c-4834-9b2c-35fc07299a03,Restaurant_9c4280cc,Cafe,San Antonio
+1684c02e-eaa1-48a3-982d-dc03a1781779,Restaurant_1684c02e,Fine Dining,San Antonio
+531cee6a-8767-4c43-acc1-7d476509d9f9,Restaurant_531cee6a,Asian,Philadelphia
+0fd4c5f6-7c30-4527-9a1f-8081599ea7bf,Restaurant_0fd4c5f6,Dessert,San Diego
+22be221e-1fa0-4dd9-9a20-b51d35a77229,Restaurant_22be221e,Italian,Chicago
+a8248eb2-eae0-43f2-847c-77be21c8a4b7,Restaurant_a8248eb2,Dessert,Chicago
+c22fbeae-df55-47a6-aff6-476b0136a822,Restaurant_c22fbeae,Fine Dining,Los Angeles
+e94b07ad-d209-49ce-9086-4ff3d630cff3,Restaurant_e94b07ad,Cafe,Houston
+8cf68e87-2fe4-4fac-8d16-e6868684d95a,Restaurant_8cf68e87,Fast Food,Chicago
+ecd62bed-e4d8-43a4-8d73-c99c253deae7,Restaurant_ecd62bed,Fast Food,Philadelphia
+961e8eb7-ea82-452e-bc94-f2e187623109,Restaurant_961e8eb7,Mexican,Houston
+b6049d87-f7cf-4745-8d94-1793c4d26648,Restaurant_b6049d87,Bar,Philadelphia
+87c9a721-83a5-4197-a063-08e1cd3ea781,Restaurant_87c9a721,Mexican,San Diego
+e353d60b-63c9-4f7d-83af-c2d4e1828fe4,Restaurant_e353d60b,Dessert,San Diego
+c78bd22e-97da-4caa-bed1-9985c5052441,Restaurant_c78bd22e,Fine Dining,Chicago
+8db0c445-da98-4a3e-8daa-c5411ce3b5a7,Restaurant_8db0c445,Bar,New York
+e2e37c84-019c-4bef-8b9c-da50dad4837e,Restaurant_e2e37c84,Fine Dining,New York
+bdbe7a99-0ea0-429d-933e-b67d16311f60,Restaurant_bdbe7a99,Fast Food,Chicago
+0dd83953-1924-4b54-8a2f-3368f8b3436a,Restaurant_0dd83953,Fast Food,New York
+3d59baaf-4be1-492c-b9a1-7d5f2285dc47,Restaurant_3d59baaf,Fast Food,New York
+f7d8324e-a65a-4ac9-a35a-91be65c3b2b6,Restaurant_f7d8324e,Fast Food,Phoenix
+b99e4889-e8a6-472c-a201-6769150ce70c,Restaurant_b99e4889,Fast Food,San Antonio
+4c80834b-94a9-467d-bc1e-841aae260f34,Restaurant_4c80834b,Italian,Phoenix
+262c285d-4e76-4302-847c-f9e622d9cd70,Restaurant_262c285d,Mexican,Houston
+2fdf3198-4a4f-49c8-97e5-0fe010f45f65,Restaurant_2fdf3198,Dessert,San Diego
+831d5764-b8e7-43ec-becb-06f70c1f3d4c,Restaurant_831d5764,Dessert,Chicago
+416b08eb-82a9-439a-a872-240872aa89d9,Restaurant_416b08eb,Fine Dining,San Antonio
+6680f466-84d5-4fd6-be89-e2912491fea2,Restaurant_6680f466,Fast Food,Chicago
+b7d856ef-3ba5-402d-bc00-dc617dd4a380,Restaurant_b7d856ef,Cafe,Chicago
+bb8a2ca8-f08f-42bd-af7a-02abbb5252bc,Restaurant_bb8a2ca8,Asian,San Diego
+14db0fb8-f006-432f-924b-8a295a6b53a8,Restaurant_14db0fb8,Mexican,Houston
+5c1b194a-b361-47f5-886e-25fb8a662478,Restaurant_5c1b194a,Bar,San Antonio
+9a46dc75-2ead-427a-8de2-47bd6b819016,Restaurant_9a46dc75,Fast Food,Los Angeles
+cf29acad-b978-4f3b-bfa0-df7061a60c57,Restaurant_cf29acad,Italian,Houston
+27c13225-cd2d-4f0b-8549-e9610cd16559,Restaurant_27c13225,Bar,Chicago
+7a6dc67a-e42c-4899-b38d-aa4a60cdef98,Restaurant_7a6dc67a,Mexican,Chicago
+86f27932-e9d4-4919-b341-9d8947124edf,Restaurant_86f27932,Dessert,New York
+8f16d4a9-08fe-43c2-a24b-1d015847a8ea,Restaurant_8f16d4a9,Mexican,Los Angeles
+e8e3a8e6-fbdd-4704-8ab6-c467d570655f,Restaurant_e8e3a8e6,Dessert,Chicago
+25425d10-dc04-4e22-9c44-c1ef0227365f,Restaurant_25425d10,Italian,San Antonio
+46083094-6325-4c87-be5e-50b425ada0a3,Restaurant_46083094,Bar,Philadelphia
+0b3823a7-3366-4f44-ae3e-99c5246a3504,Restaurant_0b3823a7,Italian,San Antonio
+3a8849bd-574a-49e1-bafe-a176b7f18377,Restaurant_3a8849bd,Fine Dining,San Diego
+b276dd41-18a4-466c-bbcc-efaf5260efa6,Restaurant_b276dd41,Bar,Philadelphia
+48d16a07-29d1-4089-a46c-098962c13efb,Restaurant_48d16a07,Mexican,San Antonio
+bc52a066-81fd-4ab9-a424-9af48b3de747,Restaurant_bc52a066,Fast Food,Phoenix
+4cce5b6e-c713-46cd-a51a-bc69b313eaf0,Restaurant_4cce5b6e,Dessert,Houston
+b3eabd81-e9e7-41de-8bca-dea7e6cfb73b,Restaurant_b3eabd81,Mexican,Phoenix
+bbd21150-9103-4af4-93b0-6d27bf336379,Restaurant_bbd21150,Bar,Phoenix
+4af5b40f-0d5d-4f4b-96ba-6c2bc6b284ca,Restaurant_4af5b40f,Fine Dining,New York
+2504b57c-508a-4799-8c4f-5f32c7d17144,Restaurant_2504b57c,Italian,Los Angeles
+f6a556fb-ce06-4032-bb68-5b53bfb6b4d6,Restaurant_f6a556fb,Italian,San Antonio
+235a174f-39eb-462d-b104-24c372fa29be,Restaurant_235a174f,Fine Dining,Philadelphia
+dc9f0804-7927-48aa-9cd1-c5f9f9ae4522,Restaurant_dc9f0804,Bar,Philadelphia
+068ba057-a399-476c-a71c-ec14611a58fb,Restaurant_068ba057,Mexican,Chicago
+a0202086-1fff-4d05-a75c-efccf86b780f,Restaurant_a0202086,Bar,Phoenix
+9f229a98-232a-4c83-ba05-c4f72ff7b0a3,Restaurant_9f229a98,Cafe,San Antonio
+92e0c41c-71cc-4636-850c-e000101a4b0e,Restaurant_92e0c41c,Asian,Phoenix
+d3389f31-afaa-47cb-b7be-fda33bf2554d,Restaurant_d3389f31,Bar,Houston
+faedc52c-1aec-46a4-8ab9-d66277791313,Restaurant_faedc52c,Bar,San Diego
+116a19a7-8f6e-418a-8da4-e364d8f3a788,Restaurant_116a19a7,Fast Food,Philadelphia
+b5c8f762-6c85-4167-a729-d3933f12082e,Restaurant_b5c8f762,Dessert,Phoenix
+ecbeb3ff-e588-4192-929e-be29c166da41,Restaurant_ecbeb3ff,Cafe,Philadelphia
+989fa2ec-6d6b-435f-a5d6-eb1be181228b,Restaurant_989fa2ec,Bar,Chicago
+748a75e7-db32-4d7f-a2d4-8a5247102ff6,Restaurant_748a75e7,Mexican,Houston
+793069d9-b2e2-4529-ac56-3ba53a4188ef,Restaurant_793069d9,Dessert,Chicago
+12ae0f04-2a42-465d-ad5a-addaa03807dd,Restaurant_12ae0f04,Mexican,
+a3e21df8-b267-4544-88f6-21ca22eb1619,Restaurant_a3e21df8,Bar,Philadelphia
+909f081a-7a22-43a9-918b-4b1ef0deda45,Restaurant_909f081a,Italian,Chicago
+89b47d66-fd66-43af-b6c1-b907cee31a1d,Restaurant_89b47d66,Bar,New York
+b0c66d49-8ea5-4a21-9032-3d7d50ca0445,Restaurant_b0c66d49,Mexican,Chicago
+88074e7c-20c2-4d81-a42b-ae2f3fa37796,Restaurant_88074e7c,Dessert,San Antonio
+3a8b7d6d-e03a-4f57-903a-2b628090498c,Restaurant_3a8b7d6d,Mexican,Los Angeles
+2bcd1004-8d53-46aa-b16e-ec90f8264a00,Restaurant_2bcd1004,Cafe,Houston
+c8a4bcbb-d729-4705-89a2-9f0600bbb750,Restaurant_c8a4bcbb,Asian,Los Angeles
+4a64dcb4-f09b-4dc0-8ab0-e04cedff6504,Restaurant_4a64dcb4,Italian,San Antonio
+0051afca-e766-4951-87ef-9ecb82c5493d,Restaurant_0051afca,Bar,Phoenix
+6aab3c01-87d7-4a2a-a0f7-6e8d7a35976d,Restaurant_6aab3c01,Italian,Chicago
+721f41c8-24f6-4cea-aa58-107c3c599dd2,Restaurant_721f41c8,Dessert,San Diego
+0e8f9769-3667-4702-a71b-fd8488a14926,Restaurant_0e8f9769,Italian,Houston
+c0b22ffd-9fcc-4fce-96e2-0939eed152bf,Restaurant_c0b22ffd,Cafe,Houston
+5820f6cb-2389-4b04-ab88-a95ded13385a,Restaurant_5820f6cb,Italian,Houston
+6fe64533-0ce1-4515-9382-90cedc725ed0,Restaurant_6fe64533,Fast Food,
+85f7a403-31f5-4205-80e6-e43ae138806c,Restaurant_85f7a403,Asian,Houston
+b0ba6957-6acb-4637-bf07-e3ef11d42b38,Restaurant_b0ba6957,Italian,Chicago
+bd494d8d-eec6-489a-ab27-c2975dcb8ab1,Restaurant_bd494d8d,Mexican,Phoenix
+23980b9b-9524-40ae-a178-74df85ffb689,Restaurant_23980b9b,Bar,Philadelphia
+24439ae2-b766-4fc2-8e9a-4599478ffeac,Restaurant_24439ae2,Bar,San Antonio
+c327e98c-189f-4245-ae2f-1c07feb1bf9c,Restaurant_c327e98c,Fine Dining,New York
+40273aeb-37aa-4189-b6e6-6c6c5b9730c8,Restaurant_40273aeb,Mexican,Los Angeles
+11d97991-eb7a-4199-93f8-ed5c6b2ccc70,Restaurant_11d97991,Cafe,Philadelphia
+d3fe607b-3da0-47d5-a5fd-e5d42b444fec,Restaurant_d3fe607b,Asian,Phoenix
+b579de24-ba50-48fa-b640-6eccaa8f25d7,Restaurant_b579de24,Fine Dining,Houston
+9b548db9-2444-49ee-abca-a0bf3ac11992,Restaurant_9b548db9,Dessert,San Antonio
+f41db0fb-20a9-4298-9b44-4e6547cf4bc3,Restaurant_f41db0fb,Italian,Phoenix
+6cce68d5-bfd5-4339-9b47-87bb0171a454,Restaurant_6cce68d5,Fast Food,San Antonio
+cdead4d5-d351-40d2-b02a-58fe5dfd3879,Restaurant_cdead4d5,Mexican,Los Angeles
+b57bc83d-21bb-4a3c-9a54-12ad455a6be1,Restaurant_b57bc83d,Cafe,Philadelphia
+4d6b0387-667f-4527-8c4c-11c4c2e4da58,Restaurant_4d6b0387,Mexican,Phoenix
+4eda8b77-551e-4cae-b850-bc64906c607c,Restaurant_4eda8b77,Cafe,San Diego
+c7fb9d7e-7b58-4bf3-81b0-af64335565e6,Restaurant_c7fb9d7e,Bar,San Diego
+08ba5b8c-cdae-4bc6-aa93-6ba6bd9b76e9,Restaurant_08ba5b8c,Fine Dining,Philadelphia
+44c1bc9d-e639-4f64-8af7-2eb551a058d9,Restaurant_44c1bc9d,Dessert,San Diego
+fc93c943-8c1a-4106-ad1a-b227b5578f75,Restaurant_fc93c943,Italian,San Diego
+6d8a3625-e213-4a58-ad0f-8be9129a0249,Restaurant_6d8a3625,Mexican,Phoenix
+e77fdf7d-1493-4644-b1ec-b93f763cc9cd,Restaurant_e77fdf7d,Mexican,San Antonio
+7104aa2b-ce76-4af1-a8e8-95eb7aa269c2,Restaurant_7104aa2b,Fine Dining,Houston
+ea96ce10-1d03-4008-a648-50836ac8d4da,Restaurant_ea96ce10,Asian,San Antonio
+5d587e9c-68e9-4171-9fcf-7a86fa465ea9,Restaurant_5d587e9c,Asian,New York
+af5d8f23-6525-469b-865d-dcd3b211bb4f,Restaurant_af5d8f23,Cafe,Houston
+9377d35f-e7ac-4a33-b782-4aeb4c06cf7c,Restaurant_9377d35f,Cafe,Los Angeles
+ffdd7f02-082e-437e-9145-1ebac1771b00,Restaurant_ffdd7f02,Bar,Philadelphia
+e9b7e1c5-c075-4318-85dd-b153cc08f3cc,Restaurant_e9b7e1c5,Mexican,Chicago
+c4d03a43-5da3-4697-a3b6-9c0018bf0960,Restaurant_c4d03a43,Dessert,Philadelphia
+54c77d45-14f2-4166-9273-f61de6ddd850,Restaurant_54c77d45,Asian,Houston
+47c748c0-be07-4dbc-9036-622f60eba413,Restaurant_47c748c0,Cafe,Chicago
+259bd1c3-0b04-43cd-bc1d-b77812d8a019,Restaurant_259bd1c3,Fine Dining,San Diego
+ebe0a68c-bbc2-460a-8026-1193180b8880,Restaurant_ebe0a68c,Fine Dining,Houston
+351c8c40-caf3-4ff7-9475-69f14d7b6836,Restaurant_351c8c40,Fine Dining,Phoenix
+0641a2bd-edfb-448a-83f1-babd103270e3,Restaurant_0641a2bd,Fine Dining,Houston
+287fa2ba-ce4a-488e-b531-030b3892fd99,Restaurant_287fa2ba,Fine Dining,Houston
+8061f47a-a069-42a1-b586-7a8d4cadc624,Restaurant_8061f47a,Asian,Chicago
+0328e9a3-1528-420b-a165-ab5ad91dfa4b,Restaurant_0328e9a3,Mexican,Los Angeles
+1fbd11f0-bd9b-44f0-a1e3-15b7e44e1209,Restaurant_1fbd11f0,Mexican,San Diego
+4e62f11b-b621-4e45-a4f2-9f8aca89ad03,Restaurant_4e62f11b,Italian,New York
+a8acd3e2-f855-4050-8651-3cae7bc32a17,Restaurant_a8acd3e2,Dessert,Philadelphia
+ccc79f8f-cd39-49b5-8e6f-3738b81c8639,Restaurant_ccc79f8f,Asian,San Diego
+f958729d-cc77-479a-8d54-295d6c1d7a67,Restaurant_f958729d,Cafe,San Diego
+2e52f83f-8763-4d43-9878-f3d5e1e03f24,Restaurant_2e52f83f,Fast Food,Phoenix
+6bcd422a-49d3-496d-9422-da8d551f9d9d,Restaurant_6bcd422a,Bar,Houston
+5c57fe7d-39f6-4390-bcb1-05d6b99e4fc2,Restaurant_5c57fe7d,Fast Food,New York
+16f5adb1-be44-4793-b63d-ddc3f1833865,Restaurant_16f5adb1,Bar,San Diego
+31d09fc6-aaf3-401a-8bb1-bdcbb1ecbad8,Restaurant_31d09fc6,Italian,Philadelphia
+17deb138-e4e8-429f-b8dd-293601ccb62e,Restaurant_17deb138,Bar,Chicago
+0f942783-cb64-41ae-8c17-47b1dd5251dc,Restaurant_0f942783,Dessert,Los Angeles
+cd52e54c-a944-419e-9774-b3070d2ff3e5,Restaurant_cd52e54c,Dessert,Philadelphia
+d2010bb7-d332-44f5-a087-9e079700e2bb,Restaurant_d2010bb7,Italian,New York
+497ac4a5-5e52-494d-8975-29d229a9470d,Restaurant_497ac4a5,Fine Dining,San Antonio
+d748a915-376e-41e5-9a49-d212585f57d4,Restaurant_d748a915,Mexican,Philadelphia
+af125b77-87bf-4518-ad0f-ebbab3dd735d,Restaurant_af125b77,Asian,Phoenix
+18d4e72a-4ce0-4ea0-8a50-47a05813c830,Restaurant_18d4e72a,Fast Food,Phoenix
+6d9adabe-a517-48ff-94e3-3362d0459832,Restaurant_6d9adabe,Fine Dining,Phoenix
+4fbc4195-7a70-4263-8832-c9b3890d726a,Restaurant_4fbc4195,Dessert,Philadelphia
+fca95be4-c974-4faa-a1c3-338316402c76,Restaurant_fca95be4,Asian,Chicago
+a2fb2be5-8b2a-4117-a21b-daa7978e3389,Restaurant_a2fb2be5,Dessert,San Antonio
+74bfe863-85a5-4992-bcf8-26722547ce18,Restaurant_74bfe863,Fine Dining,San Antonio
+96135a0e-b893-4bdd-9bea-b4678db45bf0,Restaurant_96135a0e,Asian,Philadelphia
+b0f82c7b-5127-4e51-bb20-6259e5d31453,Restaurant_b0f82c7b,Bar,Phoenix
+e20c4e5b-68a5-4345-a6b8-f030df09fdff,Restaurant_e20c4e5b,Dessert,Chicago
+f46d0a85-4ab3-4135-afff-a2a2b0d49a14,Restaurant_f46d0a85,Fast Food,Houston
+efafedf6-a0a8-43e5-9aed-b18c2aafe768,Restaurant_efafedf6,Mexican,Phoenix
+2058b625-4535-4041-97b7-ab7a352f5f0e,Restaurant_2058b625,Fine Dining,San Antonio
+a4327d3e-b384-41d2-95f8-dc995d82b036,Restaurant_a4327d3e,Bar,Houston
+ce454e16-a9e1-4710-9361-b9e9711e6de4,Restaurant_ce454e16,Fast Food,Chicago
+8be607cb-5d8a-4d03-be58-e1b09b80ee30,Restaurant_8be607cb,Dessert,New York
+f73ab772-1bbf-4726-b516-4802d8fa9915,Restaurant_f73ab772,Fast Food,San Antonio
+4efbb508-cb7e-4367-abce-79a568f00ad2,Restaurant_4efbb508,Dessert,Chicago
+fcc4a55f-9f6f-46ab-ba3d-027edde89ef5,Restaurant_fcc4a55f,Asian,San Diego
+4526198c-ff6e-4e8a-8a9f-8e860334407d,Restaurant_4526198c,Cafe,Phoenix
+4acba406-3a51-4f83-a651-35e7b6d7662e,Restaurant_4acba406,Italian,San Antonio
+a7efae82-6fe5-403c-a275-b9e033245fe1,Restaurant_a7efae82,Mexican,Chicago
+c6fba469-06b5-444c-b2d4-35595454457e,Restaurant_c6fba469,Italian,Houston
+5dc218e3-b17f-4a51-9662-69da6226261e,Restaurant_5dc218e3,Cafe,San Diego
+f5226c98-754a-451b-bf2e-fab2c45e482e,Restaurant_f5226c98,Mexican,San Diego
+24b2779c-7d7f-4a71-964f-7dcc59fbfa12,Restaurant_24b2779c,Asian,Phoenix
+cc56b8dd-5b5c-42fd-82ac-0c4056906aa6,Restaurant_cc56b8dd,Asian,Philadelphia
+b5089a71-b9fb-4936-bb03-bf7f9d15ab0f,Restaurant_b5089a71,Cafe,Philadelphia
+ce7b4ca8-aaa9-413c-a59a-fa1587c07e39,Restaurant_ce7b4ca8,Italian,San Antonio
+fcb079bd-3a9f-4caa-8521-53e34f443d88,Restaurant_fcb079bd,Mexican,Philadelphia
+ae40d136-f863-4fe2-bd09-b72f7613be7a,Restaurant_ae40d136,Fine Dining,Chicago
+42b66ad9-7f06-434f-b830-792531851b9e,Restaurant_42b66ad9,Cafe,Philadelphia
+7b806778-015d-4087-be9f-2d600cca76c9,Restaurant_7b806778,Asian,San Diego
+1e9fcb60-1a3a-43e4-81d8-2369ecc27e71,Restaurant_1e9fcb60,Dessert,Los Angeles
+413008d1-060d-4d2a-ac4a-5eb8b473ae5c,Restaurant_413008d1,Bar,Phoenix
+2d2141d0-6a16-44cf-80bd-d1d0bd46ca3d,Restaurant_2d2141d0,Dessert,Chicago
+212cac08-a712-42ac-8e07-62bec5b7ed08,Restaurant_212cac08,Fast Food,Philadelphia
+b129ccdc-2b0e-4880-b7bb-a3cf70444781,Restaurant_b129ccdc,Bar,San Antonio
+84dc2231-b7af-4201-b0d6-e6dc226b04da,Restaurant_84dc2231,Mexican,Los Angeles
+e911d03c-da17-4ce8-803c-6921f3458b59,Restaurant_e911d03c,Fast Food,Philadelphia
+38756ce3-cc13-4d53-bc13-08a5676782d2,Restaurant_38756ce3,Fine Dining,Philadelphia
+4a866544-03ff-4fd7-a35a-f072c4438025,Restaurant_4a866544,Asian,Phoenix
+6fe9f5ce-13eb-40c5-a2c3-cd2b09234da2,Restaurant_6fe9f5ce,Cafe,San Antonio
+efbf2a04-d3a3-48cd-b438-0d5cf4a1395c,Restaurant_efbf2a04,Cafe,San Diego
+c662a91c-dc6f-48af-8545-e9a1a85c9532,Restaurant_c662a91c,Asian,San Diego
+f4cd3efc-b096-470b-ba87-faa811d931a0,Restaurant_f4cd3efc,Bar,
+2778e0ea-d011-4e19-b170-0bb3abdabc0d,Restaurant_2778e0ea,Fast Food,New York
+bde01a47-7eb6-4b54-9d4d-9a608d4e1edd,Restaurant_bde01a47,Fast Food,Houston
+8fa6f078-180d-4a0f-8136-18320a39f465,Restaurant_8fa6f078,Cafe,Los Angeles
+b97ad6c1-3b9a-42fa-9276-4c47134542fe,Restaurant_b97ad6c1,Fine Dining,Chicago
+3a23cb71-b9f9-47a8-8473-938c76bcc49b,Restaurant_3a23cb71,Bar,Los Angeles
+aba777b3-9a96-413f-b8e0-b0291beb1130,Restaurant_aba777b3,Mexican,Los Angeles
+d3532df6-553c-4b6b-be72-e5a670db9516,Restaurant_d3532df6,Dessert,New York
+abf24ef0-c95f-4da2-854c-4b257345eb53,Restaurant_abf24ef0,Italian,San Antonio
+d3f289cd-c548-4ce4-81b2-86e28d75e7bb,Restaurant_d3f289cd,Mexican,Los Angeles
+9532abe8-d22c-4a29-b21d-a8bbeade78e2,Restaurant_9532abe8,Cafe,Chicago
+d017ba11-330c-4c6e-8efd-d51cad04e2f1,Restaurant_d017ba11,Mexican,San Antonio
+dafe14a5-d207-4677-bfce-53df8b808938,Restaurant_dafe14a5,Cafe,Houston
+49566d57-f251-48cd-93c3-4b971d56a1e3,Restaurant_49566d57,Fine Dining,Phoenix
+fdef0f78-c29e-4083-baa9-90a72e3b99bc,Restaurant_fdef0f78,Dessert,Chicago
+372c25a7-dec8-430d-af9e-aaeb668ce9fe,Restaurant_372c25a7,Fast Food,Chicago
+1ccbcf10-ea02-4d14-9547-183f4851f5ae,Restaurant_1ccbcf10,Italian,New York
+27cf5bf1-ceed-4a93-aedf-7311cf44e0f4,Restaurant_27cf5bf1,Asian,Philadelphia
+a6a7acef-6002-40b8-815d-56c308832810,Restaurant_a6a7acef,Dessert,San Diego
+3b16a04b-1e98-46a0-a4c2-59163766911e,Restaurant_3b16a04b,Cafe,
+ae1ebf09-0b54-4c6e-9a9a-61f49c38334d,Restaurant_ae1ebf09,Fast Food,Chicago
+8d8193e3-9f07-4a2e-beac-2169a8971b91,Restaurant_8d8193e3,Dessert,San Antonio
+da632a13-871a-4d5f-98ef-7777f5517a3c,Restaurant_da632a13,Cafe,Philadelphia
+2de8874f-437f-4390-aa8f-b65af0e1faf3,Restaurant_2de8874f,Dessert,Houston
+5229323e-bd19-4f43-8a25-0985c6fff3c1,Restaurant_5229323e,Mexican,San Diego
+5130cbfb-8bde-4c6b-96d5-13118b3a88e6,Restaurant_5130cbfb,Cafe,Philadelphia
+13423e2b-e44d-4b4d-8157-b8571c3b8b8e,Restaurant_13423e2b,Bar,Phoenix
+4c8c31b3-193e-44e6-b49f-f7608b443307,Restaurant_4c8c31b3,Fast Food,Phoenix
+9474b253-0be0-4793-8c6e-c31c696b0908,Restaurant_9474b253,Italian,New York
+c0e4b26d-7a51-4e2a-bde2-d712e512a80e,Restaurant_c0e4b26d,Fast Food,Philadelphia
+d1d96470-e373-4072-a74e-cb34efc91b6e,Restaurant_d1d96470,Cafe,San Diego
+1f90beca-2510-4013-9919-db4267695fde,Restaurant_1f90beca,Italian,San Diego
+f059a721-b7ad-45d4-a10a-7f0fdbbb2811,Restaurant_f059a721,Dessert,Phoenix
+f79f2608-9719-4fc0-a299-4b6dcca2f610,Restaurant_f79f2608,Italian,San Antonio
+9b8761a2-93b3-46f9-bf8e-1beaeb47f1ac,Restaurant_9b8761a2,Cafe,Houston
+0d9e3136-2b8c-4bfd-bc98-32e3393e4c05,Restaurant_0d9e3136,Italian,Philadelphia
+9e530f80-abb9-48b8-90f8-41d483bb2899,Restaurant_9e530f80,Fine Dining,San Antonio
+eca8946b-546f-42f1-8902-f997b4885ccb,Restaurant_eca8946b,Bar,San Antonio
+7eefd169-fd5f-4d5e-8cf4-9b87d783b7f0,Restaurant_7eefd169,Fine Dining,Chicago
+c6cdd394-8380-4a4e-a884-fadf00f4fd0e,Restaurant_c6cdd394,Bar,San Antonio
+b89f4208-04d4-410f-9fc1-3820b48ea4c2,Restaurant_b89f4208,Fine Dining,
+e54388de-f4be-4f39-a11e-ef0823dccfa4,Restaurant_e54388de,Mexican,San Antonio
+f7389260-6e10-4911-bff6-4be3c71eba91,Restaurant_f7389260,Fine Dining,Phoenix
+73cefe71-a1f4-42d9-9798-43647f849ee7,Restaurant_73cefe71,Cafe,Phoenix
+38e41ae8-df7c-4fcc-854f-cfec39da1709,Restaurant_38e41ae8,Bar,Houston
+475b9199-4fe1-48cf-8509-59218873564b,Restaurant_475b9199,Mexican,Chicago
+99407721-a872-41b2-994d-b6c452b4957d,Restaurant_99407721,Fast Food,Phoenix
+8b9f7275-208b-4368-b827-e74be40a5fe7,Restaurant_8b9f7275,Mexican,San Diego
+6264b8d7-82c4-4a31-82a9-fda6ba485d15,Restaurant_6264b8d7,Dessert,Phoenix
+63ede4f9-4943-421e-a951-54077867da26,Restaurant_63ede4f9,Dessert,Houston
+42552d81-f205-48d4-bf43-595fa626ce39,Restaurant_42552d81,Asian,New York
+84bef5f4-9dbf-4838-ab04-bdc41413cc29,Restaurant_84bef5f4,Fast Food,New York
+5c53db94-b627-4de0-b860-c62ca3de4005,Restaurant_5c53db94,Italian,Chicago
+7edfd481-5c85-45ad-b6a3-0a2382bcc153,Restaurant_7edfd481,Mexican,Phoenix
+f15a27f1-dc68-4418-a35a-5e6d006712d6,Restaurant_f15a27f1,Cafe,Chicago
+62b566c5-5834-424f-abd8-f278f5b5ca14,Restaurant_62b566c5,Dessert,
+e78c663c-56aa-4dfb-9298-0a16627b2e26,Restaurant_e78c663c,Fine Dining,Los Angeles
+fd52df32-2c97-4a9a-a6fa-b489e03e3396,Restaurant_fd52df32,Fast Food,New York
+ff371095-6116-4faa-9a5b-cc7c7ddf8c38,Restaurant_ff371095,Dessert,Houston
+02f3a228-f6f2-4b76-a97e-5b7067856c90,Restaurant_02f3a228,Asian,San Antonio
+221c7ad1-8927-4484-8f88-23c82032879b,Restaurant_221c7ad1,Cafe,San Diego
+160ca856-0046-40af-9c8c-bbaf8e0423bb,Restaurant_160ca856,Asian,San Diego
+81cb4f3c-8ee2-4249-8942-e3009ab45ddd,Restaurant_81cb4f3c,Italian,Philadelphia
+d3322e28-e703-4a9c-880f-1050a6a14e12,Restaurant_d3322e28,Mexican,Chicago
+6e012603-6088-45d2-b00b-354e593c4999,Restaurant_6e012603,Italian,Phoenix
+91b6df0e-5400-4d3b-9a80-228d2c18c8ae,Restaurant_91b6df0e,Bar,Los Angeles
+0ccaabc0-296a-47c4-8691-27488c9a51b4,Restaurant_0ccaabc0,Dessert,Chicago
+93e57c87-b02f-442b-adf6-0860185e1899,Restaurant_93e57c87,Fine Dining,Phoenix
+3a3aff11-bf0a-4d80-a576-02428126a97d,Restaurant_3a3aff11,Bar,New York
+391396ee-48fa-402b-b8da-75b7bc3ff73c,Restaurant_391396ee,Mexican,Houston
+69afd2f2-231a-4e9b-ad22-4a9484db9749,Restaurant_69afd2f2,Bar,San Diego
+72b6e6e4-ec40-4a3e-8637-4ca94615e20f,Restaurant_72b6e6e4,Fine Dining,New York
+82479319-d461-41c0-9160-fc1c903e21e2,Restaurant_82479319,Fine Dining,San Diego
+e9f809df-7f29-4d3d-9bde-9bce481da32c,Restaurant_e9f809df,Mexican,Houston
+ffb383d3-a460-4f13-a390-880138b710a7,Restaurant_ffb383d3,Dessert,San Antonio
+6d358686-ace9-4eed-a919-12e405ff7128,Restaurant_6d358686,Cafe,Philadelphia
+1eda5196-1dc2-4f00-bbba-a5216063a992,Restaurant_1eda5196,Fast Food,New York
+ba0a82bf-e015-4373-aaaf-077dcaf4a1df,Restaurant_ba0a82bf,Mexican,Phoenix
+4c6d2d60-63c2-4f1d-892e-a43e28bdd74b,Restaurant_4c6d2d60,Dessert,Phoenix
